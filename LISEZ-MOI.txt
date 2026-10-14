@@ -1,0 +1,22 @@
+MON BRIEFING D'ACTUALITÉ POUR THUNDERBIRD
+
+Contenu :
+- index.html : page d'accueil et bouton d'actualisation
+- build_news.py : collecte des titres de Google Actualités via RSS
+- news.json : fichier produit par la collecte
+- .github/workflows/update.yml : collecte toutes les deux heures via GitHub Actions
+
+INSTALLATION (GitHub Pages)
+1. Créer un dépôt GitHub public, puis y ajouter les fichiers de ce dossier en conservant .github/workflows/update.yml.
+2. Dans le dépôt : Settings > Actions > General > Workflow permissions : autoriser Read and write permissions, si nécessaire.
+3. Onglet Actions > Mise à jour des actualités > Run workflow pour produire news.json.
+4. Settings > Pages > Build and deployment : Deploy from a branch, branche main, dossier / (root).
+5. Après publication, ouvrir l'adresse https://VOTRE-IDENTIFIANT.github.io/NOM-DU-DEPOT/
+6. Copier cette adresse dans les paramètres de page de démarrage de Thunderbird.
+
+IMPORTANT
+- Le bouton recharge les données hébergées, sans déclencher directement la collecte RSS.
+- GitHub Actions collecte automatiquement environ toutes les deux heures (l'horaire peut varier).
+- Les flux RSS donnent principalement des TITRES et des liens, pas des résumés vérifiés.
+- La page est à tester dans votre version de Thunderbird, car le moteur intégré peut limiter l'exécution de JavaScript ou l'ouverture de liens.
+- Les titres peuvent contenir des doublons, de la publicité éditoriale ou des biais de sélection.

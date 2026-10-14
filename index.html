@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Mon briefing — Thunderbird</title>
+<style>
+:root{color-scheme:light;font-family:Arial,Helvetica,sans-serif;color:#202c38;background:#f2f5f7}*{box-sizing:border-box}body{margin:0;padding:20px;max-width:1160px;margin-inline:auto}header{display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap;margin-bottom:20px}h1{font-size:25px;margin:0 0 6px}small,.muted{color:#687785}button{background:#175a88;color:white;border:0;border-radius:7px;padding:11px 17px;font-weight:bold;cursor:pointer}button:disabled{opacity:.5}#status{font-size:13px;color:#576877;margin-bottom:18px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.panel{background:white;border:1px solid #dbe3e9;border-radius:10px;padding:18px}h2{font-size:18px;margin:0 0 12px;border-bottom:2px solid #e8eef3;padding-bottom:10px}ul{padding:0;margin:0;list-style:none}li{padding:10px 0;border-bottom:1px solid #edf0f3}li:last-child{border:0}a{color:#124e79;text-decoration:none;font-weight:600}a:hover{text-decoration:underline}.meta{font-size:12px;color:#73818d;margin-top:4px}footer{font-size:12px;color:#657480;margin-top:18px;line-height:1.5}@media(max-width:730px){.grid{grid-template-columns:1fr}body{padding:12px}}
+</style></head><body>
+<header><div><h1>Mon briefing d'actualité</h1><div class="muted">L'essentiel, sans surcharge</div></div><button id="refresh" type="button">↻ Actualiser les nouvelles</button></header>
+<div id="status" role="status">Chargement des informations…</div><main id="news" class="grid"></main>
+<footer>Les titres proviennent de Google Actualités (flux RSS). Ils sont sélectionnés automatiquement : leur exactitude et leur neutralité ne sont pas garanties. Consultez les sources avant de conclure. Le bouton recharge les dernières données publiées ; leur collecte est programmée toutes les deux heures.</footer>
+<script>
+const categories=['Suisse & Monde','Horlogerie','Sciences & Technologies','Économie'];
+const main=document.getElementById('news'),status=document.getElementById('status'),btn=document.getElementById('refresh');
+function node(tag,txt,cls){const e=document.createElement(tag);if(txt!==undefined)e.textContent=txt;if(cls)e.className=cls;return e}
+async function refresh(){btn.disabled=true;status.textContent='Actualisation de la page…';try{
+ const response=await fetch('./news.json?cache='+Date.now(),{cache:'no-store'});if(!response.ok)throw new Error('Données indisponibles ('+response.status+')');
+ const data=await response.json();main.replaceChildren();
+ for(const name of categories){const section=node('section',undefined,'panel');section.append(node('h2',name));const list=node('ul');const entries=(data.categories||{})[name]||[];
+ if(!entries.length){list.append(node('li','Aucun titre disponible pour le moment.'));}
+ for(const item of entries){const li=node('li');const a=node('a',item.title);if(/^https:\/\//.test(item.url)){a.href=item.url;a.target='_blank';a.rel='noopener noreferrer'}li.append(a);if(item.source)li.append(node('div',item.source,'meta'));list.append(li)}section.append(list);main.append(section)}
+ const date=new Date(data.updated);status.textContent='Dernière collecte : '+(isNaN(date)?'inconnue':date.toLocaleString('fr-CH'))+' · Dernière vérification : '+new Date().toLocaleTimeString('fr-CH');
+ }catch(e){status.textContent='Impossible de charger les actualités : '+e.message+'. Vérifiez que la page est hébergée et que news.json existe.'}finally{btn.disabled=false}}
+btn.addEventListener('click',refresh);refresh();
+</script></body></html>
