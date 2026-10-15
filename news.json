@@ -1,13 +1,7 @@
 {
-  "updated": "2026-10-15T16:42:50+00:00",
+  "updated": "2026-10-15T18:48:21+00:00",
   "categories": {
     "Suisse & Monde": [
-      {
-        "title": "RTS Info: suivez l'actualité suisse et Internationale en direct",
-        "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1KUi1qaXctUHgzQU54bHV3aF9zVFVrYlVuZ19pMVlxZHJpUHlENDRwSGdOa0tfOGxkYUhBSA?oc=5",
-        "source": "rts.ch",
-        "published": "Wed, 14 Oct 2026 14:10:18 GMT"
-      },
       {
         "title": "Genève: près de 40 millions pour la solidarité internationale",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemg4djdLZkQya1NwUl9mQVM3T09ybFNYSkpXNnlJOThfdTRpRHNRU1dCZXRZQ3lELVdXOGtXdUVPcVR3NEZ6UWdOQjJUcHRtRXpjcmZ6dlVtN2t3TGpCeU9EYTBOVTVfWGZseFRXdm9tQzRXNkdoampNa0NSYS1FMVd4S2p2SmZjQ05MNS1QbGRlbnhkNlVmek1BazUxWkk?oc=5",
@@ -49,6 +43,12 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG5hX1NBclpJc01TaVZXa05jZzFETVh3NE5hWGU2MExXaWlIbVBBTkRtUU0tYVBJWG95WTJrVUpRMGhZU1B1ZlNYYzZOWHdzdzYxTTF5SkQ0dDNKNnUzay0tQWg2RHpkaEVsZVkwWnpta3l5YnJtWXpLRy1Rd25RdExvNWVKV0pSWXVRTkI1QTFaS1hrVmE4OWFJVGZaQjNwV2FmZUhCUTF3VTBOSWtzaDV3?oc=5",
         "source": "Watson",
         "published": "Thu, 04 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Excès de cholestérol : La cardiologie suisse pilote les nouvelles recommandations internationales sur la prise en charge des dyslipidémies",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDhkSVVpYnEtTUFiSTRxZmJYOWdTOUltNjhtV0Y1aXpNRldKZXRCQUJCWDk0dm53QmU1MTNEbmFXRVdyWG8zMVE3SndtRHZwZVpla1hCZ1VZMkZxWFlWUkFISGN0Tmx0T0o5R3hYTGl4eTI4MThBd1pObkNKWlhpcmR1YXA3WE1qVzc0UUFmMUM0M0ZFZE1vWkVjbnNUNzNDRlRLYmtnWU81ZnJJWmh2VTFQX3BiZ09Jemc?oc=5",
+        "source": "HUG - Hôpitaux universitaires de Genève",
+        "published": "Mon, 03 Nov 2025 08:00:00 GMT"
       }
     ],
     "Horlogerie": [
