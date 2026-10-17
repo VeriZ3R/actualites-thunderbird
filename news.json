@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T04:39:19+00:00",
+  "updated": "2026-10-17T06:46:27+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -7,12 +7,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemg4djdLZkQya1NwUl9mQVM3T09ybFNYSkpXNnlJOThfdTRpRHNRU1dCZXRZQ3lELVdXOGtXdUVPcVR3NEZ6UWdOQjJUcHRtRXpjcmZ6dlVtN2t3TGpCeU9EYTBOVTVfWGZseFRXdm9tQzRXNkdoampNa0NSYS1FMVd4S2p2SmZjQ05MNS1QbGRlbnhkNlVmek1BazUxWkk?oc=5",
         "source": "Rhône FM",
         "published": "Tue, 13 Oct 2026 10:52:37 GMT"
-      },
-      {
-        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
-        "source": "Le Temps",
-        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "La Genève internationale a besoin d’une Suisse neutre",
@@ -33,10 +27,10 @@
         "published": "Sat, 27 Jun 2026 04:45:25 GMT"
       },
       {
-        "title": "Situation en Israël et dans le Territoire palestinien occupé",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWlpUWndVRFIyR3RQdWNiVU9iOVNodkgtRGd4alg3MTFld2xTS2dHYjdMS0xsS1hZMUoyWmdxMUpKSTNfQzVRS2dENV9GSmFpV2I5SDBOZ3NBdDhZYVlSMV9KeEg?oc=5",
-        "source": "eda.admin",
-        "published": "Tue, 17 Feb 2026 14:29:46 GMT"
+        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "La Suisse simplifie sa coopération financière internationale",
@@ -45,10 +39,16 @@
         "published": "Thu, 04 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "La Suisse est-elle encore un médiateur international digne de confiance?",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMWp6cDNWejE3LUdwUVdabEJNUTEzZC1FYzB1bUY4UUowSDBlUjFETXRac1hRQWI1WTloenRicWhvSEh4a281N3l6bURVbFhVaU1UWmFDSWdWS2R2SG5EUlpoamp3VG5EMFh4VWVZZHJSX28ydmJHQ3B5RjIxRllaQVBsMkZSMW1nYjJkQVpCcmgwM08tNDYyXy1nc1U1dDk3NGRzN05UN05jYW01aGNDNFdGbVZ4VUFKaGNtSjBZaGFwQkp6TmNOT3ZIWEdwOGM?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Mon, 16 Mar 2026 07:00:00 GMT"
+        "title": "Une BD apprend aux jeunes Suisses à comprendre l’IA et le rôle de la Genève internationale",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDVMNXNQQ2FKZEgteWRVMHZoWjQzOVk1ZS1xVy1DTG83U3lFbnVoSE50N0F0MHR4cFlTLXRjdWk0dnVTZ3pIYjZRdFhVeTI0VF9ZT1lLZnRzZjJ6ZkVjLUNhd2ZGclU0OEpSNHVBWFFhWkRWSHdvYVhyN1BYNWhKaEhjNXVrNTl0YVo5M09kbmdCeVZUOEhuMUVmV1RDSUJNbFAtRFNTNVZOSFNQTkhudDhkLWE2UTA2S2t2NjZxMjcyY2xfVXc?oc=5",
+        "source": "Le Temps",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Incendie de Crans-Montana en Suisse: une nouvelle accusée identifiée dans l'enquête",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGN6NG53RWZNWjl0djZmcVFXOGoteHR0Ym02eDdZX1g0QjBCTFBNdXRONXhXX29vZzJDYmNSNFhaeUNla0wwOHNrZ25OVzNJUFp1QmZNV2dHZ0NWSFdLUkN6RXVTUm9LdjJyNHRtSTZRZ1EtNWVIcVJKSmtTMW5fY1NvbGxvQ0tXeWVzRF9lQXBsTlp4MUpCMkdZazk5MHFzSFpQXzhfSzU2S0xRX1gyNWNfQmtWQkphU09OMA?oc=5",
+        "source": "TVA Nouvelles",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
       }
     ],
     "Horlogerie": [
@@ -95,10 +95,10 @@
         "published": "Fri, 07 Nov 2025 08:00:00 GMT"
       },
       {
-        "title": "LVMH s’invite au capital de La Joux-Perret pour renforcer son ancrage horloger en Suisse",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGRFeVNseTBRYlN1eWhBZk9iWml4bElfcFFKWnRPUHBQVi1yZDh2TlViTS1wZGhXekdMVkhXRDhTM2dGUEZfdi00Ymw3MVpJVVNTT1dqd2RnTzNqenYtNGZ6Vk5VOU1uYTVhWjU5dlJaQ3VndTFEZDRmbk0weVJXT2w3ZnhxYjd6RE9veW02NENkbWIzNFBNRHFIcEpRMHZNeFJ2TFpRMmEzdTB1S0VJOVkzNDdsaVpDTGfSAb8BQVVfeXFMTWRCdnRPTVlYRGNzMTJrY212bGZEN29kcHBfODN2cnBwSUszOFhDSmExRDVveTNFckp2djRPSGxwZGNfem1OX2NSTnZJaVFlb3dDc19JRTRsenNyZmNSbDc2anFiT01sWXVSd2x1c2dLZkd2QW1qd3hFcDB3UTF6bjVUaS15X25YNFdweWcwMEVZdVJPdjZ2LS1heDFucmVhZG9WQjdhZ2VwWmNxYWVGUXZZN0pUNmE1LVdSdVFYWjQ?oc=5",
-        "source": "Journal du Luxe",
-        "published": "Thu, 13 Nov 2025 08:00:00 GMT"
+        "title": "Zenith révolutionne l'oscillateur",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zQjNseVVtUVlLZDhqdmtPVGFTVUZzXzB4MVdfeUZ4amZlSXJhbmI1Yy1LUmJ3NDQyU2tMak5WZWVEdzhWaXY5ZmFNRU1lejhjOXpCZ1lCY2FNcmIzdFRScg?oc=5",
+        "source": "Federation of the Swiss Watch Industry",
+        "published": "Thu, 21 Sep 2017 07:00:00 GMT"
       }
     ],
     "Sciences & Technologies": [
