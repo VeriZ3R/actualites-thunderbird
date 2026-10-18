@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T22:34:43+00:00",
+  "updated": "2026-10-18T00:51:47+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -95,10 +95,10 @@
         "published": "Fri, 07 Nov 2025 08:00:00 GMT"
       },
       {
-        "title": "Zenith révolutionne l'oscillateur",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zQjNseVVtUVlLZDhqdmtPVGFTVUZzXzB4MVdfeUZ4amZlSXJhbmI1Yy1LUmJ3NDQyU2tMak5WZWVEdzhWaXY5ZmFNRU1lejhjOXpCZ1lCY2FNcmIzdFRScg?oc=5",
-        "source": "Federation of the Swiss Watch Industry",
-        "published": "Thu, 21 Sep 2017 07:00:00 GMT"
+        "title": "LVMH s’invite au capital de La Joux-Perret pour renforcer son ancrage horloger en Suisse",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGRFeVNseTBRYlN1eWhBZk9iWml4bElfcFFKWnRPUHBQVi1yZDh2TlViTS1wZGhXekdMVkhXRDhTM2dGUEZfdi00Ymw3MVpJVVNTT1dqd2RnTzNqenYtNGZ6Vk5VOU1uYTVhWjU5dlJaQ3VndTFEZDRmbk0weVJXT2w3ZnhxYjd6RE9veW02NENkbWIzNFBNRHFIcEpRMHZNeFJ2TFpRMmEzdTB1S0VJOVkzNDdsaVpDTGfSAb8BQVVfeXFMTWRCdnRPTVlYRGNzMTJrY212bGZEN29kcHBfODN2cnBwSUszOFhDSmExRDVveTNFckp2djRPSGxwZGNfem1OX2NSTnZJaVFlb3dDc19JRTRsenNyZmNSbDc2anFiT01sWXVSd2x1c2dLZkd2QW1qd3hFcDB3UTF6bjVUaS15X25YNFdweWcwMEVZdVJPdjZ2LS1heDFucmVhZG9WQjdhZ2VwWmNxYWVGUXZZN0pUNmE1LVdSdVFYWjQ?oc=5",
+        "source": "Journal du Luxe",
+        "published": "Thu, 13 Nov 2025 08:00:00 GMT"
       }
     ],
     "Sciences & Technologies": [
@@ -159,22 +159,28 @@
         "published": "Thu, 18 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEd2RVdVbUpmZTBXVjNEc2Z5dDN3X3h4N2d2OTJXdGZpQVVDQzFfSnZZazFVZE9DMXhrdGRnZVJKNnAzdzh5cm9vb3EyUVF4Yk4tRDlVZ04zZzdzbTdCRndNNlpOYmhxME91V3F4Qm5lYkpNTHNFOGFLdU1OZHhwNkRoQjVCbmZJOTh0MlJmc1Z3WURBWjV0RzF2VnYtVFhOdGNGZEdtNzlsMVMtOFZfWEJsWE4?oc=5",
-        "source": "Watson",
-        "published": "Fri, 21 Aug 2026 07:00:00 GMT"
-      },
-      {
         "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
         "source": "SWI swissinfo.ch",
         "published": "Fri, 19 Jun 2026 07:00:00 GMT"
       },
       {
+        "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEd2RVdVbUpmZTBXVjNEc2Z5dDN3X3h4N2d2OTJXdGZpQVVDQzFfSnZZazFVZE9DMXhrdGRnZVJKNnAzdzh5cm9vb3EyUVF4Yk4tRDlVZ04zZzdzbTdCRndNNlpOYmhxME91V3F4Qm5lYkpNTHNFOGFLdU1OZHhwNkRoQjVCbmZJOTh0MlJmc1Z3WURBWjV0RzF2VnYtVFhOdGNGZEdtNzlsMVMtOFZfWEJsWE4?oc=5",
+        "source": "Watson",
+        "published": "Fri, 21 Aug 2026 07:00:00 GMT"
+      },
+      {
         "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
         "source": "Le Temps",
         "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
+        "source": "24 Heures",
+        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "« On met un pied de plus à l’international » : leader de la location d’engins de levage, l’entreprise lot-et-garonnaise Acces Industrie investit en Suisse",
@@ -187,12 +193,6 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXVROVY4dklybDdaZUpyN3lrNzJsclhfS0pYWTlvNmtRbEVNSEQ4UWpuaUpBajRTSWVVRk1HaTl1S0RMQjRFcXlna05zSWpyaFpFcDRoLWJKcHotM2tweVdidGM0WThoRG8ydGJXUVl5Y0xyWU05QmhBajBPWnhJYjB2REJ5NldCdnZQV0ZETThKOERubUFXNlY2UW1IMW9vRDdUcWp2UkpsaWxySnJDeXNsSk8?oc=5",
         "source": "Watson",
         "published": "Sat, 04 Jul 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
-        "source": "24 Heures",
-        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "Suisse - Veille économique et financière du 5 au 10 septembre",
