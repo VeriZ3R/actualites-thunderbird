@@ -1,15 +1,206 @@
 {
-  "updated": "2026-10-19T12:51:28+00:00",
+  "updated": "2026-10-19T14:45:43+00:00",
   "categories": {
-    "Suisse & Monde": [],
-    "Horlogerie": [],
-    "Sciences & Technologies": [],
-    "Économie": []
+    "Suisse & Monde": [
+      {
+        "title": "Genève: près de 40 millions pour la solidarité internationale",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemg4djdLZkQya1NwUl9mQVM3T09ybFNYSkpXNnlJOThfdTRpRHNRU1dCZXRZQ3lELVdXOGtXdUVPcVR3NEZ6UWdOQjJUcHRtRXpjcmZ6dlVtN2t3TGpCeU9EYTBOVTVfWGZseFRXdm9tQzRXNkdoampNa0NSYS1FMVd4S2p2SmZjQ05MNS1QbGRlbnhkNlVmek1BazUxWkk?oc=5",
+        "source": "Rhône FM",
+        "published": "Tue, 13 Oct 2026 10:52:37 GMT"
+      },
+      {
+        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Cette ex-diplomate de l'ONU tire la sonnette d'alarme sur l'avenir de la Genève internationale",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFV5Uk04NlkyMjZ3NV9ybERINVBEY2toLVdORU0yaWdxQXpYTVk2UnF6RnVxSGJmRmJjdFRZWlVvaVJhWlZWNHlqbEdIRkNWUU1kMkdqbjN1MHJGcE1HN1hwVlNqUnpDUHJOd1dlQlFDQ3hyZUx0WU05eWxfaFpuU19CMUZPdWFMYlowN0MtYnlOQjRF?oc=5",
+        "source": "Tribune de Genève",
+        "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "La Genève internationale a besoin d’une Suisse neutre",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzNYTE9la25jMzA5Zk1JbXA0eDRsSjBxcXlDZkRIR2FLTWZjNUUtTTJJUWZ1aERNWUtfaW1MZFdNSXBkcm9ma3czUk1OVmt5Y3lOX1dOdmdlYnREZDNmeURzdjgtMXJ0MHA4Z2lkRW5XUDJXMUwzVWxwbGQyX0tmdGxKZTBtTHdvc1VrNlFWVVptbjJiSXk2QVYzc1dvSUVDTlpZb01CQ1FKUGc?oc=5",
+        "source": "UDC Suisse",
+        "published": "Wed, 23 Sep 2026 04:52:36 GMT"
+      },
+      {
+        "title": "Le médecin albanais de Suisse, Dr Agron Abrashi, honoré par le Rotary International",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmxuRVh5STRYNlhNUFBaZHFyUzJIRVRCbmREMndmUU9rUElzVU5tZWY1dmlwd1I0Yzc1ZndLa0JHd2RvWklZRnd0RjFHbXVKY2F3Y2MzUWVwRFktSnZja0lKRmtMX1JENk05aktaQ1VCOHo1SG8tR083bm01OFItY2U5bWlLV3ZFMEVFbDF2ZDZpb2FFQldiM3RpYm5nUDJBZ2g3MTV3?oc=5",
+        "source": "Albinfo",
+        "published": "Thu, 15 Oct 2026 17:13:06 GMT"
+      },
+      {
+        "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
+        "source": "Le Nouvelliste",
+        "published": "Sat, 27 Jun 2026 04:45:25 GMT"
+      },
+      {
+        "title": "La Suisse simplifie sa coopération financière internationale",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG5hX1NBclpJc01TaVZXa05jZzFETVh3NE5hWGU2MExXaWlIbVBBTkRtUU0tYVBJWG95WTJrVUpRMGhZU1B1ZlNYYzZOWHdzdzYxTTF5SkQ0dDNKNnUzay0tQWg2RHpkaEVsZVkwWnpta3l5YnJtWXpLRy1Rd25RdExvNWVKV0pSWXVRTkI1QTFaS1hrVmE4OWFJVGZaQjNwV2FmZUhCUTF3VTBOSWtzaDV3?oc=5",
+        "source": "Watson",
+        "published": "Thu, 04 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Excès de cholestérol : La cardiologie suisse pilote les nouvelles recommandations internationales sur la prise en charge des dyslipidémies",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDhkSVVpYnEtTUFiSTRxZmJYOWdTOUltNjhtV0Y1aXpNRldKZXRCQUJCWDk0dm53QmU1MTNEbmFXRVdyWG8zMVE3SndtRHZwZVpla1hCZ1VZMkZxWFlWUkFISGN0Tmx0T0o5R3hYTGl4eTI4MThBd1pObkNKWlhpcmR1YXA3WE1qVzc0UUFmMUM0M0ZFZE1vWkVjbnNUNzNDRlRLYmtnWU81ZnJJWmh2VTFQX3BiZ09Jemc?oc=5",
+        "source": "HUG - Hôpitaux universitaires de Genève",
+        "published": "Mon, 03 Nov 2025 08:00:00 GMT"
+      }
+    ],
+    "Horlogerie": [
+      {
+        "title": "Pourquoi le Japon gagne la bataille des montres",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
+        "source": "PME Magazine",
+        "published": "Tue, 16 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Changements à la direction de La Joux-Perret",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFQ5cmwxbUJheGZ4LUkyOEZfbkNnanh2aGpVVTI5LUc1ZF9XNWJmUHBXcVdwaG81RGIwSkdzLVBKalFkeXo0ZGFpZVozVHRuYk95b0FVblRlUHYxd2pta1l1N08ydDA5WE1uNnI5Z0dOaTFEM2NCYU5QcUJhblZPQ0xBM2pIMF9CZFhody1rT3B6NFhyNWhQa0hn?oc=5",
+        "source": "Europastar.ch",
+        "published": "Sun, 22 Mar 2026 12:52:59 GMT"
+      },
+      {
+        "title": "LVMH investit dans la manufacture horlogère neuchâteloise La Joux‑Perret",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnhWRTdoWUVtZ2pYanAzVmY4UFdiQkMxTGFXd0MyT1pBblkwa3ktWGVaTmRHYW0xQnJ0WWdwb004Qmh3R2RSU2FtaHp5MWM1MVE3WWZ5RzllRUdPdzg3LWxJQW5xTXR3NlRNY3JFb0dYTG5FNHkyazRscjRLMnUtVEhTamFERWJ0ck1UUmN2ekZaLWtQZjFaOE1yZUozaWhmYzd3NFkwOGtTODVMSmdrWGZR?oc=5",
+        "source": "Agefi.com",
+        "published": "Wed, 12 Nov 2025 08:00:00 GMT"
+      },
+      {
+        "title": "Horlogerie : les musées-boutiques à découvrir cet été",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWdzS3o4WlNJWHptbmhDMG8xMElSbl90eFVnYkhFSnAtY3UxMHRhYXFYaURtaGVrWjFhaHIxYnFHa285a2d1Z2VuZlUzSWQ0VzE3dEl5OElNVlpMcWNBemJYVVN4LWtxMmV3bXJ3bmlvN01sbjQwQWVrMTFJZ2g3R3JDZzdrRXBCNkhzaVpvOUkyVkEtV1hkNEQ4Q3bSAaIBQVVfeXFMT2VNUzFRX0hPcVI2RXBKS1g5YzZDZDJYYVRxS2xhSWxYMkotRFNYMHF5aHhmSkN1azNkME0tVDdicVVKdzZ6UEMwQ3dKaUhYcGMxaFROUXgzVEZSU1dwa2xqYjVvTGxQQXZYMllfVWQwM1BsY2hUZkF4bF9SaWxpamhWeHZmSW5GQm9qRE1BMEZfb3JybGpXZ2kzTEtuUTVaS3dn?oc=5",
+        "source": "Journal du Luxe",
+        "published": "Fri, 31 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Seiko fête ses 145 ans",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMW43Z09SV3FFSDIzNzBYcklLLU1XQ1BiUWkxUEFYZWd3el9GUV9IRlRRdXZKMnhfSFY0N01mTHB6M3R1b09KTDhVRWxIaVltYjJUdTJQTGNfdVI5RlFvSllTcTdzcWJCajdOaDlvRkt5TW8xOU1zRE9HSkxoZ3RfNnRzazVjdw?oc=5",
+        "source": "L'Officiel FRANCE",
+        "published": "Mon, 28 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
+        "source": "GQ France",
+        "published": "Tue, 13 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Julien Tornare, CEO de Hublot: «Hublot va rééquilibrer ses investissements»",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTJNX0lCR2hUcWZyQ2NsY1JnU3lPdEs1azVmY1ZtSTlWLVpVMGJVR0ZhUHQtVGR0Y1NQYWZWclVxX3drSGp1Mm93Z202MXNKWTlQQTloTmp0SGNnQ3VjQzFjc1lSaEJMQ1E3XzVhSWRHZ09RVzkzXzNsa1M2RnJjVnlLMEtEZU56WS1nUnl6SlF1M0RWWGQ3N0VRSjY4dWJ0UDk4?oc=5",
+        "source": "Luxury Tribune",
+        "published": "Thu, 15 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "La longue marche des montres suisses dans la Chine post-luxe",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEtBWEdJb1BvUjdOSDl2NGZPcl9PNm94bmREY1RLM3NlRzEyRnNBQnRiREhwUjVFYm8zYXVGR2xRQWZRaVJELTFrT0Q0SWdDLXNyTHlkVGZfQkp6UDJoRTlqYXdmSHA2cVhfdU8tSWlrbDVNV3gtVWN3Z0V5NWRtNVRSQVU4M0RRZjlsTXRnZGFJM0NMWnlxc2h5VnRNdVRadGpQM2t1eG1aM3RReHk2R0c4MDU?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 02 Oct 2025 07:00:00 GMT"
+      }
+    ],
+    "Sciences & Technologies": [
+      {
+        "title": "Dassault confirme que son avion spatial sera bien pensé pour le vol habité",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQllVWVlSZklVd1RhSDFTbUJJTUQ2eW1IZVZyb1FBSmF1dnZDRDBaX1FZcHVZVTExcHBCeUNXejdRLXRXOVRLQ19IdlBnaHA0aFJKclpsalI0TzJmZVVqN1lLUWM2Szdzc0RRSzZsSE85WDJPUFNwV1FWQ3RCNmpjUFBmanJoSG5PSV9abEFzN0lyMHBvUlBfemt2V3cxcDBpM2ZjVEhrM0ozVUQyRmg2MEt1VF84cElzOWYtbFR1aXp0cnljM1pNTnB0Y00?oc=5",
+        "source": "Science et vie",
+        "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Tirer au laser sur des satellites : cette improbable expérience de l’ESA ouvre une nouvelle ère spatiale",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOC1OQ2xTU2Zab2FZVzJtZmtZSkowOEk3TUdSM21YaWFxMkN6blJCZVo1dnZNNkZNUEFuM0k0RWZ1SG1lbzJsWFN6MmVuek5fbG5pT3ZHLU9JR3ZmWnFpTUluRTNqOUt0SFlZOGxyYXo3WHU0a2UzVXl1NDZaOEg1RXhuZmN2SXlVZUJwUHZTZVViOGxZRkRlelM5OExMRHdOOExOUExsYWNxZ29EMU04bHlvc1Q5b19ESkhRR1dEcFFhV0xpNjh0aUR5VnRObDlLLWJDUGk3ZE1lLXhQUi1mS2dB?oc=5",
+        "source": "Numerama",
+        "published": "Fri, 10 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Les débris spatiaux menacent désormais les avions et pourraient perturber le trafic aérien mondial",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1FsYi1PbnlhTjFhZTBMaUotb2wtSWxTRi05RnBMNEM2QkExcENSZ3gxMW1rUW5jLXltMXBReTdUZzhiNk5xVllZeW5pdG9faEV3U0JzQTlTa0h6enktZGtra3o3aWZ1eDJ6dy1rdXRhNUZPNkxieE5xbUQ3WkJUV012c1VrMGEweXBjYkdFc01HRHREZ21qQkRzbnQ3U3dKMTVxNlltNUwtVGRCRTZOYm1qSWg5MW14cEhFRkZaUTMweThjekRubzhBYUlUZnpXZWZlazZXTm5GZ1hTRl9GWHhyaHUxRVA5R2hQOQ?oc=5",
+        "source": "Science et vie",
+        "published": "Sun, 12 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Un GPS sur la Lune : des lasers ultra-stables pourraient guider les astronautes et servir de base à une horloge atomique spatiale",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVHc2WXJJTkhaRXZEOVBwZTlqVGNrYWFYbDRqVjlIWTlBczRqRzhmLVhIcFVKRkN3YnhYVzNZSUVVZWp4aW84VGFfUHhfd2NuaWVfd1M4SW9pcU5SdjBNdC04ajBFblpkdXVhTXp5UVMtLVdtMTI5ZGgwTHYwZFBnWmthQXBCMmVNRnY1ZlpvOThBcW9NSlJ4bEFITEdaYzBvczZsS3VHNEJpeHJNRnVrbFE4LW8xUGJHaTVFaU14RS1Hbl9tZUFuRHlBamIzR2dhRzNZSEg2NTNIcUZXbHVWd2o3NFRiZEdOVVRQanVPV2VzSW1UczVFOEJlZHFQN2lmRjBnTkdVcm9ramtOa0lzaVkwNA?oc=5",
+        "source": "Science et vie",
+        "published": "Mon, 25 May 2026 07:00:00 GMT"
+      },
+      {
+        "title": "2,6 Gbit/s en plein vol : l’incroyable prouesse européenne au-dessus de Nîmes",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFA4d2NmNHd2SUl5OTZZOHpjOHRoQ3ZTa0loaTZRVDJUbFhZVzktVDJOV2FWSkIzRnN0UEp5SkJnSjlWMnpWUy1HVkVMMW9vb2FJaThmVmFlZHRyUnliSVNETExHQzk0RmFycXowS1k1Nl90UU5meXpXM21LOGQxeFgybGw2MzdQN1VidE1zdlNWQ3VSUlVGQUh6WkRfa2szSElsMjZGeUM2T2ZFUWh3QzdKN0xLNVk?oc=5",
+        "source": "Numerama",
+        "published": "Thu, 26 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "SpaceX envoie une “navette fantôme” dans l’espace, et personne ne sait pourquoi",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVNqenlXdUJibXVqQTF6emNYRE95b1JiUnk3SGR1cmxEdWFMZmV2TzRyODdlUS1fZmp5d3hqXy1UWThVczRqRnZpZFN5RDNIRVpwY2NnUWpjQ3J2Y0laVDZZX3M5akhXVTdoeGExWElyamJFalhMSXlqNXljMmVyWWlKVy1CMDJLeTJZT2VpWS1sdDdwMWVGcTkyYTZUT1dLTFpPVkY0VmFXcEs1M1F3czBjOGV6LVlQN3Z0a2YzQWJaU0ZIOUE?oc=5",
+        "source": "Les Numériques",
+        "published": "Fri, 22 Aug 2025 07:00:00 GMT"
+      },
+      {
+        "title": "La Nasa va tester la fibre laser dans l'espace !",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmhwYXhjVWItcmFlOHhDY0FZZ0lfbXdha1NramJwbERXbmpHZUNvM2J2dWxQTE5fb2F1YXNVSlVzMEJvN2RKalJXOW9fRUp4VmRJcmszdVJFR2lSVU14THhEQXUwNVZzWlAwalI2WkFGQUxwS3pET2RkNEdkVklFNWlQZU4yc1JvVmVrUUswR0I0RVV4YlVLQWhLU3c5MzBzdzBGMzMtb2h6N0JRSi1FRmFzWGdHdmc?oc=5",
+        "source": "Futura, le média qui explore le monde",
+        "published": "Tue, 25 Jan 2022 08:00:00 GMT"
+      },
+      {
+        "title": "Pour ravitailler ses satellites, la Chine teste ce bras robotique flexible",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaS1QRVhGMHJka0EwWGNON2RBd19HRzZyMDUtajkwOU1reUZKYmtCRXdFaC0wT29ETEdMaUFWZGRSM0FaYVozcnVTRkZOOHJyQlFvakF0NXFCU1AwNkZDazlqMzZHT25odmtoRHdJeXV2bjJiS2pva0J1UTBUTVo5VlNwRVpNRXhhQnRZd0RtZFVtTVktVHBXNnU2dUNvSHR4Ym5SRG8tZ3N2UHR3NFl1azA4cGxhQ1BCZ0w1dmxIMERWaVYyYkRaeTlyOA?oc=5",
+        "source": "Science et vie",
+        "published": "Wed, 08 Apr 2026 07:00:00 GMT"
+      }
+    ],
+    "Économie": [
+      {
+        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEd2RVdVbUpmZTBXVjNEc2Z5dDN3X3h4N2d2OTJXdGZpQVVDQzFfSnZZazFVZE9DMXhrdGRnZVJKNnAzdzh5cm9vb3EyUVF4Yk4tRDlVZ04zZzdzbTdCRndNNlpOYmhxME91V3F4Qm5lYkpNTHNFOGFLdU1OZHhwNkRoQjVCbmZJOTh0MlJmc1Z3WURBWjV0RzF2VnYtVFhOdGNGZEdtNzlsMVMtOFZfWEJsWE4?oc=5",
+        "source": "Watson",
+        "published": "Fri, 21 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Fri, 19 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
+        "source": "24 Heures",
+        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "« On met un pied de plus à l’international » : leader de la location d’engins de levage, l’entreprise lot-et-garonnaise Acces Industrie investit en Suisse",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYWpqdnpGanJ2N3g2ak5YSVNIQURocFY4ZzlzMjJkVHpEcXBNN0FteUItUVRGXzktNG1DVlYxb2RGX1Z4dVFJbUhkZUJWaGlhTlNYako5S05yTFVxeFk4Wk9WWEJUQllIUHREZWN0Q3pmaE9KNzRYMU1DYk9GeEZwYnhmVGkxdDc1aTFhMF9qbGE2SmxoZTZrV2FBWFowclU4TDVrRlRHYzEwcWRuOFVRTFo0dGhKTEc1NnlrZUFtMTEyeldBXzVDOFhXRWw3dE5CeGxRVjdsV05UbHN3RFZuOVRWR2FKQmhpRjdrNDV6NnJuOVVMZ2VHbk01Wl96TVFVVXVHcVlGOVRTLWFhSWJ5SlpObTlwVVFjSC05WWhtbkdyay0xbmgtMWlxQmh5UQ?oc=5",
+        "source": "Sud Ouest",
+        "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "«Nous ne pouvons plus rester les bras croisés»: le franc suisse a un problème",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXVROVY4dklybDdaZUpyN3lrNzJsclhfS0pYWTlvNmtRbEVNSEQ4UWpuaUpBajRTSWVVRk1HaTl1S0RMQjRFcXlna05zSWpyaFpFcDRoLWJKcHotM2tweVdidGM0WThoRG8ydGJXUVl5Y0xyWU05QmhBajBPWnhJYjB2REJ5NldCdnZQV0ZETThKOERubUFXNlY2UW1IMW9vRDdUcWp2UkpsaWxySnJDeXNsSk8?oc=5",
+        "source": "Watson",
+        "published": "Sat, 04 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Suisse - Veille économique et financière du 5 au 10 septembre",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzZ3d0lVOC1na0NmN0xzdHNTR1NfRjI0Y2FockE2elpVQnQ5dVlIbV9vQ1NEOHY3VDlFa1htTC1vTmxCNkp6MkRSRk9Dbk1HT29XWFdBSlVtT2tObl9XaVZNQVRTeXpUSUN5RV96NzZTa19wVWVGXzFBaktlY3NzYUdKb3hWdnNPOHVFSWUtNEx2UFVBOEppU3F2a2IwSlhKdnBIemVxN0hZRmJKV3EtaWlPOXE1UQ?oc=5",
+        "source": "economie.gouv.fr",
+        "published": "Fri, 11 Sep 2026 07:00:00 GMT"
+      }
+    ]
   },
-  "errors": {
-    "Suisse & Monde": "HTTP Error 503: Service Unavailable",
-    "Horlogerie": "HTTP Error 503: Service Unavailable",
-    "Sciences & Technologies": "HTTP Error 503: Service Unavailable",
-    "Économie": "HTTP Error 503: Service Unavailable"
-  }
+  "errors": {}
 }
