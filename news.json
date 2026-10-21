@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T10:42:22+00:00",
+  "updated": "2026-10-21T12:50:54+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -21,6 +21,12 @@
         "published": "Mon, 29 Jun 2026 07:00:00 GMT"
       },
       {
+        "title": "VIDÉO. Les Suisses ne veulent pas renforcer la neutralité de leur État",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3FOclJXTXB4dVRYMVBkWTZURko5Nl9XRi1vQmNrVF9mV3BRRmdkUWJXU1plQ0FBMzNhcS1UZXY3OEJCZHBkSllxVHZsM1hhVVVVZmZHLXpsbUZZLW41Q0FnUHVTeHVVZHo3S2VOSHNmc1h4Q2ROeHBNUlVUOWRxYlVKVFNtOVpPYkc4Q2txSkN0QzVkX0VqeUxRaXBZeHpOUW5ZeG41ZUFVWWpZMjI2VWdjTmtXZ2xUREF1WC1QcWVUQQ?oc=5",
+        "source": "tv5monde",
+        "published": "Sun, 27 Sep 2026 07:00:00 GMT"
+      },
+      {
         "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
         "source": "Le Nouvelliste",
@@ -39,12 +45,6 @@
         "published": "Thu, 04 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "VIDÉO. Suisse: la traque se poursuit",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXV1aHdPS014bUtiVVh4U3FzYU1CRWJjcUYyMUhNUnFzWlR2QTlaV0VoQkVDRmFMSUV2SFNmdG5yZF9VbzJnRlVjQzhSeVEzVVdfcV9aZ2NnMnR5WHliVVFIVGNXckNOMTdMZXNqaGwzX2thdHJCVjZESWlzOGxXMVhWcjBZbE1ScTNUSFl1MXZWd3c?oc=5",
-        "source": "tv5monde",
-        "published": "Sun, 30 Aug 2026 07:00:00 GMT"
-      },
-      {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
         "source": "Le Temps",
@@ -53,40 +53,16 @@
     ],
     "Horlogerie": [
       {
-        "title": "Pourquoi le Japon gagne la bataille des montres",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
-        "source": "PME Magazine",
-        "published": "Tue, 16 Jun 2026 07:00:00 GMT"
-      },
-      {
-        "title": "LVMH investit dans la manufacture horlogère neuchâteloise La Joux‑Perret",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnhWRTdoWUVtZ2pYanAzVmY4UFdiQkMxTGFXd0MyT1pBblkwa3ktWGVaTmRHYW0xQnJ0WWdwb004Qmh3R2RSU2FtaHp5MWM1MVE3WWZ5RzllRUdPdzg3LWxJQW5xTXR3NlRNY3JFb0dYTG5FNHkyazRscjRLMnUtVEhTamFERWJ0ck1UUmN2ekZaLWtQZjFaOE1yZUozaWhmYzd3NFkwOGtTODVMSmdrWGZR?oc=5",
-        "source": "Agefi.com",
-        "published": "Wed, 12 Nov 2025 08:00:00 GMT"
-      },
-      {
-        "title": "Horlogerie : les musées-boutiques à découvrir cet été",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWdzS3o4WlNJWHptbmhDMG8xMElSbl90eFVnYkhFSnAtY3UxMHRhYXFYaURtaGVrWjFhaHIxYnFHa285a2d1Z2VuZlUzSWQ0VzE3dEl5OElNVlpMcWNBemJYVVN4LWtxMmV3bXJ3bmlvN01sbjQwQWVrMTFJZ2g3R3JDZzdrRXBCNkhzaVpvOUkyVkEtV1hkNEQ4Q3bSAaIBQVVfeXFMT2VNUzFRX0hPcVI2RXBKS1g5YzZDZDJYYVRxS2xhSWxYMkotRFNYMHF5aHhmSkN1azNkME0tVDdicVVKdzZ6UEMwQ3dKaUhYcGMxaFROUXgzVEZSU1dwa2xqYjVvTGxQQXZYMllfVWQwM1BsY2hUZkF4bF9SaWxpamhWeHZmSW5GQm9qRE1BMEZfb3JybGpXZ2kzTEtuUTVaS3dn?oc=5",
-        "source": "Journal du Luxe",
-        "published": "Fri, 31 Jul 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Seiko fête ses 145 ans",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMW43Z09SV3FFSDIzNzBYcklLLU1XQ1BiUWkxUEFYZWd3el9GUV9IRlRRdXZKMnhfSFY0N01mTHB6M3R1b09KTDhVRWxIaVltYjJUdTJQTGNfdVI5RlFvSllTcTdzcWJCajdOaDlvRkt5TW8xOU1zRE9HSkxoZ3RfNnRzazVjdw?oc=5",
-        "source": "L'Officiel FRANCE",
-        "published": "Mon, 28 Sep 2026 07:00:00 GMT"
-      },
-      {
         "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
         "source": "GQ France",
         "published": "Tue, 13 Jan 2026 08:00:00 GMT"
       },
       {
-        "title": "Julien Tornare, CEO de Hublot: «Hublot va rééquilibrer ses investissements»",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTJNX0lCR2hUcWZyQ2NsY1JnU3lPdEs1azVmY1ZtSTlWLVpVMGJVR0ZhUHQtVGR0Y1NQYWZWclVxX3drSGp1Mm93Z202MXNKWTlQQTloTmp0SGNnQ3VjQzFjc1lSaEJMQ1E3XzVhSWRHZ09RVzkzXzNsa1M2RnJjVnlLMEtEZU56WS1nUnl6SlF1M0RWWGQ3N0VRSjY4dWJ0UDk4?oc=5",
-        "source": "Luxury Tribune",
-        "published": "Thu, 15 Jan 2026 08:00:00 GMT"
+        "title": "Pourquoi le Japon gagne la bataille des montres",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
+        "source": "PME Magazine",
+        "published": "Tue, 16 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "La longue marche des montres suisses dans la Chine post-luxe",
@@ -99,6 +75,30 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmYtbjJYdFJGRi1JTVFlN2V5T0JSZnFacTIyVWZPOUZYVXZpdkxueC1UMjdnSFp1SXVUYjB0RS15MVMtUEtQRTZ6QWp3VHd1cWlCak9VNDhWVkRNRGRMUG5VcUtMcUw0SFdnM3d2dVF6Zjl1cnQyNWRBdG1kRDNvcXNQZmliYmRNS0JBWkd4bDEzdVk0LUNSdTY1U0JXdHlmcktQdDlKUU5Fb0xLWldPbDZPaEgtdw?oc=5",
         "source": "Europastar.ch",
         "published": "Sun, 08 May 2022 07:00:00 GMT"
+      },
+      {
+        "title": "LVMH investit dans la manufacture horlogère neuchâteloise La Joux‑Perret",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnhWRTdoWUVtZ2pYanAzVmY4UFdiQkMxTGFXd0MyT1pBblkwa3ktWGVaTmRHYW0xQnJ0WWdwb004Qmh3R2RSU2FtaHp5MWM1MVE3WWZ5RzllRUdPdzg3LWxJQW5xTXR3NlRNY3JFb0dYTG5FNHkyazRscjRLMnUtVEhTamFERWJ0ck1UUmN2ekZaLWtQZjFaOE1yZUozaWhmYzd3NFkwOGtTODVMSmdrWGZR?oc=5",
+        "source": "Agefi.com",
+        "published": "Wed, 12 Nov 2025 08:00:00 GMT"
+      },
+      {
+        "title": "Les montres auront leur passeport biométrique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUhXdktpdWRjalFjeVFaeGVvVUE2ci1iMEh1ZWJCLVVNNGJ0MFlJaGxSYXNNbktFZjBsMUxJOUlKdHp0ODZpdzlYZFdMTDNaRFp5LUlrZHNxZHdfcmsyaWlMQUQ1Ym8yT3BPbXVTWHkzYUJVa2pXUWc1bzBDcDh6UDA3SEI2WVhoWWE2VnB2T1RxbVdGcU9nak5QV2dJbHl2U0hGR2ljamhRMlVQR2VPMWJsdlVNMTBNVDk0cHFIRE4yWGpRTHpkV2tFMWlyT2E2?oc=5",
+        "source": "Europastar.ch",
+        "published": "Sun, 18 Jul 2021 02:40:13 GMT"
+      },
+      {
+        "title": "Les vrais chiffres de l'horlogerie suisse révélés par Morgan Stanley",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUdrYXJWa0RIeE9FLTNvWGhhRWJfRWhfNkJidGgyeDlFaFp1NWhOazVKLTREcTRKMzkyaWpVX2llcjRWVC1jT0lXVTdVMWFnV0VqWVlKTDJCa0pZaEZocHBCV3ZFRnhYdnFUVVhVWHI3M1JCcktRUUhlSDJIc25DVXBlTi10YXJEQS00YkxoVUxhcUxLWmo4eHhKcGRkakxQTDJma1h1VnZSbXVPZjNSZTBqNFF6RThoMmxPaWRuVVJnMUp0dXc?oc=5",
+        "source": "Le Point",
+        "published": "Mon, 06 Apr 2020 07:00:00 GMT"
+      },
+      {
+        "title": "Hirsch: les nouveaux défis dans le bracelet de montre",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM001WnpSQWRnNGp5UXlDTVM4VkhfQ2c5UDkwMTdCaFhoS2ZJdndUcXNmaFlmUzc1UWR5WXNkVHpTSTAzaldzaXhybFBWdFR6Vzc2bHIyd1d2anBXd1ZTa3pHZG9TV1BJd1czOGl3dU1ILUI1ZFpaWHhFbWNjTWJiZXZzMDhpUjJQd0tEOEY4a21icG1zNDVyUHhpRHBla0ZpLUROTXVTZXpJSTg5NGdOWGFDSWYtQnFo?oc=5",
+        "source": "Europastar.ch",
+        "published": "Mon, 05 Jul 2021 18:27:25 GMT"
       }
     ],
     "Sciences & Technologies": [
@@ -159,16 +159,10 @@
         "published": "Tue, 20 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
+        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
         "source": "Le Temps",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Les entreprises exportatrices sont les moteurs de la productivité suisse",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXZmdXRxMGU5VlFXSlVKTml3RTJ3NzhtTExMQWVqSWJxRjE1TUZYTk13OU9NSVA3NTU2dGExQ2lIWXlqSlBpZjVwZnZqNW84cU9JRjVjX1lIN3J6Z3RUMmhleXZiZTVONW1GV09kM0c4Zkh3b0Jaa1lNQjA4VE11Z1lBX19DTGkyV0Y0TC1FVnFiaS1HVGhqSm1DRE1LbHBGVUhSSmM4ZEpxZkxhZ0pUaWpYcEU?oc=5",
-        "source": "Economiesuisse",
-        "published": "Thu, 19 Mar 2026 07:00:00 GMT"
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
@@ -177,28 +171,34 @@
         "published": "Fri, 21 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
-        "source": "24 Heures",
-        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
-      },
-      {
-        "title": "L’économie suisse a légèrement progressé fin 2025",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWVtTDVNd29ENXFHdzVmcXNtbFZjQU9VUmxZbDBac0NyUmlzU2xtaUJjRE9aVUtEWjl1elNGdmFFT2RTa1psUkg3S1B0blBPYllDVmo1d3UtM2w1a2Ftc2E3NVpDeF9WLVJfOTVTbXVLaWFVRzVELUt0b3ZRY1B3ZkxIQ1Jtbm5vdS1ZX2tTSzk3bW5ZVkE?oc=5",
-        "source": "agefi.com",
-        "published": "Mon, 16 Feb 2026 08:00:00 GMT"
-      },
-      {
-        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
-        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
         "source": "SWI swissinfo.ch",
         "published": "Fri, 19 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "« On met un pied de plus à l’international » : leader de la location d’engins de levage, l’entreprise lot-et-garonnaise Acces Industrie investit en Suisse",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYWpqdnpGanJ2N3g2ak5YSVNIQURocFY4ZzlzMjJkVHpEcXBNN0FteUItUVRGXzktNG1DVlYxb2RGX1Z4dVFJbUhkZUJWaGlhTlNYako5S05yTFVxeFk4Wk9WWEJUQllIUHREZWN0Q3pmaE9KNzRYMU1DYk9GeEZwYnhmVGkxdDc1aTFhMF9qbGE2SmxoZTZrV2FBWFowclU4TDVrRlRHYzEwcWRuOFVRTFo0dGhKTEc1NnlrZUFtMTEyeldBXzVDOFhXRWw3dE5CeGxRVjdsV05UbHN3RFZuOVRWR2FKQmhpRjdrNDV6NnJuOVVMZ2VHbk01Wl96TVFVVXVHcVlGOVRTLWFhSWJ5SlpObTlwVVFjSC05WWhtbkdyay0xbmgtMWlxQmh5UQ?oc=5",
+        "source": "Sud Ouest",
+        "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "«Nous ne pouvons plus rester les bras croisés»: le franc suisse a un problème",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXVROVY4dklybDdaZUpyN3lrNzJsclhfS0pYWTlvNmtRbEVNSEQ4UWpuaUpBajRTSWVVRk1HaTl1S0RMQjRFcXlna05zSWpyaFpFcDRoLWJKcHotM2tweVdidGM0WThoRG8ydGJXUVl5Y0xyWU05QmhBajBPWnhJYjB2REJ5NldCdnZQV0ZETThKOERubUFXNlY2UW1IMW9vRDdUcWp2UkpsaWxySnJDeXNsSk8?oc=5",
+        "source": "Watson",
+        "published": "Sat, 04 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
+        "source": "24 Heures",
+        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
       }
     ]
   },
