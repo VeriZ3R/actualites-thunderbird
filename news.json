@@ -1,24 +1,12 @@
 {
-  "updated": "2026-10-22T04:40:16+00:00",
+  "updated": "2026-10-22T06:51:17+00:00",
   "categories": {
     "Suisse & Monde": [
-      {
-        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
-        "source": "Le Temps",
-        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
-      },
       {
         "title": "Genève: près de 40 millions pour la solidarité internationale",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemg4djdLZkQya1NwUl9mQVM3T09ybFNYSkpXNnlJOThfdTRpRHNRU1dCZXRZQ3lELVdXOGtXdUVPcVR3NEZ6UWdOQjJUcHRtRXpjcmZ6dlVtN2t3TGpCeU9EYTBOVTVfWGZseFRXdm9tQzRXNkdoampNa0NSYS1FMVd4S2p2SmZjQ05MNS1QbGRlbnhkNlVmek1BazUxWkk?oc=5",
         "source": "Rhône FM",
         "published": "Tue, 13 Oct 2026 10:52:37 GMT"
-      },
-      {
-        "title": "Cette ex-diplomate de l'ONU tire la sonnette d'alarme sur l'avenir de la Genève internationale",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFV5Uk04NlkyMjZ3NV9ybERINVBEY2toLVdORU0yaWdxQXpYTVk2UnF6RnVxSGJmRmJjdFRZWlVvaVJhWlZWNHlqbEdIRkNWUU1kMkdqbjN1MHJGcE1HN1hwVlNqUnpDUHJOd1dlQlFDQ3hyZUx0WU05eWxfaFpuU19CMUZPdWFMYlowN0MtYnlOQjRF?oc=5",
-        "source": "Tribune de Genève",
-        "published": "Mon, 29 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "La Genève internationale a besoin d’une Suisse neutre",
@@ -27,16 +15,28 @@
         "published": "Wed, 23 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "Cette ex-diplomate de l'ONU tire la sonnette d'alarme sur l'avenir de la Genève internationale",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFV5Uk04NlkyMjZ3NV9ybERINVBEY2toLVdORU0yaWdxQXpYTVk2UnF6RnVxSGJmRmJjdFRZWlVvaVJhWlZWNHlqbEdIRkNWUU1kMkdqbjN1MHJGcE1HN1hwVlNqUnpDUHJOd1dlQlFDQ3hyZUx0WU05eWxfaFpuU19CMUZPdWFMYlowN0MtYnlOQjRF?oc=5",
+        "source": "Tribune de Genève",
+        "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+      },
+      {
         "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
         "source": "Le Nouvelliste",
         "published": "Sat, 27 Jun 2026 04:45:25 GMT"
       },
       {
-        "title": "Situation en Israël et dans le Territoire palestinien occupé",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWlpUWndVRFIyR3RQdWNiVU9iOVNodkgtRGd4alg3MTFld2xTS2dHYjdMS0xsS1hZMUoyWmdxMUpKSTNfQzVRS2dENV9GSmFpV2I5SDBOZ3NBdDhZYVlSMV9KeEg?oc=5",
-        "source": "eda.admin",
-        "published": "Tue, 17 Feb 2026 14:29:46 GMT"
+        "title": "VIDÉO. Les Suisses ne veulent pas renforcer la neutralité de leur État",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3FOclJXTXB4dVRYMVBkWTZURko5Nl9XRi1vQmNrVF9mV3BRRmdkUWJXU1plQ0FBMzNhcS1UZXY3OEJCZHBkSllxVHZsM1hhVVVVZmZHLXpsbUZZLW41Q0FnUHVTeHVVZHo3S2VOSHNmc1h4Q2ROeHBNUlVUOWRxYlVKVFNtOVpPYkc4Q2txSkN0QzVkX0VqeUxRaXBZeHpOUW5ZeG41ZUFVWWpZMjI2VWdjTmtXZ2xUREF1WC1QcWVUQQ?oc=5",
+        "source": "tv5monde",
+        "published": "Sun, 27 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Une BD apprend aux jeunes Suisses à comprendre l’IA et le rôle de la Genève internationale",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDVMNXNQQ2FKZEgteWRVMHZoWjQzOVk1ZS1xVy1DTG83U3lFbnVoSE50N0F0MHR4cFlTLXRjdWk0dnVTZ3pIYjZRdFhVeTI0VF9ZT1lLZnRzZjJ6ZkVjLUNhd2ZGclU0OEpSNHVBWFFhWkRWSHdvYVhyN1BYNWhKaEhjNXVrNTl0YVo5M09kbmdCeVZUOEhuMUVmV1RDSUJNbFAtRFNTNVZOSFNQTkhudDhkLWE2UTA2S2t2NjZxMjcyY2xfVXc?oc=5",
+        "source": "Le Temps",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
       },
       {
         "title": "La Suisse simplifie sa coopération financière internationale",
@@ -45,10 +45,10 @@
         "published": "Thu, 04 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "VIDÉO. Les Suisses ne veulent pas renforcer la neutralité de leur État",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3FOclJXTXB4dVRYMVBkWTZURko5Nl9XRi1vQmNrVF9mV3BRRmdkUWJXU1plQ0FBMzNhcS1UZXY3OEJCZHBkSllxVHZsM1hhVVVVZmZHLXpsbUZZLW41Q0FnUHVTeHVVZHo3S2VOSHNmc1h4Q2ROeHBNUlVUOWRxYlVKVFNtOVpPYkc4Q2txSkN0QzVkX0VqeUxRaXBZeHpOUW5ZeG41ZUFVWWpZMjI2VWdjTmtXZ2xUREF1WC1QcWVUQQ?oc=5",
-        "source": "tv5monde",
-        "published": "Sun, 27 Sep 2026 07:00:00 GMT"
+        "title": "Incendie de Crans-Montana en Suisse: une nouvelle accusée identifiée dans l'enquête",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGN6NG53RWZNWjl0djZmcVFXOGoteHR0Ym02eDdZX1g0QjBCTFBNdXRONXhXX29vZzJDYmNSNFhaeUNla0wwOHNrZ25OVzNJUFp1QmZNV2dHZ0NWSFdLUkN6RXVTUm9LdjJyNHRtSTZRZ1EtNWVIcVJKSmtTMW5fY1NvbGxvQ0tXeWVzRF9lQXBsTlp4MUpCMkdZazk5MHFzSFpQXzhfSzU2S0xRX1gyNWNfQmtWQkphU09OMA?oc=5",
+        "source": "TVA Nouvelles",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
       }
     ],
     "Horlogerie": [
@@ -139,10 +139,10 @@
         "published": "Thu, 26 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "Pour ravitailler ses satellites, la Chine teste ce bras robotique flexible",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaS1QRVhGMHJka0EwWGNON2RBd19HRzZyMDUtajkwOU1reUZKYmtCRXdFaC0wT29ETEdMaUFWZGRSM0FaYVozcnVTRkZOOHJyQlFvakF0NXFCU1AwNkZDazlqMzZHT25odmtoRHdJeXV2bjJiS2pva0J1UTBUTVo5VlNwRVpNRXhhQnRZd0RtZFVtTVktVHBXNnU2dUNvSHR4Ym5SRG8tZ3N2UHR3NFl1azA4cGxhQ1BCZ0w1dmxIMERWaVYyYkRaeTlyOA?oc=5",
+        "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
         "source": "Science et vie",
-        "published": "Wed, 08 Apr 2026 07:00:00 GMT"
+        "published": "Tue, 14 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "La Chine va lancer des avions dans l’espace avec une catapulte électromagnétique !",
@@ -159,10 +159,16 @@
         "published": "Tue, 20 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
-        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Les entreprises exportatrices sont les moteurs de la productivité suisse",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXZmdXRxMGU5VlFXSlVKTml3RTJ3NzhtTExMQWVqSWJxRjE1TUZYTk13OU9NSVA3NTU2dGExQ2lIWXlqSlBpZjVwZnZqNW84cU9JRjVjX1lIN3J6Z3RUMmhleXZiZTVONW1GV09kM0c4Zkh3b0Jaa1lNQjA4VE11Z1lBX19DTGkyV0Y0TC1FVnFiaS1HVGhqSm1DRE1LbHBGVUhSSmM4ZEpxZkxhZ0pUaWpYcEU?oc=5",
+        "source": "Economiesuisse",
+        "published": "Thu, 19 Mar 2026 07:00:00 GMT"
       },
       {
         "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
@@ -171,34 +177,28 @@
         "published": "Fri, 21 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
+        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
+        "source": "24 Heures",
+        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "L’économie suisse a légèrement progressé fin 2025",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWVtTDVNd29ENXFHdzVmcXNtbFZjQU9VUmxZbDBac0NyUmlzU2xtaUJjRE9aVUtEWjl1elNGdmFFT2RTa1psUkg3S1B0blBPYllDVmo1d3UtM2w1a2Ftc2E3NVpDeF9WLVJfOTVTbXVLaWFVRzVELUt0b3ZRY1B3ZkxIQ1Jtbm5vdS1ZX2tTSzk3bW5ZVkE?oc=5",
+        "source": "agefi.com",
+        "published": "Mon, 16 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
         "source": "Le Temps",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
         "source": "SWI swissinfo.ch",
         "published": "Fri, 19 Jun 2026 07:00:00 GMT"
-      },
-      {
-        "title": "«Nous ne pouvons plus rester les bras croisés»: le franc suisse a un problème",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXVROVY4dklybDdaZUpyN3lrNzJsclhfS0pYWTlvNmtRbEVNSEQ4UWpuaUpBajRTSWVVRk1HaTl1S0RMQjRFcXlna05zSWpyaFpFcDRoLWJKcHotM2tweVdidGM0WThoRG8ydGJXUVl5Y0xyWU05QmhBajBPWnhJYjB2REJ5NldCdnZQV0ZETThKOERubUFXNlY2UW1IMW9vRDdUcWp2UkpsaWxySnJDeXNsSk8?oc=5",
-        "source": "Watson",
-        "published": "Sat, 04 Jul 2026 07:00:00 GMT"
-      },
-      {
-        "title": "« On met un pied de plus à l’international » : leader de la location d’engins de levage, l’entreprise lot-et-garonnaise Acces Industrie investit en Suisse",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYWpqdnpGanJ2N3g2ak5YSVNIQURocFY4ZzlzMjJkVHpEcXBNN0FteUItUVRGXzktNG1DVlYxb2RGX1Z4dVFJbUhkZUJWaGlhTlNYako5S05yTFVxeFk4Wk9WWEJUQllIUHREZWN0Q3pmaE9KNzRYMU1DYk9GeEZwYnhmVGkxdDc1aTFhMF9qbGE2SmxoZTZrV2FBWFowclU4TDVrRlRHYzEwcWRuOFVRTFo0dGhKTEc1NnlrZUFtMTEyeldBXzVDOFhXRWw3dE5CeGxRVjdsV05UbHN3RFZuOVRWR2FKQmhpRjdrNDV6NnJuOVVMZ2VHbk01Wl96TVFVVXVHcVlGOVRTLWFhSWJ5SlpObTlwVVFjSC05WWhtbkdyay0xbmgtMWlxQmh5UQ?oc=5",
-        "source": "Sud Ouest",
-        "published": "Thu, 08 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
-        "source": "24 Heures",
-        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
       }
     ]
   },
