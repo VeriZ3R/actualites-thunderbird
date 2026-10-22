@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-22T10:41:04+00:00",
+  "updated": "2026-10-22T12:50:40+00:00",
   "categories": {
     "Suisse & Monde": [
       {
-        "title": "RTS Info: suivez l'actualité suisse et Internationale en direct",
-        "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1KUi1qaXctUHgzQU54bHV3aF9zVFVrYlVuZ19pMVlxZHJpUHlENDRwSGdOa0tfOGxkYUhBSA?oc=5",
-        "source": "rts.ch",
-        "published": "Thu, 22 Oct 2026 07:51:28 GMT"
+        "title": "Fil d’actualité: Politique commerciale de Donald Trump 2.0 – conséquences pour la Suisse",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDhvSVJmckZOUzNtaE1QczFMazdwYzU0a3lCbDJnX0l1Nm1aTXRETUp1ckJVUTRVeXRYWW5ybHc3RjJibks1X244cS00WGZYdXZ0TWZEaDlwQldiUlR6bTZVNEZfOW11cTA1V19WTDUyUnRWYUlxbFR5aUpMMW9tZ3ZIMGYxZS1yX1lLX2M3OVFRdlJFU1UwVGdsWTNCM09nNGtKUEdtbklhNjhfckdsaU85MlpWWEV2b3RMbng0NWxIQk0?oc=5",
+        "source": "Economiesuisse",
+        "published": "Thu, 24 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
@@ -15,40 +15,40 @@
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
       },
       {
+        "title": "Genève: près de 40 millions pour la solidarité internationale",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemg4djdLZkQya1NwUl9mQVM3T09ybFNYSkpXNnlJOThfdTRpRHNRU1dCZXRZQ3lELVdXOGtXdUVPcVR3NEZ6UWdOQjJUcHRtRXpjcmZ6dlVtN2t3TGpCeU9EYTBOVTVfWGZseFRXdm9tQzRXNkdoampNa0NSYS1FMVd4S2p2SmZjQ05MNS1QbGRlbnhkNlVmek1BazUxWkk?oc=5",
+        "source": "Rhône FM",
+        "published": "Tue, 13 Oct 2026 10:52:37 GMT"
+      },
+      {
+        "title": "Cette ex-diplomate de l'ONU tire la sonnette d'alarme sur l'avenir de la Genève internationale",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFV5Uk04NlkyMjZ3NV9ybERINVBEY2toLVdORU0yaWdxQXpYTVk2UnF6RnVxSGJmRmJjdFRZWlVvaVJhWlZWNHlqbEdIRkNWUU1kMkdqbjN1MHJGcE1HN1hwVlNqUnpDUHJOd1dlQlFDQ3hyZUx0WU05eWxfaFpuU19CMUZPdWFMYlowN0MtYnlOQjRF?oc=5",
+        "source": "Tribune de Genève",
+        "published": "Mon, 29 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "La Genève internationale a besoin d’une Suisse neutre",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzNYTE9la25jMzA5Zk1JbXA0eDRsSjBxcXlDZkRIR2FLTWZjNUUtTTJJUWZ1aERNWUtfaW1MZFdNSXBkcm9ma3czUk1OVmt5Y3lOX1dOdmdlYnREZDNmeURzdjgtMXJ0MHA4Z2lkRW5XUDJXMUwzVWxwbGQyX0tmdGxKZTBtTHdvc1VrNlFWVVptbjJiSXk2QVYzc1dvSUVDTlpZb01CQ1FKUGc?oc=5",
+        "source": "UDC Suisse",
+        "published": "Wed, 23 Sep 2026 07:00:00 GMT"
+      },
+      {
         "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
         "source": "Le Nouvelliste",
         "published": "Sat, 27 Jun 2026 04:45:25 GMT"
       },
       {
-        "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
-        "source": "rts.ch",
-        "published": "Sun, 24 May 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Organisations internationales",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUJnT0NYbmctMWRMc0FTbV9FOWtyaWYtQnZxRkhJT3o3Q25TVkxQREF4OG51SUdvamlubGhydnE3V2FUZWREbDROeExEYW1FYkx6ZTh0UjB1TG10RGU0X2RiMVVjSmNGREpRdkRyWXRqcGZBSUk4LWgzVmQteUEtekRMNA?oc=5",
+        "title": "Situation en Israël et dans le Territoire palestinien occupé",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWlpUWndVRFIyR3RQdWNiVU9iOVNodkgtRGd4alg3MTFld2xTS2dHYjdMS0xsS1hZMUoyWmdxMUpKSTNfQzVRS2dENV9GSmFpV2I5SDBOZ3NBdDhZYVlSMV9KeEg?oc=5",
         "source": "eda.admin",
-        "published": "Thu, 19 Feb 2026 08:00:00 GMT"
+        "published": "Tue, 17 Feb 2026 14:29:46 GMT"
       },
       {
-        "title": "La coopération internationale de l’Armée suisse",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
-        "source": "Gruppe Verteidigung",
-        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
-      },
-      {
-        "title": "Neutralité et sécurité: la Suisse cible de fausses informations à l'international",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZm0zbURnVkNDNTFtXzUzSkw0eWFPeHg5RUdZbjk1Rk1CaXY1S3FGclMyZUpuaTNDdHlLS2g4Q25UbkhmN2cyb3Mxc2JMRU1jaEhXOG1JdmJZbDk0cHl2VmtnenotOExwV2gtRkRDODA2bGZtMExpZE41UkFzaklwQ2htck05Nl9BOTZCS191d1ptN2ZvT19SMzktdFMyYm55ZEJ0eW94TWYxVlpxMHRLRTZLVjVUd1M5YVBJeG8wQ3ItanZrT3ZCWUlZWQ?oc=5",
-        "source": "rts.ch",
-        "published": "Sun, 07 Sep 2025 07:00:00 GMT"
-      },
-      {
-        "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
-        "source": "rts.ch",
-        "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+        "title": "La Suisse simplifie sa coopération financière internationale",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG5hX1NBclpJc01TaVZXa05jZzFETVh3NE5hWGU2MExXaWlIbVBBTkRtUU0tYVBJWG95WTJrVUpRMGhZU1B1ZlNYYzZOWHdzdzYxTTF5SkQ0dDNKNnUzay0tQWg2RHpkaEVsZVkwWnpta3l5YnJtWXpLRy1Rd25RdExvNWVKV0pSWXVRTkI1QTFaS1hrVmE4OWFJVGZaQjNwV2FmZUhCUTF3VTBOSWtzaDV3?oc=5",
+        "source": "Watson",
+        "published": "Thu, 04 Jun 2026 07:00:00 GMT"
       }
     ],
     "Horlogerie": [
@@ -153,6 +153,12 @@
     ],
     "Économie": [
       {
+        "title": "La Suisse, une petite nation au cœur du commerce mondial",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUlpGalEzOVRXeFRiM0ttRVZ1YUcyQlRjczJLQ3lVZHI0SFZ4czViNy1VRTZ0WUNYSHlkLVM4ejJ3bzRmUEVUZkNFRUJmT2lja1gzTGJCbDJlWjY5UWRKTlhjcFVmRk8ycnVXWWdRQm9sSkF6MzRjcjdQbm1ISXR3UWxmVXlRdE9feEdtQW1BME9ueVl1Q2JpWGRjYnRDbG84YUxqeEhXZ1AtRG1WelhPSHFvYm1Zc09zRzFPcw?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Tue, 20 Oct 2026 07:00:00 GMT"
+      },
+      {
         "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
         "source": "Le Temps",
@@ -165,16 +171,16 @@
         "published": "Fri, 21 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Fri, 19 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
         "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Fri, 19 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "« On met un pied de plus à l’international » : leader de la location d’engins de levage, l’entreprise lot-et-garonnaise Acces Industrie investit en Suisse",
@@ -193,12 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
         "source": "24 Heures",
         "published": "Tue, 28 Apr 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Suisse - Veille économique et financière du 5 au 10 septembre",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzZ3d0lVOC1na0NmN0xzdHNTR1NfRjI0Y2FockE2elpVQnQ5dVlIbV9vQ1NEOHY3VDlFa1htTC1vTmxCNkp6MkRSRk9Dbk1HT29XWFdBSlVtT2tObl9XaVZNQVRTeXpUSUN5RV96NzZTa19wVWVGXzFBaktlY3NzYUdKb3hWdnNPOHVFSWUtNEx2UFVBOEppU3F2a2IwSlhKdnBIemVxN0hZRmJKV3EtaWlPOXE1UQ?oc=5",
-        "source": "economie.gouv.fr",
-        "published": "Fri, 11 Sep 2026 07:00:00 GMT"
       }
     ]
   },
