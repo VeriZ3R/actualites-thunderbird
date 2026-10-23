@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T12:49:12+00:00",
+  "updated": "2026-10-23T14:47:52+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -7,12 +7,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemg4djdLZkQya1NwUl9mQVM3T09ybFNYSkpXNnlJOThfdTRpRHNRU1dCZXRZQ3lELVdXOGtXdUVPcVR3NEZ6UWdOQjJUcHRtRXpjcmZ6dlVtN2t3TGpCeU9EYTBOVTVfWGZseFRXdm9tQzRXNkdoampNa0NSYS1FMVd4S2p2SmZjQ05MNS1QbGRlbnhkNlVmek1BazUxWkk?oc=5",
         "source": "Rhône FM",
         "published": "Tue, 13 Oct 2026 10:52:37 GMT"
-      },
-      {
-        "title": "Fil d’actualité: Politique commerciale de Donald Trump 2.0 – conséquences pour la Suisse",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDhvSVJmckZOUzNtaE1QczFMazdwYzU0a3lCbDJnX0l1Nm1aTXRETUp1ckJVUTRVeXRYWW5ybHc3RjJibks1X244cS00WGZYdXZ0TWZEaDlwQldiUlR6bTZVNEZfOW11cTA1V19WTDUyUnRWYUlxbFR5aUpMMW9tZ3ZIMGYxZS1yX1lLX2M3OVFRdlJFU1UwVGdsWTNCM09nNGtKUEdtbklhNjhfckdsaU85MlpWWEV2b3RMbng0NWxIQk0?oc=5",
-        "source": "Economiesuisse",
-        "published": "Thu, 24 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "La Genève internationale a besoin d’une Suisse neutre",
@@ -39,16 +33,22 @@
         "published": "Sun, 27 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
+        "title": "Une BD apprend aux jeunes Suisses à comprendre l’IA et le rôle de la Genève internationale",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDVMNXNQQ2FKZEgteWRVMHZoWjQzOVk1ZS1xVy1DTG83U3lFbnVoSE50N0F0MHR4cFlTLXRjdWk0dnVTZ3pIYjZRdFhVeTI0VF9ZT1lLZnRzZjJ6ZkVjLUNhd2ZGclU0OEpSNHVBWFFhWkRWSHdvYVhyN1BYNWhKaEhjNXVrNTl0YVo5M09kbmdCeVZUOEhuMUVmV1RDSUJNbFAtRFNTNVZOSFNQTkhudDhkLWE2UTA2S2t2NjZxMjcyY2xfVXc?oc=5",
         "source": "Le Temps",
-        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
       },
       {
         "title": "La Suisse simplifie sa coopération financière internationale",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG5hX1NBclpJc01TaVZXa05jZzFETVh3NE5hWGU2MExXaWlIbVBBTkRtUU0tYVBJWG95WTJrVUpRMGhZU1B1ZlNYYzZOWHdzdzYxTTF5SkQ0dDNKNnUzay0tQWg2RHpkaEVsZVkwWnpta3l5YnJtWXpLRy1Rd25RdExvNWVKV0pSWXVRTkI1QTFaS1hrVmE4OWFJVGZaQjNwV2FmZUhCUTF3VTBOSWtzaDV3?oc=5",
         "source": "Watson",
         "published": "Thu, 04 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
       }
     ],
     "Horlogerie": [
@@ -115,16 +115,16 @@
         "published": "Fri, 10 Apr 2026 07:00:00 GMT"
       },
       {
-        "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
-        "source": "Science et vie",
-        "published": "Tue, 14 Apr 2026 07:00:00 GMT"
-      },
-      {
         "title": "La Nasa va tester la fibre laser dans l'espace !",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmhwYXhjVWItcmFlOHhDY0FZZ0lfbXdha1NramJwbERXbmpHZUNvM2J2dWxQTE5fb2F1YXNVSlVzMEJvN2RKalJXOW9fRUp4VmRJcmszdVJFR2lSVU14THhEQXUwNVZzWlAwalI2WkFGQUxwS3pET2RkNEdkVklFNWlQZU4yc1JvVmVrUUswR0I0RVV4YlVLQWhLU3c5MzBzdzBGMzMtb2h6N0JRSi1FRmFzWGdHdmc?oc=5",
         "source": "Futura, le média qui explore le monde",
         "published": "Tue, 25 Jan 2022 08:00:00 GMT"
+      },
+      {
+        "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
+        "source": "Science et vie",
+        "published": "Tue, 14 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "SpaceX envoie une “navette fantôme” dans l’espace, et personne ne sait pourquoi",
