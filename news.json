@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T02:39:11+00:00",
+  "updated": "2026-10-24T04:39:28+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -153,16 +153,22 @@
     ],
     "Économie": [
       {
-        "title": "«La Suisse porte une responsabilité particulière lorsqu’elle exporte des armes»",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSWo3SEtkUzg5X0gzZDJnUlQ5eGRyVnpmTTg4bE9kVndLd2dnVnRwYW9WVThTWWtMcUNWT1JjaHMwWmRuLWwzOXd6RFpEbXFpQ3RPTXRpaTdxVnlqMFdTbGhWOC1kTGJfRktuTC01aUxMc0J2emFPYjZGZXlvdkVPc0ozUDYxRUZ6UEh0YUhfSm5BdUtEZWdCVHo3aC1nWG5RbXhnaVFoN2RhQmc1ck1oWDE5aENpMWpKWFAxZHI5ZTR4WG1BNjd4VzZjQ2R5RUU?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Thu, 22 Oct 2026 07:44:50 GMT"
-      },
-      {
         "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
         "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Les entreprises exportatrices sont les moteurs de la productivité suisse",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXZmdXRxMGU5VlFXSlVKTml3RTJ3NzhtTExMQWVqSWJxRjE1TUZYTk13OU9NSVA3NTU2dGExQ2lIWXlqSlBpZjVwZnZqNW84cU9JRjVjX1lIN3J6Z3RUMmhleXZiZTVONW1GV09kM0c4Zkh3b0Jaa1lNQjA4VE11Z1lBX19DTGkyV0Y0TC1FVnFiaS1HVGhqSm1DRE1LbHBGVUhSSmM4ZEpxZkxhZ0pUaWpYcEU?oc=5",
+        "source": "Economiesuisse",
+        "published": "Thu, 19 Mar 2026 07:00:00 GMT"
+      },
+      {
+        "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Fri, 19 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
@@ -171,10 +177,10 @@
         "published": "Fri, 21 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Sophie Michaud Gigon, la Verte qui bouscule les codes",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2UtMFByRFQ4ZjNNbzVFT0JDbzlVYzdDUVhpWWNRM1p3QnpJcEtBQUJkeUhTS05HM0Y0eHlHZDFORWh2dl9Icm5sZmVBMFI4Q0tzZlRia0hJWHd6VDVWMk5iNWx5Tm9QQURWb1hQVWtXS2Z6Vm90NE84RGZhZERKZnA2a0VlZmhyajdWc2xkVjlCM1dJTWc?oc=5",
-        "source": "PME Magazine",
-        "published": "Thu, 13 Aug 2026 07:00:00 GMT"
+        "title": "Dans un contexte de crise à l’international, l'économie vaudoise marche au ralenti",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZHJwMlhmYmRMcHNIZ0xKcDRrMGlieUNCcnJkNDZHcHVvcE9lLWhoUTNqeGxkVkRIQmJ5Ui1yMjlhc2MzYWxUT1ZpbEVLNDcxTXBrRkFHdG5JTGN3QjNPZ0VjUkhsYjFGMVMyc042YTVHRlNycW84YXhETGJKdw?oc=5",
+        "source": "24 Heures",
+        "published": "Tue, 28 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "L’économie suisse a légèrement progressé fin 2025",
@@ -193,12 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkZ0MkpucEhzSWExdVdZSHkybGdJYnpxR2NkUHIyNGlHeVJ2Q0dXYmFwaDJJZ0p1MVFlYmU2cVpORUVvRTIwNENYcktKMzl0ME9RSzdRaGZXdDM1TFF1Nnl6UFFlMTVoc1NSVlpveXhRZDE4STREQ1hrblhxVUt1MjdfdEt6ckk1R1l0X05tRmt4TVRubWVxbWMzMkdtVkktQWdxQk1uelY0TFhheVFmZXBwMnBQNW5tLUtGeFd2Y3c?oc=5",
         "source": "SWI swissinfo.ch",
         "published": "Tue, 30 Dec 2025 08:00:00 GMT"
-      },
-      {
-        "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
-        "source": "interpharma.ch",
-        "published": "Wed, 31 Jan 2024 08:00:00 GMT"
       }
     ]
   },
