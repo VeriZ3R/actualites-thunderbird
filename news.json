@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:50:06+00:00",
+  "updated": "2026-10-27T10:46:02+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -77,12 +77,6 @@
         "published": "Sun, 08 May 2022 07:00:00 GMT"
       },
       {
-        "title": "Le silence inquiétant des sous-traitants horlogers de l’Arc jurassien",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2NTSFhNcW85SkhwOXJpbTZaTm1RR0R3eGJpZWxCLURBWFd4NVNaVlhSQjgxd3BVQVlIV3owMnI5V3d6bk9Qc04tajU2TEFyYTVtLWN5MDBGeWxjWFJ4TEhodVBJakIxbUlDclZlZ0habkhiWGViNTdkU2ZYUHpPUlNZT0NqUTFpdlVBbk9JYWlKTHE3WmN1a0wyX2RJXzQwSXQw?oc=5",
-        "source": "Le Temps",
-        "published": "Wed, 22 Oct 2025 07:00:00 GMT"
-      },
-      {
         "title": "LA SWATCH, ÉTERNELLE INNOVATION DE RUPTURE",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1Q0eE1IX0M2d1d2OXRtWkx6WWFHbmVHdmxNcG02SDd0VVB1RTMwWTctZW9iSExlRWJ3MHRvVmpzdkY4X0tBVUthZnJ3ejV1OWNrMWZVejhaT19nS0NMcF9sX0VlXzRObWQtd3UwVUcwRmNIcnBaamFXc2RlbWZINWln?oc=5",
         "source": "Europastar.ch",
@@ -99,6 +93,12 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM001WnpSQWRnNGp5UXlDTVM4VkhfQ2c5UDkwMTdCaFhoS2ZJdndUcXNmaFlmUzc1UWR5WXNkVHpTSTAzaldzaXhybFBWdFR6Vzc2bHIyd1d2anBXd1ZTa3pHZG9TV1BJd1czOGl3dU1ILUI1ZFpaWHhFbWNjTWJiZXZzMDhpUjJQd0tEOEY4a21icG1zNDVyUHhpRHBla0ZpLUROTXVTZXpJSTg5NGdOWGFDSWYtQnFo?oc=5",
         "source": "Europastar.ch",
         "published": "Mon, 05 Jul 2021 18:27:25 GMT"
+      },
+      {
+        "title": "Les montres auront leur passeport biométrique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUhXdktpdWRjalFjeVFaeGVvVUE2ci1iMEh1ZWJCLVVNNGJ0MFlJaGxSYXNNbktFZjBsMUxJOUlKdHp0ODZpdzlYZFdMTDNaRFp5LUlrZHNxZHdfcmsyaWlMQUQ1Ym8yT3BPbXVTWHkzYUJVa2pXUWc1bzBDcDh6UDA3SEI2WVhoWWE2VnB2T1RxbVdGcU9nak5QV2dJbHl2U0hGR2ljamhRMlVQR2VPMWJsdlVNMTBNVDk0cHFIRE4yWGpRTHpkV2tFMWlyT2E2?oc=5",
+        "source": "Europastar.ch",
+        "published": "Sun, 18 Jul 2021 02:40:13 GMT"
       }
     ],
     "Sciences & Technologies": [
@@ -153,6 +153,12 @@
     ],
     "Économie": [
       {
+        "title": "La guerre des aimants menace l’industrie high-tech suisse",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDk5Z0lMNGxKNm1ZLVVJZVNxNGdGWDFzZG10ZjlURDdTbkc3NjZTaFo5MGtQSjQ2SVpIX3NZaVVOc2NGVHBmeDdGVnlCT3hqNkgwT2xJR2hWVkptZUVLUWp2dnRzVHBKcVd1bTR4MWtueDRrYllYUi1peFA4a1hxNmI5SkZ5OVY4QUpiV0NsZzVaQXd3U1JZNFJoQ1hSYjlyZk45b1dGVWtRQ1YyYXRBTHJocnA?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Mon, 26 Oct 2026 08:40:30 GMT"
+      },
+      {
         "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
         "source": "Le Temps",
@@ -165,22 +171,10 @@
         "published": "Fri, 21 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Fri, 19 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
         "published": "Thu, 18 Jun 2026 07:00:00 GMT"
-      },
-      {
-        "title": "« On met un pied de plus à l’international » : leader de la location d’engins de levage, l’entreprise lot-et-garonnaise Acces Industrie investit en Suisse",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYWpqdnpGanJ2N3g2ak5YSVNIQURocFY4ZzlzMjJkVHpEcXBNN0FteUItUVRGXzktNG1DVlYxb2RGX1Z4dVFJbUhkZUJWaGlhTlNYako5S05yTFVxeFk4Wk9WWEJUQllIUHREZWN0Q3pmaE9KNzRYMU1DYk9GeEZwYnhmVGkxdDc1aTFhMF9qbGE2SmxoZTZrV2FBWFowclU4TDVrRlRHYzEwcWRuOFVRTFo0dGhKTEc1NnlrZUFtMTEyeldBXzVDOFhXRWw3dE5CeGxRVjdsV05UbHN3RFZuOVRWR2FKQmhpRjdrNDV6NnJuOVVMZ2VHbk01Wl96TVFVVXVHcVlGOVRTLWFhSWJ5SlpObTlwVVFjSC05WWhtbkdyay0xbmgtMWlxQmh5UQ?oc=5",
-        "source": "Sud Ouest",
-        "published": "Thu, 08 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "«Nous ne pouvons plus rester les bras croisés»: le franc suisse a un problème",
@@ -189,16 +183,22 @@
         "published": "Sat, 04 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "Population suisse limitée à 10 millions : pourquoi le projet anti-immigration inquiète le monde économique",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSVo2T1R4YURwcHlzRENoZTRMM0haaWcxTWRweXNscUpINzJzUkF5RnVJUHZqT3VwWFBoNmNmRTQ4TDJrYldGVWI0WVl3NWl6XzIyV1dsY3Y4ajc5ZnBWS0tJZTkyXzJ6S0d6SnJSWS1nLUNCZXVHOFVVVlNMTF9obEJiZldMeTU4SXV0NDdkUzFMUkhFME9WRExKUVdZekJIY1FkYzVTN2QxeHUwWWtIQ0J2T0YwM1hoWl8wQ2dQeTNraDlpakpOUUZCRU9YVW9HZ2Y2cldVY2pxT1o3VnBfRi1ENGQyNHQ4Wkd4b1B4V0xya0FpWUlfbzVsWlFnU2RnVWZaSmpMOHA?oc=5",
-        "source": "La Tribune",
-        "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+        "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
+        "source": "interpharma.ch",
+        "published": "Wed, 31 Jan 2024 08:00:00 GMT"
       },
       {
-        "title": "Les entreprises exportatrices sont les moteurs de la productivité suisse",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXZmdXRxMGU5VlFXSlVKTml3RTJ3NzhtTExMQWVqSWJxRjE1TUZYTk13OU9NSVA3NTU2dGExQ2lIWXlqSlBpZjVwZnZqNW84cU9JRjVjX1lIN3J6Z3RUMmhleXZiZTVONW1GV09kM0c4Zkh3b0Jaa1lNQjA4VE11Z1lBX19DTGkyV0Y0TC1FVnFiaS1HVGhqSm1DRE1LbHBGVUhSSmM4ZEpxZkxhZ0pUaWpYcEU?oc=5",
-        "source": "Economiesuisse",
-        "published": "Thu, 19 Mar 2026 07:00:00 GMT"
+        "title": "L’économie suisse de plus en plus dépendante de la pharma",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjZHVWM0SDdmUThxWVluNC1SMnJXS2RXTGpfT25aNXh6SjNDZEFUWmo2aWRQdmhtU2dFN3hqTU1mMWhQUjlIY3R5ZGhHQXJURjg5SDlfR05HUDVXRHhwNWV2S2tTR2hJQlAyRURJNkFaWTFKQ3E5VVFXWExobjMyWk5YM3pRbDVKVzFKc0FMc1VhcDFOTG9kN3ZR?oc=5",
+        "source": "agefi.com",
+        "published": "Tue, 04 Nov 2025 08:00:00 GMT"
+      },
+      {
+        "title": "Ce qui attend la Suisse: les perspectives économiques pour 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkZ0MkpucEhzSWExdVdZSHkybGdJYnpxR2NkUHIyNGlHeVJ2Q0dXYmFwaDJJZ0p1MVFlYmU2cVpORUVvRTIwNENYcktKMzl0ME9RSzdRaGZXdDM1TFF1Nnl6UFFlMTVoc1NSVlpveXhRZDE4STREQ1hrblhxVUt1MjdfdEt6ckk1R1l0X05tRmt4TVRubWVxbWMzMkdtVkktQWdxQk1uelY0TFhheVFmZXBwMnBQNW5tLUtGeFd2Y3c?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Tue, 30 Dec 2025 08:00:00 GMT"
       }
     ]
   },
