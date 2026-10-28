@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T04:52:23+00:00",
+  "updated": "2026-10-28T07:00:43+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -53,16 +53,16 @@
     ],
     "Horlogerie": [
       {
-        "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
-        "source": "GQ France",
-        "published": "Tue, 13 Jan 2026 08:00:00 GMT"
-      },
-      {
         "title": "Pourquoi le Japon gagne la bataille des montres",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
         "source": "PME Magazine",
         "published": "Tue, 16 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
+        "source": "GQ France",
+        "published": "Tue, 13 Jan 2026 08:00:00 GMT"
       },
       {
         "title": "La longue marche des montres suisses dans la Chine post-luxe",
@@ -95,10 +95,10 @@
         "published": "Mon, 06 Apr 2020 07:00:00 GMT"
       },
       {
-        "title": "Les montres auront leur passeport biométrique",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUhXdktpdWRjalFjeVFaeGVvVUE2ci1iMEh1ZWJCLVVNNGJ0MFlJaGxSYXNNbktFZjBsMUxJOUlKdHp0ODZpdzlYZFdMTDNaRFp5LUlrZHNxZHdfcmsyaWlMQUQ1Ym8yT3BPbXVTWHkzYUJVa2pXUWc1bzBDcDh6UDA3SEI2WVhoWWE2VnB2T1RxbVdGcU9nak5QV2dJbHl2U0hGR2ljamhRMlVQR2VPMWJsdlVNMTBNVDk0cHFIRE4yWGpRTHpkV2tFMWlyT2E2?oc=5",
+        "title": "Hirsch: les nouveaux défis dans le bracelet de montre",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM001WnpSQWRnNGp5UXlDTVM4VkhfQ2c5UDkwMTdCaFhoS2ZJdndUcXNmaFlmUzc1UWR5WXNkVHpTSTAzaldzaXhybFBWdFR6Vzc2bHIyd1d2anBXd1ZTa3pHZG9TV1BJd1czOGl3dU1ILUI1ZFpaWHhFbWNjTWJiZXZzMDhpUjJQd0tEOEY4a21icG1zNDVyUHhpRHBla0ZpLUROTXVTZXpJSTg5NGdOWGFDSWYtQnFo?oc=5",
         "source": "Europastar.ch",
-        "published": "Sun, 18 Jul 2021 02:40:13 GMT"
+        "published": "Mon, 05 Jul 2021 18:27:25 GMT"
       }
     ],
     "Sciences & Technologies": [
@@ -109,10 +109,28 @@
         "published": "Mon, 21 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Panique en orbite : parti sauver un télescope spatial, le satellite chargé de la mission devient incontrôlable",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaFRZV1dLQWhZTHlxeTVlTzRTVmtzWHZRcDZBQ050ZmFGWkNFVW1reXU0cEMtRU5MckJacVdVUlZ6WTRsN2ZnRFlHMENBUjBXUTFjb28tejBWUXNkOXAwYnNMdEJoNVRQNERpdXlaOHFNQmtCLWtPTGthamhHNkhWUzZKSEp1a0VwTkRmcWVaNkJnWDUxenJFT01MQ3NPMDd6N29hTzVRNlFNdWxXcEdVSnJERWx1VUtmRDB2bm1nRDg4OXkwcklKa25kYmNQcmxQWjFXTkdNWWcyOXNEcE1uTFhOT0k1by13YVFOM0F2UXVDQnZKWldWVQ?oc=5",
+        "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQR1ZrSTlrcmFJdENZOHI0bldQUXdvekNMMDhaUl8tSlVnd1NtYld1allfcWNfQS1mdE5DekRrcGN6UkFoeTdPdlVza21XTUtwQ2tQTkhYbjJza3IzT09GLTNEeG1aNlMxakxueHlGRGhyYWxtdnpHN29sVUsxcDF5QUhNZ3dweGRDX1hqeldNaTVWSnh0ZTdUT0NQRnl6TU81LXYybUQxM3owcVlyZFlhdXZ2cFA1WHBpRDJ3dlZvRWRKZkk4dFBHMkpXNi1fYzYwcV9oLVdJdmRUNDhPYVdweUdvZnVsNkNlZER1MXgzTkZsT2swZFQtQml5X1ByN2J6SkYxdEJvZThzcnM4RGIzLV9ZeEdmOWhsNmJRdkpOc3JjNnVKY0RUOHlxNVZxcmtpU2lGaTV6ZXVPUVdMZ3dlbl9fS1JLdkRWNU5pRkZvV2lKSlBDTHJmZmVGeDFRSGVMUk0tbms3b1ZuSFl6Zy1oNUxOQQ?oc=5",
+        "source": "BFM",
+        "published": "Tue, 03 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnZDYjlOTXhRUHBlaE55MTAzUEdveWMweVNYVkluRHBfbmNvRDI3b3pRLThLSzZkN3FBQmRhSFhOZWZTUzFTN3gyaXZ6dFMwWUFzS2ZmQ1FDQ0xYeHBSZXRYeEktcHg0ckZnVmFyYW9NWmRMSzY2VEdtU2NubWctTFo3bUsxVnhjS1EyMFA0N1ByemtKc0Z1X2xicS1TaXpGbExyc1V2OG9MQXRxM0ZOTUJYU1ZCZWhDcUx0Q2FNUHFULW5pNERnOFY1V1E3REFlQmlSOXdMeWg?oc=5",
+        "source": "Futura, le média qui explore le monde",
+        "published": "Thu, 27 Mar 2025 07:00:00 GMT"
+      },
+      {
+        "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
         "source": "Science et vie",
-        "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+        "published": "Tue, 05 Aug 2025 07:00:00 GMT"
+      },
+      {
+        "title": "La Nasa va tester la fibre laser dans l'espace !",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmhwYXhjVWItcmFlOHhDY0FZZ0lfbXdha1NramJwbERXbmpHZUNvM2J2dWxQTE5fb2F1YXNVSlVzMEJvN2RKalJXOW9fRUp4VmRJcmszdVJFR2lSVU14THhEQXUwNVZzWlAwalI2WkFGQUxwS3pET2RkNEdkVklFNWlQZU4yc1JvVmVrUUswR0I0RVV4YlVLQWhLU3c5MzBzdzBGMzMtb2h6N0JRSi1FRmFzWGdHdmc?oc=5",
+        "source": "Futura, le média qui explore le monde",
+        "published": "Tue, 25 Jan 2022 08:00:00 GMT"
       },
       {
         "title": "Un GPS sur la Lune : des lasers ultra-stables pourraient guider les astronautes et servir de base à une horloge atomique spatiale",
@@ -121,54 +139,30 @@
         "published": "Mon, 25 May 2026 07:00:00 GMT"
       },
       {
-        "title": "Tirer au laser sur des satellites : cette improbable expérience de l’ESA ouvre une nouvelle ère spatiale",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOC1OQ2xTU2Zab2FZVzJtZmtZSkowOEk3TUdSM21YaWFxMkN6blJCZVo1dnZNNkZNUEFuM0k0RWZ1SG1lbzJsWFN6MmVuek5fbG5pT3ZHLU9JR3ZmWnFpTUluRTNqOUt0SFlZOGxyYXo3WHU0a2UzVXl1NDZaOEg1RXhuZmN2SXlVZUJwUHZTZVViOGxZRkRlelM5OExMRHdOOExOUExsYWNxZ29EMU04bHlvc1Q5b19ESkhRR1dEcFFhV0xpNjh0aUR5VnRObDlLLWJDUGk3ZE1lLXhQUi1mS2dB?oc=5",
-        "source": "Numerama",
-        "published": "Fri, 10 Apr 2026 07:00:00 GMT"
-      },
-      {
-        "title": "La Chine va lancer des avions dans l’espace avec une catapulte électromagnétique !",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNHllcGdqbWRvdHAzZVBSaFBCbUlQRjVzSFZvWWtkdERONmlGYk15X3RzWVdQSkNRR0RpaFd0aWxQWEdsQ2ZuWlBpT3o4cGFQSjNIbV9wMEt3ZHlrRHFFRnlkOHJIaWx4ODN6dHF5RGZYaGNrTDRUWVpEaVJ0a0lyX3Y4S2lVMzNDdl91aWxrcjhja0l4SHpDNndyal9LamtvNVlSOWxYNDBQNU9pTm4tUEs2dGRmWGUwc3c?oc=5",
+        "title": "L’avion spatial top secret de la Chine débute une troisième mission dans l’espace",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjJfVkRSaWxmZHBzb1B1X0Jpc0J6S2NEb0NQTVl2aDI4RGZtbTlfT2pUQmxyZDZYa18teEthb2dqMmF4R2pTZHdxSVJyZlZFQ2FjdVNnTTlSeUNJQUM5ams5MmlCZ1RQdGcyTHZYck9XYi03LVBJMUZUOGR2MXZwV2RPLTNKMFdfY1k0OVQ4LXN3WHFJajlPTHZRQ3JCXzNLV0VUYmxCZnczR1dMT0VpcUFWanI2dEY1ekpGM003b2RGNDFYcU45TUNRRWw3NWly?oc=5",
         "source": "Futura, le média qui explore le monde",
-        "published": "Tue, 19 Mar 2024 07:00:00 GMT"
+        "published": "Sat, 16 Dec 2023 13:36:03 GMT"
       },
       {
-        "title": "SpaceX envoie une “navette fantôme” dans l’espace, et personne ne sait pourquoi",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVNqenlXdUJibXVqQTF6emNYRE95b1JiUnk3SGR1cmxEdWFMZmV2TzRyODdlUS1fZmp5d3hqXy1UWThVczRqRnZpZFN5RDNIRVpwY2NnUWpjQ3J2Y0laVDZZX3M5akhXVTdoeGExWElyamJFalhMSXlqNXljMmVyWWlKVy1CMDJLeTJZT2VpWS1sdDdwMWVGcTkyYTZUT1dLTFpPVkY0VmFXcEs1M1F3czBjOGV6LVlQN3Z0a2YzQWJaU0ZIOUE?oc=5",
-        "source": "Les Numériques",
-        "published": "Fri, 22 Aug 2025 07:00:00 GMT"
-      },
-      {
-        "title": "2,6 Gbit/s en plein vol : l’incroyable prouesse européenne au-dessus de Nîmes",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFA4d2NmNHd2SUl5OTZZOHpjOHRoQ3ZTa0loaTZRVDJUbFhZVzktVDJOV2FWSkIzRnN0UEp5SkJnSjlWMnpWUy1HVkVMMW9vb2FJaThmVmFlZHRyUnliSVNETExHQzk0RmFycXowS1k1Nl90UU5meXpXM21LOGQxeFgybGw2MzdQN1VidE1zdlNWQ3VSUlVGQUh6WkRfa2szSElsMjZGeUM2T2ZFUWh3QzdKN0xLNVk?oc=5",
-        "source": "Numerama",
-        "published": "Thu, 26 Feb 2026 08:00:00 GMT"
-      },
-      {
-        "title": "X-37B : l’avion spatial militaire va tester une navigation quantique sans GPS",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc3VtYTlTTGZieEJabTZSU2NXelVrb3JGSTNMWXJUSUprLUNlY09Ca3lHQWZVaVh6THZDREZWcmx5Y0s4VW9JVDVCemVaSXptMHA5MzYxazZwdnZfR25tcjU3Q2ZnX3JJT3NsYzktN0NxZ0NjQTZPWXNhZFQ0eGc0Ukg3ZzVTQzBmX2FFZlNBQW9zZTRlalJXTUFOM0J5TzBTa0YzR0c0ZWM1NkRxbDU4ZGJqRDBWU0luYkpPczJPbC14R09rYkdodlJyTkkwV2VPYU5WSQ?oc=5",
-        "source": "SpaceX France",
-        "published": "Tue, 29 Jul 2025 07:00:00 GMT"
+        "title": "Le mystérieux avion spatial chinois a largué un objet en orbite",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFlMWE96Z3dOMVo1eTYwUXFKUTBvQ3VCckVMU3BSN1FMS3hTUXlWa2p1ajNhY3hDNUpjcEhKeExYS2pEVGhucUlQc1lnUDlSdmt4VDdBQWh1NHNMdmxKZEVDQWJNMnAxVEd1WEFfbTRnRFdSdlhCYzFKRkpEbjJIOEk4Qm5jUmxQSXR4U2pILU0xZ1ZnUjQ3dHJ1T3lhQWVZTk9fOTFJSkdPSkpMTXJPSHdtbmg4TlZCSXYxbzdR?oc=5",
+        "source": "Science et vie",
+        "published": "Wed, 29 May 2024 07:00:00 GMT"
       }
     ],
     "Économie": [
       {
-        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
-        "source": "Le Temps",
-        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+        "title": "Philip Morris Products S.A., leader en Suisse de la certification \" Gestion Durable de l'Eau \" (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JeTdSdUtXcTFKX0x3MGR3bWVQNU9MTWJjbHNiMWFSdDFDcXUxaUNiTUtBcmRYS2tyUm9zYjJlYmRNM2xPRnBCOWhCOGwyQ05Xa3ViTzhuLXBXMkJ5N200RmhBbw?oc=5",
+        "source": "Presseportal.ch",
+        "published": "Wed, 28 Oct 2026 05:00:08 GMT"
       },
       {
-        "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEd2RVdVbUpmZTBXVjNEc2Z5dDN3X3h4N2d2OTJXdGZpQVVDQzFfSnZZazFVZE9DMXhrdGRnZVJKNnAzdzh5cm9vb3EyUVF4Yk4tRDlVZ04zZzdzbTdCRndNNlpOYmhxME91V3F4Qm5lYkpNTHNFOGFLdU1OZHhwNkRoQjVCbmZJOTh0MlJmc1Z3WURBWjV0RzF2VnYtVFhOdGNGZEdtNzlsMVMtOFZfWEJsWE4?oc=5",
-        "source": "Watson",
-        "published": "Fri, 21 Aug 2026 07:00:00 GMT"
-      },
-      {
-        "title": "En graphiques: la pharma, fleuron de l’économie suisse de plus en plus concurrencé",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSUg3aDhwYVBuZGpWSWllT1IwUFRpRE5tQmtGYm5XNk5NTkFiV0c0dG1YQk5lUVdYNzNobVVCNldqNG5NZmM2SmF3Uko3TVFCbU53VWpXdjNaMExwbVdZb2JpSVZCbndZcVcxYmZrbW84U2k5ZXE1elZfalRPcW93eDBwQmlZTlphXy1iYzRCa3FGRV92LWY3UHBET29PSENGLVJGeU1hUUpxRS05QzlXclI3djFVWm9ESk95amVGNmFRY3dFQWI5ZE9GWmlVODRLbHlWNk1QWWpCNjZjM0lJNQ?oc=5",
+        "title": "La guerre des aimants menace l’industrie high-tech suisse",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaDk5Z0lMNGxKNm1ZLVVJZVNxNGdGWDFzZG10ZjlURDdTbkc3NjZTaFo5MGtQSjQ2SVpIX3NZaVVOc2NGVHBmeDdGVnlCT3hqNkgwT2xJR2hWVkptZUVLUWp2dnRzVHBKcVd1bTR4MWtueDRrYllYUi1peFA4a1hxNmI5SkZ5OVY4QUpiV0NsZzVaQXd3U1JZNFJoQ1hSYjlyZk45b1dGVWtRQ1YyYXRBTHJocnA?oc=5",
         "source": "SWI swissinfo.ch",
-        "published": "Fri, 19 Jun 2026 07:00:00 GMT"
+        "published": "Mon, 26 Oct 2026 08:40:30 GMT"
       },
       {
         "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
@@ -183,22 +177,28 @@
         "published": "Thu, 08 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "«Nous ne pouvons plus rester les bras croisés»: le franc suisse a un problème",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXVROVY4dklybDdaZUpyN3lrNzJsclhfS0pYWTlvNmtRbEVNSEQ4UWpuaUpBajRTSWVVRk1HaTl1S0RMQjRFcXlna05zSWpyaFpFcDRoLWJKcHotM2tweVdidGM0WThoRG8ydGJXUVl5Y0xyWU05QmhBajBPWnhJYjB2REJ5NldCdnZQV0ZETThKOERubUFXNlY2UW1IMW9vRDdUcWp2UkpsaWxySnJDeXNsSk8?oc=5",
-        "source": "Watson",
-        "published": "Sat, 04 Jul 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Les entreprises exportatrices sont les moteurs de la productivité suisse",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXZmdXRxMGU5VlFXSlVKTml3RTJ3NzhtTExMQWVqSWJxRjE1TUZYTk13OU9NSVA3NTU2dGExQ2lIWXlqSlBpZjVwZnZqNW84cU9JRjVjX1lIN3J6Z3RUMmhleXZiZTVONW1GV09kM0c4Zkh3b0Jaa1lNQjA4VE11Z1lBX19DTGkyV0Y0TC1FVnFiaS1HVGhqSm1DRE1LbHBGVUhSSmM4ZEpxZkxhZ0pUaWpYcEU?oc=5",
-        "source": "Economiesuisse",
-        "published": "Thu, 19 Mar 2026 07:00:00 GMT"
+        "title": "La neutralité suisse: quel avenir?",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOREF4ckpuVE5ZX2pzc3Rjb0R1cEwzYk53cWpJdmU0dEdmU1NORXViTjU0U01fNTVneG5jWnFKeVJDLURZNExaWTlnRjh4XzRGb0g0ZjJpNHgzX0h5VXZQZUxOby1PZVpaOUNCMG5nSmh5VlBWQzlUcGVMQk1MdGV1WW1TeFpZOFgteUsyU1l3V3VYRmotc2FhYW50UUVlYkUzYWJBRmc3SmZOZGxrSTN6NGRmWGYxbkRfM1pTSWMwTTlYZw?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Mon, 28 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "Population suisse limitée à 10 millions : pourquoi le projet anti-immigration inquiète le monde économique",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSVo2T1R4YURwcHlzRENoZTRMM0haaWcxTWRweXNscUpINzJzUkF5RnVJUHZqT3VwWFBoNmNmRTQ4TDJrYldGVWI0WVl3NWl6XzIyV1dsY3Y4ajc5ZnBWS0tJZTkyXzJ6S0d6SnJSWS1nLUNCZXVHOFVVVlNMTF9obEJiZldMeTU4SXV0NDdkUzFMUkhFME9WRExKUVdZekJIY1FkYzVTN2QxeHUwWWtIQ0J2T0YwM1hoWl8wQ2dQeTNraDlpakpOUUZCRU9YVW9HZ2Y2cldVY2pxT1o3VnBfRi1ENGQyNHQ4Wkd4b1B4V0xya0FpWUlfbzVsWlFnU2RnVWZaSmpMOHA?oc=5",
         "source": "La Tribune",
         "published": "Tue, 09 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "L’économie suisse a légèrement progressé fin 2025",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWVtTDVNd29ENXFHdzVmcXNtbFZjQU9VUmxZbDBac0NyUmlzU2xtaUJjRE9aVUtEWjl1elNGdmFFT2RTa1psUkg3S1B0blBPYllDVmo1d3UtM2w1a2Ftc2E3NVpDeF9WLVJfOTVTbXVLaWFVRzVELUt0b3ZRY1B3ZkxIQ1Jtbm5vdS1ZX2tTSzk3bW5ZVkE?oc=5",
+        "source": "agefi.com",
+        "published": "Mon, 16 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Le plan de l'UE pour ne pas être «balayée» risque d'impacter la Suisse",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXAyS0pkZS1ITFF3ejMtamVuaTNTYXlTLWJ3c0VIOFNjMjNvaXZtOE8zNWFneHVXaTM0X0RTMlAtRV9zQ2U1YzY5WDRhY05YR3hmbEw2WjRoeW45SURNZnNaMU9BUHRVSmJpTGNPbWhEUGZOblBGcFE3b2lBQVdhTG9oeEJpRm1WUERScGFIcWpCZmNfYjY0MmVtaVhrbFMyc1hpZHU4bUNNamx5a2VR?oc=5",
+        "source": "Watson",
+        "published": "Fri, 13 Feb 2026 08:00:00 GMT"
       }
     ]
   },
