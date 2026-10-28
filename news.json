@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T08:57:02+00:00",
+  "updated": "2026-10-28T10:52:41+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -45,10 +45,10 @@
         "published": "Sun, 27 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Traite d’êtres humains: 27 interpellations en Suisse dans le cadre d’une opération internationale",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1hrNnlqRVllUFZOMUJIVDJIV3ZFZ1RjVnlzSnljbW1GZ19Ga3hSM1Y4QVNZS1N5X0Q0NXYwUXJvM2I4RjNxWmVmYmIxSk5hTkEzY0d1NjBSZWhQeWtkS3JKeGwzZEE2eV9qZkhUejhfY3RRUTBZTU5XTzFUcjZaSW1fOWhVSTQ2ZXIwT200Mm5BTGh1M2xjTkJPS0I5V2QxYWlpbHVHcXlHX2dCS1pWUGRnMW92MWswaEFxNnpjRHN5S3RNYXhDM0kzbzItQXRrN3hV?oc=5",
-        "source": "Le Nouvelliste",
-        "published": "Mon, 06 Jul 2026 07:00:00 GMT"
+        "title": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR1JIRk50R0JLSFhRd0d1V09KamJnQ1duS2FPS1JqcUFrOU52NGJfX09lNlBGSEsyZVhqa2xrOW9JSE54eHBpbFozVnJqbzFuZlBzYlNXakJlZ2xJZjRkU3ZpcmwxQ1llVktuaEp4cVllczc2ZVVEcGFuUVU5ZkNLbkFtTlJfeVZqSkFyR251cERZQTJFUldyV0FqczdaQmx3N3JrcThTUXdDRmFzVnIzTk9fOXJsUDZraVBBOWFmczRQZWNmcW5OMjBTaGxVeTVPMUJjbVo3c2FsVkd6cUdva3NlZ3N1eFdkMWxXTUhB?oc=5",
+        "source": "franceinfo",
+        "published": "Sun, 27 Sep 2026 07:00:00 GMT"
       }
     ],
     "Horlogerie": [
@@ -189,16 +189,16 @@
         "published": "Sat, 04 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "Population suisse limitée à 10 millions : pourquoi le projet anti-immigration inquiète le monde économique",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSVo2T1R4YURwcHlzRENoZTRMM0haaWcxTWRweXNscUpINzJzUkF5RnVJUHZqT3VwWFBoNmNmRTQ4TDJrYldGVWI0WVl3NWl6XzIyV1dsY3Y4ajc5ZnBWS0tJZTkyXzJ6S0d6SnJSWS1nLUNCZXVHOFVVVlNMTF9obEJiZldMeTU4SXV0NDdkUzFMUkhFME9WRExKUVdZekJIY1FkYzVTN2QxeHUwWWtIQ0J2T0YwM1hoWl8wQ2dQeTNraDlpakpOUUZCRU9YVW9HZ2Y2cldVY2pxT1o3VnBfRi1ENGQyNHQ4Wkd4b1B4V0xya0FpWUlfbzVsWlFnU2RnVWZaSmpMOHA?oc=5",
-        "source": "La Tribune",
-        "published": "Tue, 09 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Les entreprises exportatrices sont les moteurs de la productivité suisse",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXZmdXRxMGU5VlFXSlVKTml3RTJ3NzhtTExMQWVqSWJxRjE1TUZYTk13OU9NSVA3NTU2dGExQ2lIWXlqSlBpZjVwZnZqNW84cU9JRjVjX1lIN3J6Z3RUMmhleXZiZTVONW1GV09kM0c4Zkh3b0Jaa1lNQjA4VE11Z1lBX19DTGkyV0Y0TC1FVnFiaS1HVGhqSm1DRE1LbHBGVUhSSmM4ZEpxZkxhZ0pUaWpYcEU?oc=5",
         "source": "Economiesuisse",
         "published": "Thu, 19 Mar 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Population suisse limitée à 10 millions : pourquoi le projet anti-immigration inquiète le monde économique",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSVo2T1R4YURwcHlzRENoZTRMM0haaWcxTWRweXNscUpINzJzUkF5RnVJUHZqT3VwWFBoNmNmRTQ4TDJrYldGVWI0WVl3NWl6XzIyV1dsY3Y4ajc5ZnBWS0tJZTkyXzJ6S0d6SnJSWS1nLUNCZXVHOFVVVlNMTF9obEJiZldMeTU4SXV0NDdkUzFMUkhFME9WRExKUVdZekJIY1FkYzVTN2QxeHUwWWtIQ0J2T0YwM1hoWl8wQ2dQeTNraDlpakpOUUZCRU9YVW9HZ2Y2cldVY2pxT1o3VnBfRi1ENGQyNHQ4Wkd4b1B4V0xya0FpWUlfbzVsWlFnU2RnVWZaSmpMOHA?oc=5",
+        "source": "La Tribune",
+        "published": "Tue, 09 Jun 2026 07:00:00 GMT"
       }
     ]
   },
