@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-30T10:53:09+00:00",
+  "updated": "2026-10-30T13:01:28+00:00",
   "categories": {
     "Suisse & Monde": [
       {
-        "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
-        "source": "Le Nouvelliste",
-        "published": "Sat, 27 Jun 2026 04:45:25 GMT"
+        "title": "Secrétariat d'État à l'économie SECO",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
+        "source": "admin.ch",
+        "published": "Tue, 09 Jun 2026 10:18:12 GMT"
       },
       {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
@@ -15,22 +15,22 @@
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
       },
       {
-        "title": "Présidence suisse de l’OSCE 2026",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VRWVDaENFNThrUTJIRS1FVEVwcTBybzVRdzVLSmNCUTEzcTl6TWVGZTl2cTFicjMwazVmMk1kWWwxYWU0REJOeWVXWDdnS1BaX1E5MVFQcDdEd1ZMd2Ztemg0VXQ2Zw?oc=5",
-        "source": "eda.admin",
-        "published": "Fri, 16 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
-        "source": "rts.ch",
-        "published": "Sun, 24 May 2026 07:00:00 GMT"
+        "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
+        "source": "Le Nouvelliste",
+        "published": "Sat, 27 Jun 2026 04:45:25 GMT"
       },
       {
         "title": "Les Rencontres internationales de Genève font le tour de l'amour",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlpoeHg4OC1UQUtiaDItQ2txa3ZWOW5YQVN3YmVabEFjcXIzTUVDNnZaSlQ1aW93Z0J4aGNwd0kwR3lVR044X21jRjk2dnljcmtFeS1LUU9VYUkxTWtwQWpWaDVPRzVfcGd4TkYtWDJ5UUozVTMyYjNPNkEzaVBMWklERU9hczlJb3lnVHRMb3E1TGtlZEFDNkxFVVJ3S18yRXZQZg?oc=5",
         "source": "Rhône FM",
         "published": "Sat, 19 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Présidence suisse de l’OSCE 2026",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VRWVDaENFNThrUTJIRS1FVEVwcTBybzVRdzVLSmNCUTEzcTl6TWVGZTl2cTFicjMwazVmMk1kWWwxYWU0REJOeWVXWDdnS1BaX1E5MVFQcDdEd1ZMd2Ztemg0VXQ2Zw?oc=5",
+        "source": "eda.admin",
+        "published": "Fri, 16 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "Ignazio Cassis est dénoncé devant la Cour pénale internationale pour complicités de crimes de guerre et de génocide",
@@ -53,34 +53,16 @@
     ],
     "Horlogerie": [
       {
-        "title": "Pourquoi le Japon gagne la bataille des montres",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
-        "source": "PME Magazine",
-        "published": "Tue, 16 Jun 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Horlogerie : les musées-boutiques à découvrir cet été",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWdzS3o4WlNJWHptbmhDMG8xMElSbl90eFVnYkhFSnAtY3UxMHRhYXFYaURtaGVrWjFhaHIxYnFHa285a2d1Z2VuZlUzSWQ0VzE3dEl5OElNVlpMcWNBemJYVVN4LWtxMmV3bXJ3bmlvN01sbjQwQWVrMTFJZ2g3R3JDZzdrRXBCNkhzaVpvOUkyVkEtV1hkNEQ4Q3bSAaIBQVVfeXFMT2VNUzFRX0hPcVI2RXBKS1g5YzZDZDJYYVRxS2xhSWxYMkotRFNYMHF5aHhmSkN1azNkME0tVDdicVVKdzZ6UEMwQ3dKaUhYcGMxaFROUXgzVEZSU1dwa2xqYjVvTGxQQXZYMllfVWQwM1BsY2hUZkF4bF9SaWxpamhWeHZmSW5GQm9qRE1BMEZfb3JybGpXZ2kzTEtuUTVaS3dn?oc=5",
-        "source": "Journal du Luxe",
-        "published": "Fri, 31 Jul 2026 07:00:00 GMT"
-      },
-      {
         "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
         "source": "GQ France",
         "published": "Tue, 13 Jan 2026 08:00:00 GMT"
       },
       {
-        "title": "Julien Tornare, CEO de Hublot: «Hublot va rééquilibrer ses investissements»",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTJNX0lCR2hUcWZyQ2NsY1JnU3lPdEs1azVmY1ZtSTlWLVpVMGJVR0ZhUHQtVGR0Y1NQYWZWclVxX3drSGp1Mm93Z202MXNKWTlQQTloTmp0SGNnQ3VjQzFjc1lSaEJMQ1E3XzVhSWRHZ09RVzkzXzNsa1M2RnJjVnlLMEtEZU56WS1nUnl6SlF1M0RWWGQ3N0VRSjY4dWJ0UDk4?oc=5",
-        "source": "Luxury Tribune",
-        "published": "Thu, 15 Jan 2026 08:00:00 GMT"
-      },
-      {
-        "title": "La longue marche des montres suisses dans la Chine post-luxe",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEtBWEdJb1BvUjdOSDl2NGZPcl9PNm94bmREY1RLM3NlRzEyRnNBQnRiREhwUjVFYm8zYXVGR2xRQWZRaVJELTFrT0Q0SWdDLXNyTHlkVGZfQkp6UDJoRTlqYXdmSHA2cVhfdU8tSWlrbDVNV3gtVWN3Z0V5NWRtNVRSQVU4M0RRZjlsTXRnZGFJM0NMWnlxc2h5VnRNdVRadGpQM2t1eG1aM3RReHk2R0c4MDU?oc=5",
-        "source": "Le Temps",
-        "published": "Thu, 02 Oct 2025 07:00:00 GMT"
+        "title": "Pourquoi le Japon gagne la bataille des montres",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
+        "source": "PME Magazine",
+        "published": "Tue, 16 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "L’horlogerie en 1927: des changements structurels majeurs",
@@ -89,16 +71,34 @@
         "published": "Sun, 08 May 2022 07:00:00 GMT"
       },
       {
-        "title": "Zenith dévoile la montre « la plus précise » du monde",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjFXWEpyaThsaHNjSVZZZUswS09XdThZNkc0dlg3SVJxVFcySjZaeUhFczFwSVlUU0gya0c2alpmb0pmYkFHNnMzaVRkQnl6R1dJMTB4RnNqRmNhVDZnR0Z2eTJ1ZFdVazZkd1ZTamhweUJsaEpIM1hMZGd1c0VGdi1DZzRSdlFSNnpPUktoaTQ0bnd6bVJFRFpsbHk4UldxbkEtY1VB?oc=5",
-        "source": "RFJ",
-        "published": "Thu, 14 Sep 2017 07:00:00 GMT"
+        "title": "La longue marche des montres suisses dans la Chine post-luxe",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEtBWEdJb1BvUjdOSDl2NGZPcl9PNm94bmREY1RLM3NlRzEyRnNBQnRiREhwUjVFYm8zYXVGR2xRQWZRaVJELTFrT0Q0SWdDLXNyTHlkVGZfQkp6UDJoRTlqYXdmSHA2cVhfdU8tSWlrbDVNV3gtVWN3Z0V5NWRtNVRSQVU4M0RRZjlsTXRnZGFJM0NMWnlxc2h5VnRNdVRadGpQM2t1eG1aM3RReHk2R0c4MDU?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 02 Oct 2025 07:00:00 GMT"
       },
       {
-        "title": "Les 7 musées de l’horlogerie suisse pour un voyage dans le temps",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BdXBpRWFjTVF3TXBZM0pBYThxMmdCNENYekhLei1IUHVhWk1Wb2Yxam5PUURMRjJIYndfZEVpYi1Yc2kxazBGSUlDZEVBTHFYWlhnRUdwVDEwZnRFT2FndENRbw?oc=5",
-        "source": "Generation Voyage",
-        "published": "Fri, 07 Nov 2025 08:00:00 GMT"
+        "title": "LA SWATCH, ÉTERNELLE INNOVATION DE RUPTURE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1Q0eE1IX0M2d1d2OXRtWkx6WWFHbmVHdmxNcG02SDd0VVB1RTMwWTctZW9iSExlRWJ3MHRvVmpzdkY4X0tBVUthZnJ3ejV1OWNrMWZVejhaT19nS0NMcF9sX0VlXzRObWQtd3UwVUcwRmNIcnBaamFXc2RlbWZINWln?oc=5",
+        "source": "Europastar.ch",
+        "published": "Thu, 08 Jul 2021 02:25:00 GMT"
+      },
+      {
+        "title": "Quand Tavannes Watch révolutionnait l’horlogerie et la vie des ouvriers",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLTNXVkJFOVZKRUZ6U1JBUTgzT2xuUHNrMzJGdHJidVFjRWNKQnhjMUpUa2M0a2FqaEkwRU1nY0JXVWlxVjJ3ZnBNdm11MXdZTkpMUDZmOHFTVVFibWJxYnRTTzh4UmZrN1dtWDdwZ2I1a1A0cVpCdTVxZmpac3hQTXZJeHdZXzBIZ2dJYUZYLVo1VlhRbjRfN2VsRm92cXl4RGktWnFrakJwdmhOQkJHVDRpTHR0Zkk2MjNPWTY0cktVZ2c?oc=5",
+        "source": "Le Temps",
+        "published": "Tue, 27 Jun 2023 07:00:00 GMT"
+      },
+      {
+        "title": "Les vrais chiffres de l'horlogerie suisse révélés par Morgan Stanley",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUdrYXJWa0RIeE9FLTNvWGhhRWJfRWhfNkJidGgyeDlFaFp1NWhOazVKLTREcTRKMzkyaWpVX2llcjRWVC1jT0lXVTdVMWFnV0VqWVlKTDJCa0pZaEZocHBCV3ZFRnhYdnFUVVhVWHI3M1JCcktRUUhlSDJIc25DVXBlTi10YXJEQS00YkxoVUxhcUxLWmo4eHhKcGRkakxQTDJma1h1VnZSbXVPZjNSZTBqNFF6RThoMmxPaWRuVVJnMUp0dXc?oc=5",
+        "source": "Le Point",
+        "published": "Mon, 06 Apr 2020 07:00:00 GMT"
+      },
+      {
+        "title": "Hirsch: les nouveaux défis dans le bracelet de montre",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM001WnpSQWRnNGp5UXlDTVM4VkhfQ2c5UDkwMTdCaFhoS2ZJdndUcXNmaFlmUzc1UWR5WXNkVHpTSTAzaldzaXhybFBWdFR6Vzc2bHIyd1d2anBXd1ZTa3pHZG9TV1BJd1czOGl3dU1ILUI1ZFpaWHhFbWNjTWJiZXZzMDhpUjJQd0tEOEY4a21icG1zNDVyUHhpRHBla0ZpLUROTXVTZXpJSTg5NGdOWGFDSWYtQnFo?oc=5",
+        "source": "Europastar.ch",
+        "published": "Mon, 05 Jul 2021 18:27:25 GMT"
       }
     ],
     "Sciences & Technologies": [
