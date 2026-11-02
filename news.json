@@ -1,25 +1,7 @@
 {
-  "updated": "2026-11-02T05:07:12+00:00",
+  "updated": "2026-11-02T07:32:07+00:00",
   "categories": {
     "Suisse & Monde": [
-      {
-        "title": "Fil d’actualité: Politique commerciale de Donald Trump 2.0 – conséquences pour la Suisse",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDhvSVJmckZOUzNtaE1QczFMazdwYzU0a3lCbDJnX0l1Nm1aTXRETUp1ckJVUTRVeXRYWW5ybHc3RjJibks1X244cS00WGZYdXZ0TWZEaDlwQldiUlR6bTZVNEZfOW11cTA1V19WTDUyUnRWYUlxbFR5aUpMMW9tZ3ZIMGYxZS1yX1lLX2M3OVFRdlJFU1UwVGdsWTNCM09nNGtKUEdtbklhNjhfckdsaU85MlpWWEV2b3RMbng0NWxIQk0?oc=5",
-        "source": "Economiesuisse",
-        "published": "Thu, 24 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "La Genève internationale a besoin d’une Suisse neutre",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzNYTE9la25jMzA5Zk1JbXA0eDRsSjBxcXlDZkRIR2FLTWZjNUUtTTJJUWZ1aERNWUtfaW1MZFdNSXBkcm9ma3czUk1OVmt5Y3lOX1dOdmdlYnREZDNmeURzdjgtMXJ0MHA4Z2lkRW5XUDJXMUwzVWxwbGQyX0tmdGxKZTBtTHdvc1VrNlFWVVptbjJiSXk2QVYzc1dvSUVDTlpZb01CQ1FKUGc?oc=5",
-        "source": "UDC Suisse",
-        "published": "Wed, 23 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Cette ex-diplomate de l'ONU tire la sonnette d'alarme sur l'avenir de la Genève internationale",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFV5Uk04NlkyMjZ3NV9ybERINVBEY2toLVdORU0yaWdxQXpYTVk2UnF6RnVxSGJmRmJjdFRZWlVvaVJhWlZWNHlqbEdIRkNWUU1kMkdqbjN1MHJGcE1HN1hwVlNqUnpDUHJOd1dlQlFDQ3hyZUx0WU05eWxfaFpuU19CMUZPdWFMYlowN0MtYnlOQjRF?oc=5",
-        "source": "Tribune de Genève",
-        "published": "Mon, 29 Jun 2026 07:00:00 GMT"
-      },
       {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
@@ -33,22 +15,34 @@
         "published": "Sat, 27 Jun 2026 04:45:25 GMT"
       },
       {
-        "title": "Ces 8 grandes banques internationales voudraient fusionner avec UBS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckx0TXc1d2VMei1sWmk4OERIT0U1SjVLV2NBOXJpdkQweGVLNVlnTEpRTVJBY0RscDlxbDdwZmVpVU1qRkJPcE4teHBVN1NzamVlaEFLU3NqcmlfMkZuSTVIeXU4MUJILUQ4Nm42eVlpeXprTlI3UFRsenljMkRwODRuakV2eGJLYUN6ZVlvaDBNWnpUdXRrb0tXbDY4OXlFSXI5Z2FrTFBhd1FOeUxpWHlQeXNtSV9CTFE?oc=5",
-        "source": "Watson",
-        "published": "Sun, 27 Sep 2026 07:00:00 GMT"
+        "title": "Ignazio Cassis est dénoncé devant la Cour pénale internationale pour complicités de crimes de guerre et de génocide",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVlXQUxEOFRYbnA1VV8yZHBxWmFubzRMR3djNlJpaDdONGFONFpTZjNTNExPU0NNSTlBb2JQMUc5QjBZTFN0VGxSWWk1TWxwTXJSYzI3MDl3cVU0Z3RtWjU5cktfX2IxWkRCbmxSVkJ1OFpnWmJmS3FjNWNoQWtaVk8weTd5dmRyNzlWSW51NkVzUVhibXlQLXZHMEd2VS12c3NNYmZvWWQ4SGFBT0J0eVgzazZlZUFWY0NEenZNQTluUTBCQ0ZuN3JJZTZwZFd5WGpQTHFRblozUQ?oc=5",
+        "source": "Le Temps",
+        "published": "Tue, 03 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "Situation en Israël et dans le Territoire palestinien occupé",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWlpUWndVRFIyR3RQdWNiVU9iOVNodkgtRGd4alg3MTFld2xTS2dHYjdMS0xsS1hZMUoyWmdxMUpKSTNfQzVRS2dENV9GSmFpV2I5SDBOZ3NBdDhZYVlSMV9KeEg?oc=5",
-        "source": "eda.admin",
-        "published": "Tue, 17 Feb 2026 14:29:46 GMT"
+        "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
+        "source": "rts.ch",
+        "published": "Sun, 24 May 2026 07:00:00 GMT"
       },
       {
-        "title": "'Ni indifférent, ni à l'écart': comment expliquer le rejet massif en Suisse de l'initiative pour une neutralité stricte",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT2JGTFh1TlViU2xFSVFWX0JLS0JycW5qbjhVTGtuTERNS2YzM1JoUmhzNHA5RmRsa0ZQWFRqaktmaFRBSHpPSTRmUHpXMURsM0hxWGxReDRTSTJZYmJabWhHekxQdmYtZzVMQVlfOG5tQUZKXzF1clo1Q1c2R0Q4ZFFZcHpJS3J6MFMyWlRSbmdOTzl2b3hjbnVpc3JpZ3k3M0lXcWFyWHU2aU1TeG1JbGJlRnVldV8zcFp1bmNfSUFiS1QzT1NwSEgzRTQ3MTE4bTFTcGJTSXEtZkQ1NjRrVUdZVHNTUDZIRm5ndnNhTHFPUmRwTnlVdjZn?oc=5",
-        "source": "tv5monde",
-        "published": "Mon, 28 Sep 2026 07:00:00 GMT"
+        "title": "Les Rencontres internationales de Genève font le tour de l'amour",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlpoeHg4OC1UQUtiaDItQ2txa3ZWOW5YQVN3YmVabEFjcXIzTUVDNnZaSlQ1aW93Z0J4aGNwd0kwR3lVR044X21jRjk2dnljcmtFeS1LUU9VYUkxTWtwQWpWaDVPRzVfcGd4TkYtWDJ5UUozVTMyYjNPNkEzaVBMWklERU9hczlJb3lnVHRMb3E1TGtlZEFDNkxFVVJ3S18yRXZQZg?oc=5",
+        "source": "Rhône FM",
+        "published": "Sat, 19 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
+        "source": "rts.ch",
+        "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+      },
+      {
+        "title": "La coopération internationale de l’Armée suisse",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
+        "source": "Gruppe Verteidigung",
+        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
       }
     ],
     "Horlogerie": [
