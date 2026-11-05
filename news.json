@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T15:03:57+00:00",
+  "updated": "2026-11-05T17:20:52+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -27,12 +27,6 @@
         "published": "Thu, 19 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "Initiative sur le DIH: la Suisse demande des applications concrètes",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzNhWWZqSGlOUEpmV25qU1c3bEZ4bzhkeWV1MzRZa3p3WldabGlqeHphdE81cTdNeG12YUwtcUdKdlI3cXkwTGo2NE9kbG1GUmVUdDY3RFJnR1pvM1NpY0tOcmVMSDB3RkpmemJ6TUgwZlBEZm15dGxpLU9hdEo5TUNvcTlLQWpYaUpRUkF4VlY5RHVnN2lzVFJlTm11SDZaUkVaMGpCTU13N2x5MndNLXIxc2JXVFZ1?oc=5",
-        "source": "Leman bleu",
-        "published": "Tue, 03 Nov 2026 09:56:00 GMT"
-      },
-      {
         "title": "Neutralité et sécurité: la Suisse cible de fausses informations à l'international",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZm0zbURnVkNDNTFtXzUzSkw0eWFPeHg5RUdZbjk1Rk1CaXY1S3FGclMyZUpuaTNDdHlLS2g4Q25UbkhmN2cyb3Mxc2JMRU1jaEhXOG1JdmJZbDk0cHl2VmtnenotOExwV2gtRkRDODA2bGZtMExpZE41UkFzaklwQ2htck05Nl9BOTZCS191d1ptN2ZvT19SMzktdFMyYm55ZEJ0eW94TWYxVlpxMHRLRTZLVjVUd1M5YVBJeG8wQ3ItanZrT3ZCWUlZWQ?oc=5",
         "source": "rts.ch",
@@ -49,6 +43,12 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
         "source": "rts.ch",
         "published": "Sun, 24 May 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
+        "source": "rts.ch",
+        "published": "Mon, 01 Jan 2024 08:00:00 GMT"
       }
     ],
     "Horlogerie": [
@@ -109,6 +109,24 @@
         "published": "Mon, 15 Aug 2022 07:00:00 GMT"
       },
       {
+        "title": "Des astronomes détectent le laser spatial galactique le plus éloigné de la Terre",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlVLRy1xNnYyQ3liemFzM2hVMjNGVjJJUG5lQWRxTzVuSVZidWl5a1ctUG92TjNudUhnU19oZzc5N3RDWlM1U09rZHdRSDJsM0xpeE1PTjVRMWNyaHR1Vk01bHBtWFB4YzgyY0ZUVUdGeFFKLXJfZzNDUVExYU40T2ZKMWVzaGdWcmFaaVR5djRvYnB1N0Q3YzI1YTNJR0xzc1phaG5Tb01wS0RKeE9pdXBkUHFNeXh6TG1ielJSRUswZjl6WWh2NXo3TXA1aUpxTmdJ?oc=5",
+        "source": "Science et vie",
+        "published": "Mon, 29 May 2023 07:00:00 GMT"
+      },
+      {
+        "title": "La Nasa va tester la fibre laser dans l'espace !",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmhwYXhjVWItcmFlOHhDY0FZZ0lfbXdha1NramJwbERXbmpHZUNvM2J2dWxQTE5fb2F1YXNVSlVzMEJvN2RKalJXOW9fRUp4VmRJcmszdVJFR2lSVU14THhEQXUwNVZzWlAwalI2WkFGQUxwS3pET2RkNEdkVklFNWlQZU4yc1JvVmVrUUswR0I0RVV4YlVLQWhLU3c5MzBzdzBGMzMtb2h6N0JRSi1FRmFzWGdHdmc?oc=5",
+        "source": "Futura, le média qui explore le monde",
+        "published": "Tue, 25 Jan 2022 08:00:00 GMT"
+      },
+      {
+        "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQR1ZrSTlrcmFJdENZOHI0bldQUXdvekNMMDhaUl8tSlVnd1NtYld1allfcWNfQS1mdE5DekRrcGN6UkFoeTdPdlVza21XTUtwQ2tQTkhYbjJza3IzT09GLTNEeG1aNlMxakxueHlGRGhyYWxtdnpHN29sVUsxcDF5QUhNZ3dweGRDX1hqeldNaTVWSnh0ZTdUT0NQRnl6TU81LXYybUQxM3owcVlyZFlhdXZ2cFA1WHBpRDJ3dlZvRWRKZkk4dFBHMkpXNi1fYzYwcV9oLVdJdmRUNDhPYVdweUdvZnVsNkNlZER1MXgzTkZsT2swZFQtQml5X1ByN2J6SkYxdEJvZThzcnM4RGIzLV9ZeEdmOWhsNmJRdkpOc3JjNnVKY0RUOHlxNVZxcmtpU2lGaTV6ZXVPUVdMZ3dlbl9fS1JLdkRWNU5pRkZvV2lKSlBDTHJmZmVGeDFRSGVMUk0tbms3b1ZuSFl6Zy1oNUxOQQ?oc=5",
+        "source": "BFM",
+        "published": "Tue, 03 Feb 2026 08:00:00 GMT"
+      },
+      {
         "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
         "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
         "source": "Science et vie",
@@ -121,28 +139,10 @@
         "published": "Thu, 27 Mar 2025 07:00:00 GMT"
       },
       {
-        "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
-        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQR1ZrSTlrcmFJdENZOHI0bldQUXdvekNMMDhaUl8tSlVnd1NtYld1allfcWNfQS1mdE5DekRrcGN6UkFoeTdPdlVza21XTUtwQ2tQTkhYbjJza3IzT09GLTNEeG1aNlMxakxueHlGRGhyYWxtdnpHN29sVUsxcDF5QUhNZ3dweGRDX1hqeldNaTVWSnh0ZTdUT0NQRnl6TU81LXYybUQxM3owcVlyZFlhdXZ2cFA1WHBpRDJ3dlZvRWRKZkk4dFBHMkpXNi1fYzYwcV9oLVdJdmRUNDhPYVdweUdvZnVsNkNlZER1MXgzTkZsT2swZFQtQml5X1ByN2J6SkYxdEJvZThzcnM4RGIzLV9ZeEdmOWhsNmJRdkpOc3JjNnVKY0RUOHlxNVZxcmtpU2lGaTV6ZXVPUVdMZ3dlbl9fS1JLdkRWNU5pRkZvV2lKSlBDTHJmZmVGeDFRSGVMUk0tbms3b1ZuSFl6Zy1oNUxOQQ?oc=5",
-        "source": "BFM",
-        "published": "Tue, 03 Feb 2026 08:00:00 GMT"
-      },
-      {
         "title": "Le mystérieux avion spatial chinois a largué un objet en orbite",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFlMWE96Z3dOMVo1eTYwUXFKUTBvQ3VCckVMU3BSN1FMS3hTUXlWa2p1ajNhY3hDNUpjcEhKeExYS2pEVGhucUlQc1lnUDlSdmt4VDdBQWh1NHNMdmxKZEVDQWJNMnAxVEd1WEFfbTRnRFdSdlhCYzFKRkpEbjJIOEk4Qm5jUmxQSXR4U2pILU0xZ1ZnUjQ3dHJ1T3lhQWVZTk9fOTFJSkdPSkpMTXJPSHdtbmg4TlZCSXYxbzdR?oc=5",
         "source": "Science et vie",
         "published": "Wed, 29 May 2024 07:00:00 GMT"
-      },
-      {
-        "title": "La Nasa va tester la fibre laser dans l'espace !",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmhwYXhjVWItcmFlOHhDY0FZZ0lfbXdha1NramJwbERXbmpHZUNvM2J2dWxQTE5fb2F1YXNVSlVzMEJvN2RKalJXOW9fRUp4VmRJcmszdVJFR2lSVU14THhEQXUwNVZzWlAwalI2WkFGQUxwS3pET2RkNEdkVklFNWlQZU4yc1JvVmVrUUswR0I0RVV4YlVLQWhLU3c5MzBzdzBGMzMtb2h6N0JRSi1FRmFzWGdHdmc?oc=5",
-        "source": "Futura, le média qui explore le monde",
-        "published": "Tue, 25 Jan 2022 08:00:00 GMT"
-      },
-      {
-        "title": "Un GPS sur la Lune : des lasers ultra-stables pourraient guider les astronautes et servir de base à une horloge atomique spatiale",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMHFGazBUZndHa0hYLXAyZjZNYWtqNUZFZnF2cC1jeU5WVXZvSXJmWElJRnB3clBNakJZR0VwdmEwQm1tekotc1AxMlpucTc1VGxGT1V4cXB3aUExWFBwQm1LZlh6TnRHRS02eUFvUEF1NGZSejhkM2pObzBYZVdPSVVNdUVqTVRGcEY0QndZQ1ZpSXpFRkZhMklxUENhbXJFQUZWQy1nc1NaWXczaGpjUFdjLTF4b2dyckVXczRJMWpkMWNqaUkxRHhNUEVmUThpcXpWdENlU1dmOFVyNkNhY1IwQm56cHJ0cmhJcV83aXBWTXpQVU1vM05Ja05LYl9tWkRyRVZ0UGdfODJJMHp1Mmk5UFF5RUZvejV3dDFB?oc=5",
-        "source": "Science et vie",
-        "published": "Mon, 25 May 2026 07:00:00 GMT"
       },
       {
         "title": "Par Propulsion laser : une technologie prometteuse pour lancer les petits satellites",
