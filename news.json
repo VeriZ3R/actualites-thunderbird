@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-06T20:53:00+00:00",
+  "updated": "2026-11-06T22:47:56+00:00",
   "categories": {
     "Suisse & Monde": [
-      {
-        "title": "Suisse-Colombie ambiance1",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oYmxnblM5clBVaVZwRXNaWkgzNW9YeEw5aV8wSHp0UzZvTlBnZ0hPbEpEWFMzRFdJNnFoa0NyMVN5cXNJZmMwWUpBQUNTZ19WZ0tOeGNZRVRMS0hINWNUWUxvb29JbGd3T1ZSRV9OcjF5RTlmWS05ZQ?oc=5",
-        "source": "Le Nouvelliste",
-        "published": "Fri, 10 Jul 2026 03:55:40 GMT"
-      },
       {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
         "source": "Le Temps",
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Suisse-Colombie ambiance1",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oYmxnblM5clBVaVZwRXNaWkgzNW9YeEw5aV8wSHp0UzZvTlBnZ0hPbEpEWFMzRFdJNnFoa0NyMVN5cXNJZmMwWUpBQUNTZ19WZ0tOeGNZRVRMS0hINWNUWUxvb29JbGd3T1ZSRV9OcjF5RTlmWS05ZQ?oc=5",
+        "source": "Le Nouvelliste",
+        "published": "Fri, 10 Jul 2026 03:55:40 GMT"
       },
       {
         "title": "L'inaction d'Ignazio Cassis concernant Gaza dénoncée par 25 avocats auprès de la Cour pénale internationale",
@@ -33,12 +33,6 @@
         "published": "Sun, 07 Sep 2025 07:00:00 GMT"
       },
       {
-        "title": "Sommet du G7 à Évian",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBORzZTWG9YNEtzbVpIRjZCT1p1TkMwSDJmREJUa1lpNktXNWdrMGpYb1kzRDA1OHVBR1lkeXdjSEpFa3hVekY3LUlNbGRfN29RU3dFT2c4QXhTdEFj?oc=5",
-        "source": "eda.admin",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
         "source": "rts.ch",
@@ -49,6 +43,12 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
         "source": "rts.ch",
         "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+      },
+      {
+        "title": "La coopération internationale de l’Armée suisse",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
+        "source": "Gruppe Verteidigung",
+        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
       }
     ],
     "Horlogerie": [
