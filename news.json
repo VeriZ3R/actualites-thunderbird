@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T02:56:22+00:00",
+  "updated": "2026-11-06T05:03:45+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -33,12 +33,6 @@
         "published": "Sun, 07 Sep 2025 07:00:00 GMT"
       },
       {
-        "title": "Sommet du G7 à Évian",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBORzZTWG9YNEtzbVpIRjZCT1p1TkMwSDJmREJUa1lpNktXNWdrMGpYb1kzRDA1OHVBR1lkeXdjSEpFa3hVekY3LUlNbGRfN29RU3dFT2c4QXhTdEFj?oc=5",
-        "source": "eda.admin",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
         "source": "rts.ch",
@@ -49,6 +43,12 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
         "source": "rts.ch",
         "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+      },
+      {
+        "title": "La coopération internationale de l’Armée suisse",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
+        "source": "Gruppe Verteidigung",
+        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
       }
     ],
     "Horlogerie": [
@@ -115,10 +115,10 @@
         "published": "Tue, 05 Aug 2025 07:00:00 GMT"
       },
       {
-        "title": "La Nasa va tester la fibre laser dans l'espace !",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmhwYXhjVWItcmFlOHhDY0FZZ0lfbXdha1NramJwbERXbmpHZUNvM2J2dWxQTE5fb2F1YXNVSlVzMEJvN2RKalJXOW9fRUp4VmRJcmszdVJFR2lSVU14THhEQXUwNVZzWlAwalI2WkFGQUxwS3pET2RkNEdkVklFNWlQZU4yc1JvVmVrUUswR0I0RVV4YlVLQWhLU3c5MzBzdzBGMzMtb2h6N0JRSi1FRmFzWGdHdmc?oc=5",
+        "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnZDYjlOTXhRUHBlaE55MTAzUEdveWMweVNYVkluRHBfbmNvRDI3b3pRLThLSzZkN3FBQmRhSFhOZWZTUzFTN3gyaXZ6dFMwWUFzS2ZmQ1FDQ0xYeHBSZXRYeEktcHg0ckZnVmFyYW9NWmRMSzY2VEdtU2NubWctTFo3bUsxVnhjS1EyMFA0N1ByemtKc0Z1X2xicS1TaXpGbExyc1V2OG9MQXRxM0ZOTUJYU1ZCZWhDcUx0Q2FNUHFULW5pNERnOFY1V1E3REFlQmlSOXdMeWg?oc=5",
         "source": "Futura, le média qui explore le monde",
-        "published": "Tue, 25 Jan 2022 08:00:00 GMT"
+        "published": "Thu, 27 Mar 2025 07:00:00 GMT"
       },
       {
         "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
@@ -127,22 +127,22 @@
         "published": "Tue, 03 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "Des astronomes détectent le laser spatial galactique le plus éloigné de la Terre",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlVLRy1xNnYyQ3liemFzM2hVMjNGVjJJUG5lQWRxTzVuSVZidWl5a1ctUG92TjNudUhnU19oZzc5N3RDWlM1U09rZHdRSDJsM0xpeE1PTjVRMWNyaHR1Vk01bHBtWFB4YzgyY0ZUVUdGeFFKLXJfZzNDUVExYU40T2ZKMWVzaGdWcmFaaVR5djRvYnB1N0Q3YzI1YTNJR0xzc1phaG5Tb01wS0RKeE9pdXBkUHFNeXh6TG1ielJSRUswZjl6WWh2NXo3TXA1aUpxTmdJ?oc=5",
-        "source": "Science et vie",
-        "published": "Mon, 29 May 2023 07:00:00 GMT"
-      },
-      {
-        "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnZDYjlOTXhRUHBlaE55MTAzUEdveWMweVNYVkluRHBfbmNvRDI3b3pRLThLSzZkN3FBQmRhSFhOZWZTUzFTN3gyaXZ6dFMwWUFzS2ZmQ1FDQ0xYeHBSZXRYeEktcHg0ckZnVmFyYW9NWmRMSzY2VEdtU2NubWctTFo3bUsxVnhjS1EyMFA0N1ByemtKc0Z1X2xicS1TaXpGbExyc1V2OG9MQXRxM0ZOTUJYU1ZCZWhDcUx0Q2FNUHFULW5pNERnOFY1V1E3REFlQmlSOXdMeWg?oc=5",
-        "source": "Futura, le média qui explore le monde",
-        "published": "Thu, 27 Mar 2025 07:00:00 GMT"
-      },
-      {
         "title": "Le mystérieux avion spatial chinois a largué un objet en orbite",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFlMWE96Z3dOMVo1eTYwUXFKUTBvQ3VCckVMU3BSN1FMS3hTUXlWa2p1ajNhY3hDNUpjcEhKeExYS2pEVGhucUlQc1lnUDlSdmt4VDdBQWh1NHNMdmxKZEVDQWJNMnAxVEd1WEFfbTRnRFdSdlhCYzFKRkpEbjJIOEk4Qm5jUmxQSXR4U2pILU0xZ1ZnUjQ3dHJ1T3lhQWVZTk9fOTFJSkdPSkpMTXJPSHdtbmg4TlZCSXYxbzdR?oc=5",
         "source": "Science et vie",
         "published": "Wed, 29 May 2024 07:00:00 GMT"
+      },
+      {
+        "title": "La Nasa va tester la fibre laser dans l'espace !",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmhwYXhjVWItcmFlOHhDY0FZZ0lfbXdha1NramJwbERXbmpHZUNvM2J2dWxQTE5fb2F1YXNVSlVzMEJvN2RKalJXOW9fRUp4VmRJcmszdVJFR2lSVU14THhEQXUwNVZzWlAwalI2WkFGQUxwS3pET2RkNEdkVklFNWlQZU4yc1JvVmVrUUswR0I0RVV4YlVLQWhLU3c5MzBzdzBGMzMtb2h6N0JRSi1FRmFzWGdHdmc?oc=5",
+        "source": "Futura, le média qui explore le monde",
+        "published": "Tue, 25 Jan 2022 08:00:00 GMT"
+      },
+      {
+        "title": "La NASA bat le record de rapidité de communication dans l’espace grâce à ce laser !",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1c0a0FCdEtDQUJ0THRBSm9RNVE0TmxUVDhiYkVYZS1IdERCTy1LRGZudkpncUhyaS1EQWp0cFdleWptd01tdWxaTmVudkhwdFFwbHBUdHpla1h6UjA2c25RM256WThIb0ZHcHFJR2RUOGRPM0Fvb3FpMzdEWDByZGJ6N040TG44MFBGZGxqeDgzZEQ4Mm5XM0JodXN1RzZ3dVBkdzBJcUMtZG4waFY4SzNpbmdxamd3d0hOb2hod2lXT2xLU28wV0xIYjdycllKOE5OSQ?oc=5",
+        "source": "Science et vie",
+        "published": "Mon, 22 May 2023 07:00:00 GMT"
       },
       {
         "title": "L’avion spatial top secret de la Chine débute une troisième mission dans l’espace",
