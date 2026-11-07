@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:57:00+00:00",
+  "updated": "2026-11-07T14:48:54+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -27,28 +27,28 @@
         "published": "Thu, 19 Feb 2026 08:00:00 GMT"
       },
       {
+        "title": "Aujourd’hui en Suisse",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2ZFQnZVQmRpYlFQVHFkTGEwWmc0VHpTWVJqcjFBQ293Y3BiMHZnYld4QXRvUUdTMC1sMDJub25WRUFqTXlOcy1fZGo0ZTZnWTQ1eF9pdm1xejZXZTh0c3RPOWp1NlVwWWFoMGR5T0g5M05uM2Q2MXNYR0RELWF2TkhlSGNfSWg0MUQ2WTJHZ0N2NjF0TFhhTHpR?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Thu, 05 Nov 2026 16:00:00 GMT"
+      },
+      {
         "title": "Neutralité et sécurité: la Suisse cible de fausses informations à l'international",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZm0zbURnVkNDNTFtXzUzSkw0eWFPeHg5RUdZbjk1Rk1CaXY1S3FGclMyZUpuaTNDdHlLS2g4Q25UbkhmN2cyb3Mxc2JMRU1jaEhXOG1JdmJZbDk0cHl2VmtnenotOExwV2gtRkRDODA2bGZtMExpZE41UkFzaklwQ2htck05Nl9BOTZCS191d1ptN2ZvT19SMzktdFMyYm55ZEJ0eW94TWYxVlpxMHRLRTZLVjVUd1M5YVBJeG8wQ3ItanZrT3ZCWUlZWQ?oc=5",
         "source": "rts.ch",
         "published": "Sun, 07 Sep 2025 07:00:00 GMT"
       },
       {
+        "title": "Sommet du G7 à Évian",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBORzZTWG9YNEtzbVpIRjZCT1p1TkMwSDJmREJUa1lpNktXNWdrMGpYb1kzRDA1OHVBR1lkeXdjSEpFa3hVekY3LUlNbGRfN29RU3dFT2c4QXhTdEFj?oc=5",
+        "source": "eda.admin",
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+      },
+      {
         "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
         "source": "rts.ch",
         "published": "Sun, 24 May 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
-        "source": "rts.ch",
-        "published": "Mon, 01 Jan 2024 08:00:00 GMT"
-      },
-      {
-        "title": "La coopération internationale de l’Armée suisse",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
-        "source": "Gruppe Verteidigung",
-        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
       }
     ],
     "Horlogerie": [
@@ -109,10 +109,10 @@
         "published": "Mon, 15 Aug 2022 07:00:00 GMT"
       },
       {
-        "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
+        "title": "Des astronomes détectent le laser spatial galactique le plus éloigné de la Terre",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlVLRy1xNnYyQ3liemFzM2hVMjNGVjJJUG5lQWRxTzVuSVZidWl5a1ctUG92TjNudUhnU19oZzc5N3RDWlM1U09rZHdRSDJsM0xpeE1PTjVRMWNyaHR1Vk01bHBtWFB4YzgyY0ZUVUdGeFFKLXJfZzNDUVExYU40T2ZKMWVzaGdWcmFaaVR5djRvYnB1N0Q3YzI1YTNJR0xzc1phaG5Tb01wS0RKeE9pdXBkUHFNeXh6TG1ielJSRUswZjl6WWh2NXo3TXA1aUpxTmdJ?oc=5",
         "source": "Science et vie",
-        "published": "Tue, 05 Aug 2025 07:00:00 GMT"
+        "published": "Mon, 29 May 2023 07:00:00 GMT"
       },
       {
         "title": "La Nasa va tester la fibre laser dans l'espace !",
@@ -121,10 +121,10 @@
         "published": "Tue, 25 Jan 2022 08:00:00 GMT"
       },
       {
-        "title": "Des astronomes détectent le laser spatial galactique le plus éloigné de la Terre",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlVLRy1xNnYyQ3liemFzM2hVMjNGVjJJUG5lQWRxTzVuSVZidWl5a1ctUG92TjNudUhnU19oZzc5N3RDWlM1U09rZHdRSDJsM0xpeE1PTjVRMWNyaHR1Vk01bHBtWFB4YzgyY0ZUVUdGeFFKLXJfZzNDUVExYU40T2ZKMWVzaGdWcmFaaVR5djRvYnB1N0Q3YzI1YTNJR0xzc1phaG5Tb01wS0RKeE9pdXBkUHFNeXh6TG1ielJSRUswZjl6WWh2NXo3TXA1aUpxTmdJ?oc=5",
+        "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
         "source": "Science et vie",
-        "published": "Mon, 29 May 2023 07:00:00 GMT"
+        "published": "Tue, 05 Aug 2025 07:00:00 GMT"
       },
       {
         "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
