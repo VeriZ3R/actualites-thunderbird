@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T04:58:02+00:00",
+  "updated": "2026-11-08T07:07:09+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -27,28 +27,28 @@
         "published": "Thu, 19 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "Aujourd’hui en Suisse",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWR3Tnp4VENDcnI5VG0yeWR2Y0ZJOEx0WEJwdWt4WDNQaFpXQkxKRHlhSVhNdkgwbHFjYVRVREVrMjdIRGVfbEZiaDNIRmFHd25zZ1NwYUphaC1KZHZJTjhMSG10WGtqMms3dk1kWlE5RVVSS2hxVU11R0g0YzNiZ3VaN1pBVWhUci1WYzlQc1NsREpmSjlpM0dR?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Fri, 06 Nov 2026 16:00:00 GMT"
-      },
-      {
         "title": "Neutralité et sécurité: la Suisse cible de fausses informations à l'international",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZm0zbURnVkNDNTFtXzUzSkw0eWFPeHg5RUdZbjk1Rk1CaXY1S3FGclMyZUpuaTNDdHlLS2g4Q25UbkhmN2cyb3Mxc2JMRU1jaEhXOG1JdmJZbDk0cHl2VmtnenotOExwV2gtRkRDODA2bGZtMExpZE41UkFzaklwQ2htck05Nl9BOTZCS191d1ptN2ZvT19SMzktdFMyYm55ZEJ0eW94TWYxVlpxMHRLRTZLVjVUd1M5YVBJeG8wQ3ItanZrT3ZCWUlZWQ?oc=5",
         "source": "rts.ch",
         "published": "Sun, 07 Sep 2025 07:00:00 GMT"
       },
       {
-        "title": "Sommet du G7 à Évian",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBORzZTWG9YNEtzbVpIRjZCT1p1TkMwSDJmREJUa1lpNktXNWdrMGpYb1kzRDA1OHVBR1lkeXdjSEpFa3hVekY3LUlNbGRfN29RU3dFT2c4QXhTdEFj?oc=5",
-        "source": "eda.admin",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
         "source": "rts.ch",
         "published": "Sun, 24 May 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
+        "source": "rts.ch",
+        "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+      },
+      {
+        "title": "La coopération internationale de l’Armée suisse",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
+        "source": "Gruppe Verteidigung",
+        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
       }
     ],
     "Horlogerie": [
@@ -153,16 +153,16 @@
     ],
     "Économie": [
       {
-        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
-        "source": "Le Temps",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "L’horizon reste dégagé pour l’économie suisse",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0taU2NoSlZQMGVuS2YyemhGS3k2UmljSXVhTm96T0ttd1dCbXFGR1B1VzkxRGQzQ21zc202cExVck44VjUtRXhneHVCU1JDbS1pWEJBaXBHc1E1cEl6V2Jrem5naVB0dXpXZTg4TzhrVUcwTFVhZjN1QktBV3RaWGs4ZXFaWmF0SWRzNkh6aWV0LU9CMmNWR2FHY1pZaUZNdXYtaQ?oc=5",
         "source": "SWI swissinfo.ch",
         "published": "Tue, 29 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
@@ -177,16 +177,16 @@
         "published": "Thu, 13 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
-        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "Ce qui attend la Suisse: les perspectives économiques pour 2026",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkZ0MkpucEhzSWExdVdZSHkybGdJYnpxR2NkUHIyNGlHeVJ2Q0dXYmFwaDJJZ0p1MVFlYmU2cVpORUVvRTIwNENYcktKMzl0ME9RSzdRaGZXdDM1TFF1Nnl6UFFlMTVoc1NSVlpveXhRZDE4STREQ1hrblhxVUt1MjdfdEt6ckk1R1l0X05tRmt4TVRubWVxbWMzMkdtVkktQWdxQk1uelY0TFhheVFmZXBwMnBQNW5tLUtGeFd2Y3c?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Tue, 30 Dec 2025 08:00:00 GMT"
+        "title": "Les perspectives économiques de la Suisse s'améliorent en juillet, portées par l'industrie",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0pQU2xVdWt3a1pTb1pDdzNzMmFkd1J1dUVxbWR3ekxKaFBUUDhDdjMtcE4wdU5FX00tWHFtbVc0eEUzRExFa3poblduSzluOGxtWUlxUDl2X0Y5QjNxNXNaR1dTa1JrNXpTVXNfQUlWdVlVLWswdkNseXRvNjN1enE5el9tTnA1czdNQWVLenYyV3ROazVsT1ZrVnZ2RHVXYVNqM1l1TUwyMExNVlZmaXZJdkVaOEFnRnhWbWN3?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 30 Jul 2026 07:00:00 GMT"
       },
       {
         "title": "Secrétariat d'État à l'économie SECO",
