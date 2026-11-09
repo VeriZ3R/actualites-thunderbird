@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T11:03:56+00:00",
+  "updated": "2026-11-09T13:20:31+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -37,6 +37,12 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
         "source": "rts.ch",
         "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+      },
+      {
+        "title": "Le Secrétariat d’État à la formation, à la recherche et à l’innovation",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96bVVxVkNfamMxalBxTzdDdHk0UllQNF9MRlVVNXZqc1FZX0NiMEZTdnF5VWtxOTdQOW5XMWM1WHhLdw?oc=5",
+        "source": "Confédération Suisse",
+        "published": "Mon, 30 Jun 2025 14:20:48 GMT"
       },
       {
         "title": "La coopération internationale de l’Armée suisse",
@@ -171,12 +177,6 @@
         "published": "Thu, 13 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Moyen-Orient: une crise qui touche aussi l’économie suisse",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTQ0elVlaFJINVE2eEVybWhNYXdYTFN5aC1GS2VjUUY2N2doS0QzbF9RNGlSTDNfSkVNRGxzM1lmcnJ6cmxIMk9vajZtcEdaSjRQWUhjdndUZ25fZWlPY3NrZ1FmcGo2M3V4Uk1pSlJ1bWxuYUszWmZDbkp6Vzc3WWsxM2g5TjJIamh1QkgwMVhfZ2s0aGdURU9vdFVTYVVETDFmdHVydw?oc=5",
-        "source": "entrepriseromande.ch",
-        "published": "Fri, 24 Apr 2026 07:00:00 GMT"
-      },
-      {
         "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
         "source": "Le Temps",
@@ -193,6 +193,12 @@
         "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
         "source": "admin.ch",
         "published": "Fri, 30 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
+        "source": "interpharma.ch",
+        "published": "Wed, 31 Jan 2024 08:00:00 GMT"
       }
     ]
   },
