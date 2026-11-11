@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T14:58:06+00:00",
+  "updated": "2026-11-11T17:02:02+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -83,12 +83,6 @@
         "published": "Sun, 08 May 2022 07:00:00 GMT"
       },
       {
-        "title": "Le silence inquiétant des sous-traitants horlogers de l’Arc jurassien",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2NTSFhNcW85SkhwOXJpbTZaTm1RR0R3eGJpZWxCLURBWFd4NVNaVlhSQjgxd3BVQVlIV3owMnI5V3d6bk9Qc04tajU2TEFyYTVtLWN5MDBGeWxjWFJ4TEhodVBJakIxbUlDclZlZ0habkhiWGViNTdkU2ZYUHpPUlNZT0NqUTFpdlVBbk9JYWlKTHE3WmN1a0wyX2RJXzQwSXQw?oc=5",
-        "source": "Le Temps",
-        "published": "Wed, 22 Oct 2025 07:00:00 GMT"
-      },
-      {
         "title": "LA SWATCH, ÉTERNELLE INNOVATION DE RUPTURE",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1Q0eE1IX0M2d1d2OXRtWkx6WWFHbmVHdmxNcG02SDd0VVB1RTMwWTctZW9iSExlRWJ3MHRvVmpzdkY4X0tBVUthZnJ3ejV1OWNrMWZVejhaT19nS0NMcF9sX0VlXzRObWQtd3UwVUcwRmNIcnBaamFXc2RlbWZINWln?oc=5",
         "source": "Europastar.ch",
@@ -99,6 +93,12 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUdrYXJWa0RIeE9FLTNvWGhhRWJfRWhfNkJidGgyeDlFaFp1NWhOazVKLTREcTRKMzkyaWpVX2llcjRWVC1jT0lXVTdVMWFnV0VqWVlKTDJCa0pZaEZocHBCV3ZFRnhYdnFUVVhVWHI3M1JCcktRUUhlSDJIc25DVXBlTi10YXJEQS00YkxoVUxhcUxLWmo4eHhKcGRkakxQTDJma1h1VnZSbXVPZjNSZTBqNFF6RThoMmxPaWRuVVJnMUp0dXc?oc=5",
         "source": "Le Point",
         "published": "Mon, 06 Apr 2020 07:00:00 GMT"
+      },
+      {
+        "title": "Les montres auront leur passeport biométrique",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUhXdktpdWRjalFjeVFaeGVvVUE2ci1iMEh1ZWJCLVVNNGJ0MFlJaGxSYXNNbktFZjBsMUxJOUlKdHp0ODZpdzlYZFdMTDNaRFp5LUlrZHNxZHdfcmsyaWlMQUQ1Ym8yT3BPbXVTWHkzYUJVa2pXUWc1bzBDcDh6UDA3SEI2WVhoWWE2VnB2T1RxbVdGcU9nak5QV2dJbHl2U0hGR2ljamhRMlVQR2VPMWJsdlVNMTBNVDk0cHFIRE4yWGpRTHpkV2tFMWlyT2E2?oc=5",
+        "source": "Europastar.ch",
+        "published": "Sun, 18 Jul 2021 02:40:13 GMT"
       }
     ],
     "Sciences & Technologies": [
@@ -165,6 +165,12 @@
         "published": "Tue, 29 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "Ce plan socialiste pour soutenir l'économie suisse est rejeté",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEd2RVdVbUpmZTBXVjNEc2Z5dDN3X3h4N2d2OTJXdGZpQVVDQzFfSnZZazFVZE9DMXhrdGRnZVJKNnAzdzh5cm9vb3EyUVF4Yk4tRDlVZ04zZzdzbTdCRndNNlpOYmhxME91V3F4Qm5lYkpNTHNFOGFLdU1OZHhwNkRoQjVCbmZJOTh0MlJmc1Z3WURBWjV0RzF2VnYtVFhOdGNGZEdtNzlsMVMtOFZfWEJsWE4?oc=5",
+        "source": "Watson",
+        "published": "Fri, 21 Aug 2026 07:00:00 GMT"
+      },
+      {
         "title": "Sophie Michaud Gigon, la Verte qui bouscule les codes",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2UtMFByRFQ4ZjNNbzVFT0JDbzlVYzdDUVhpWWNRM1p3QnpJcEtBQUJkeUhTS05HM0Y0eHlHZDFORWh2dl9Icm5sZmVBMFI4Q0tzZlRia0hJWHd6VDVWMk5iNWx5Tm9QQURWb1hQVWtXS2Z6Vm90NE84RGZhZERKZnA2a0VlZmhyajdWc2xkVjlCM1dJTWc?oc=5",
         "source": "PME Magazine",
@@ -179,7 +185,7 @@
       {
         "title": "Moyen-Orient: une crise qui touche aussi l’économie suisse",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTQ0elVlaFJINVE2eEVybWhNYXdYTFN5aC1GS2VjUUY2N2doS0QzbF9RNGlSTDNfSkVNRGxzM1lmcnJ6cmxIMk9vajZtcEdaSjRQWUhjdndUZ25fZWlPY3NrZ1FmcGo2M3V4Uk1pSlJ1bWxuYUszWmZDbkp6Vzc3WWsxM2g5TjJIamh1QkgwMVhfZ2s0aGdURU9vdFVTYVVETDFmdHVydw?oc=5",
-        "source": "entrepriseromande.ch",
+        "source": "A la une - Entreprise Romande",
         "published": "Fri, 24 Apr 2026 07:00:00 GMT"
       },
       {
@@ -193,12 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
         "source": "interpharma.ch",
         "published": "Wed, 31 Jan 2024 08:00:00 GMT"
-      },
-      {
-        "title": "Ce qui attend la Suisse: les perspectives économiques pour 2026",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkZ0MkpucEhzSWExdVdZSHkybGdJYnpxR2NkUHIyNGlHeVJ2Q0dXYmFwaDJJZ0p1MVFlYmU2cVpORUVvRTIwNENYcktKMzl0ME9RSzdRaGZXdDM1TFF1Nnl6UFFlMTVoc1NSVlpveXhRZDE4STREQ1hrblhxVUt1MjdfdEt6ckk1R1l0X05tRmt4TVRubWVxbWMzMkdtVkktQWdxQk1uelY0TFhheVFmZXBwMnBQNW5tLUtGeFd2Y3c?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Tue, 30 Dec 2025 08:00:00 GMT"
       }
     ]
   },
