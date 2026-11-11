@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:02:02+00:00",
+  "updated": "2026-11-11T19:03:54+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -7,6 +7,12 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
         "source": "Le Temps",
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Serie A: L'international suisse Joël Monteiro blessé au mollet",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWZFend0RVNheFBLUWpiNURILWY5ZUM0NGpvbE04VXFSb2lYekhmSUtHeFh4RHZjajNJaHVZRDJrUHhTcGprSUNEYzFENWxwQ29hcnAtSW1uaXRXU2VPOGp4Y0hkZTI5VW1xczNFemY4WWtmbWdpbURHbEhoek1ST2ExdlNHTkxPaG44UjVyZmVsVk1QdlFpYUJXMlF3ZTBWNWIxU0lHWk9sRlVy?oc=5",
+        "source": "Rhône FM",
+        "published": "Mon, 02 Nov 2026 19:05:26 GMT"
       },
       {
         "title": "Suisse-Algérie ambiance",
@@ -43,12 +49,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
         "source": "rts.ch",
         "published": "Mon, 01 Jan 2024 08:00:00 GMT"
-      },
-      {
-        "title": "La coopération internationale de l’Armée suisse",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
-        "source": "Gruppe Verteidigung",
-        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
       }
     ],
     "Horlogerie": [
@@ -83,6 +83,12 @@
         "published": "Sun, 08 May 2022 07:00:00 GMT"
       },
       {
+        "title": "Le silence inquiétant des sous-traitants horlogers de l’Arc jurassien",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2NTSFhNcW85SkhwOXJpbTZaTm1RR0R3eGJpZWxCLURBWFd4NVNaVlhSQjgxd3BVQVlIV3owMnI5V3d6bk9Qc04tajU2TEFyYTVtLWN5MDBGeWxjWFJ4TEhodVBJakIxbUlDclZlZ0habkhiWGViNTdkU2ZYUHpPUlNZT0NqUTFpdlVBbk9JYWlKTHE3WmN1a0wyX2RJXzQwSXQw?oc=5",
+        "source": "Le Temps",
+        "published": "Wed, 22 Oct 2025 07:00:00 GMT"
+      },
+      {
         "title": "LA SWATCH, ÉTERNELLE INNOVATION DE RUPTURE",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1Q0eE1IX0M2d1d2OXRtWkx6WWFHbmVHdmxNcG02SDd0VVB1RTMwWTctZW9iSExlRWJ3MHRvVmpzdkY4X0tBVUthZnJ3ejV1OWNrMWZVejhaT19nS0NMcF9sX0VlXzRObWQtd3UwVUcwRmNIcnBaamFXc2RlbWZINWln?oc=5",
         "source": "Europastar.ch",
@@ -93,12 +99,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUdrYXJWa0RIeE9FLTNvWGhhRWJfRWhfNkJidGgyeDlFaFp1NWhOazVKLTREcTRKMzkyaWpVX2llcjRWVC1jT0lXVTdVMWFnV0VqWVlKTDJCa0pZaEZocHBCV3ZFRnhYdnFUVVhVWHI3M1JCcktRUUhlSDJIc25DVXBlTi10YXJEQS00YkxoVUxhcUxLWmo4eHhKcGRkakxQTDJma1h1VnZSbXVPZjNSZTBqNFF6RThoMmxPaWRuVVJnMUp0dXc?oc=5",
         "source": "Le Point",
         "published": "Mon, 06 Apr 2020 07:00:00 GMT"
-      },
-      {
-        "title": "Les montres auront leur passeport biométrique",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUhXdktpdWRjalFjeVFaeGVvVUE2ci1iMEh1ZWJCLVVNNGJ0MFlJaGxSYXNNbktFZjBsMUxJOUlKdHp0ODZpdzlYZFdMTDNaRFp5LUlrZHNxZHdfcmsyaWlMQUQ1Ym8yT3BPbXVTWHkzYUJVa2pXUWc1bzBDcDh6UDA3SEI2WVhoWWE2VnB2T1RxbVdGcU9nak5QV2dJbHl2U0hGR2ljamhRMlVQR2VPMWJsdlVNMTBNVDk0cHFIRE4yWGpRTHpkV2tFMWlyT2E2?oc=5",
-        "source": "Europastar.ch",
-        "published": "Sun, 18 Jul 2021 02:40:13 GMT"
       }
     ],
     "Sciences & Technologies": [
@@ -115,10 +115,10 @@
         "published": "Mon, 15 Aug 2022 07:00:00 GMT"
       },
       {
-        "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
+        "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
         "source": "Science et vie",
-        "published": "Tue, 05 Aug 2025 07:00:00 GMT"
+        "published": "Tue, 14 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
@@ -127,10 +127,10 @@
         "published": "Tue, 03 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "La NASA bat le record de rapidité de communication dans l’espace grâce à ce laser !",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1c0a0FCdEtDQUJ0THRBSm9RNVE0TmxUVDhiYkVYZS1IdERCTy1LRGZudkpncUhyaS1EQWp0cFdleWptd01tdWxaTmVudkhwdFFwbHBUdHpla1h6UjA2c25RM256WThIb0ZHcHFJR2RUOGRPM0Fvb3FpMzdEWDByZGJ6N040TG44MFBGZGxqeDgzZEQ4Mm5XM0JodXN1RzZ3dVBkdzBJcUMtZG4waFY4SzNpbmdxamd3d0hOb2hod2lXT2xLU28wV0xIYjdycllKOE5OSQ?oc=5",
+        "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
         "source": "Science et vie",
-        "published": "Mon, 22 May 2023 07:00:00 GMT"
+        "published": "Tue, 05 Aug 2025 07:00:00 GMT"
       },
       {
         "title": "La Nasa va tester la fibre laser dans l'espace !",
@@ -139,16 +139,16 @@
         "published": "Tue, 25 Jan 2022 08:00:00 GMT"
       },
       {
+        "title": "La NASA bat le record de rapidité de communication dans l’espace grâce à ce laser !",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1c0a0FCdEtDQUJ0THRBSm9RNVE0TmxUVDhiYkVYZS1IdERCTy1LRGZudkpncUhyaS1EQWp0cFdleWptd01tdWxaTmVudkhwdFFwbHBUdHpla1h6UjA2c25RM256WThIb0ZHcHFJR2RUOGRPM0Fvb3FpMzdEWDByZGJ6N040TG44MFBGZGxqeDgzZEQ4Mm5XM0JodXN1RzZ3dVBkdzBJcUMtZG4waFY4SzNpbmdxamd3d0hOb2hod2lXT2xLU28wV0xIYjdycllKOE5OSQ?oc=5",
+        "source": "Science et vie",
+        "published": "Mon, 22 May 2023 07:00:00 GMT"
+      },
+      {
         "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnZDYjlOTXhRUHBlaE55MTAzUEdveWMweVNYVkluRHBfbmNvRDI3b3pRLThLSzZkN3FBQmRhSFhOZWZTUzFTN3gyaXZ6dFMwWUFzS2ZmQ1FDQ0xYeHBSZXRYeEktcHg0ckZnVmFyYW9NWmRMSzY2VEdtU2NubWctTFo3bUsxVnhjS1EyMFA0N1ByemtKc0Z1X2xicS1TaXpGbExyc1V2OG9MQXRxM0ZOTUJYU1ZCZWhDcUx0Q2FNUHFULW5pNERnOFY1V1E3REFlQmlSOXdMeWg?oc=5",
         "source": "Futura, le média qui explore le monde",
         "published": "Thu, 27 Mar 2025 07:00:00 GMT"
-      },
-      {
-        "title": "Vidéo : D'où viennent ces mystérieux lasers verts qui transpercent les nuages ?",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzlxUkRGdjNsZGZFdkd0ckNaTG9TVDJlU2pNYnZZY2ZVd0lxMGkxYm56U3VFUldEZ2RBN0I1UGpFeXBKX2R3M2VrZi15TDJneGNhZFA1cDlrRXJHSkptUnB5OG1mY1cxcFFnODBoYm9faGFYZmJ4cXpsQjl2bktDb0NoQXdQVm80eVlfVnBDbktKTDVWcEpDUXV2UFFTS2FTY0NCdTdR?oc=5",
-        "source": "Science et vie",
-        "published": "Mon, 24 Apr 2023 07:00:00 GMT"
       }
     ],
     "Économie": [
