@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:01:40+00:00",
+  "updated": "2026-11-12T20:56:03+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -7,6 +7,12 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
         "source": "Le Temps",
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Serie A: L'international suisse Joël Monteiro blessé au mollet",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWZFend0RVNheFBLUWpiNURILWY5ZUM0NGpvbE04VXFSb2lYekhmSUtHeFh4RHZjajNJaHVZRDJrUHhTcGprSUNEYzFENWxwQ29hcnAtSW1uaXRXU2VPOGp4Y0hkZTI5VW1xczNFemY4WWtmbWdpbURHbEhoek1ST2ExdlNHTkxPaG44UjVyZmVsVk1QdlFpYUJXMlF3ZTBWNWIxU0lHWk9sRlVy?oc=5",
+        "source": "Rhône FM",
+        "published": "Mon, 02 Nov 2026 19:05:26 GMT"
       },
       {
         "title": "Suisse-Colombie ambiance1",
@@ -19,12 +25,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ00tQS1IRzczZHg4ZEdNTy1Hd0xTX0pHWC1WdUx6elBmaVJtM2tLQWgwQ0ExeWFDN1E5X3FXT0pKaDhEeHo5ekdNRlRyRjNqTXdPenVQWjFXU19vUktIUGlfYXBSU1RLbkFydDdwRkREUXk5RFI2WFJ0YUFDS05scVRNUUxYQmMxUkFjRG5ESnZ4aTZpTTVDZ3ppNGJfZlBvOG1SY0RjWDF6RHB1N2FyQ1pNSk1ieDRPVTB1Rm50TVp0azNUYktJc05yRHItWFJr?oc=5",
         "source": "rts.ch",
         "published": "Tue, 03 Feb 2026 08:00:00 GMT"
-      },
-      {
-        "title": "Présidence suisse de l’OSCE 2026",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VRWVDaENFNThrUTJIRS1FVEVwcTBybzVRdzVLSmNCUTEzcTl6TWVGZTl2cTFicjMwazVmMk1kWWwxYWU0REJOeWVXWDdnS1BaX1E5MVFQcDdEd1ZMd2Ztemg0VXQ2Zw?oc=5",
-        "source": "eda.admin",
-        "published": "Fri, 06 Nov 2026 08:00:00 GMT"
       },
       {
         "title": "Ignazio Cassis est dénoncé devant la Cour pénale internationale pour complicités de crimes de guerre et de génocide",
@@ -41,7 +41,7 @@
       {
         "title": "Le Secrétariat d’État à la formation, à la recherche et à l’innovation",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96bVVxVkNfamMxalBxTzdDdHk0UllQNF9MRlVVNXZqc1FZX0NiMEZTdnF5VWtxOTdQOW5XMWM1WHhLdw?oc=5",
-        "source": "Confédération Suisse",
+        "source": "admin.ch",
         "published": "Mon, 30 Jun 2025 14:20:48 GMT"
       },
       {
@@ -109,6 +109,12 @@
         "published": "Wed, 29 Apr 2026 07:00:00 GMT"
       },
       {
+        "title": "Espace : pourquoi la NASA tire des lasers sur des arbres depuis la station spatiale internationale ?",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LelFsZkNEWGJ5WUJCdjBvaTBLaHhzdjlzZXlneTB5X0RLUS1HNGdfV09sWl9wS0RwRmR4bUVXMDF6b3EtdTM2QlRKWFN1bEc0cTNqWm1tRFE0YTQwZkHSAWNBVV95cUxOc0pNZS1RWmYtRXBoYjQwLWktZ1FoNFZDTDM2MlRnYnJROE43UC0zeU9Xa25YQzJ5M0tReW9CYmRBdGlfQnJaajN1d0RTeWQ0ZURXSW8zbGNEeXh6akpicnlBR1U?oc=5",
+        "source": "BBC",
+        "published": "Mon, 15 Aug 2022 07:00:00 GMT"
+      },
+      {
         "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
         "source": "Science et vie",
@@ -143,12 +149,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnZDYjlOTXhRUHBlaE55MTAzUEdveWMweVNYVkluRHBfbmNvRDI3b3pRLThLSzZkN3FBQmRhSFhOZWZTUzFTN3gyaXZ6dFMwWUFzS2ZmQ1FDQ0xYeHBSZXRYeEktcHg0ckZnVmFyYW9NWmRMSzY2VEdtU2NubWctTFo3bUsxVnhjS1EyMFA0N1ByemtKc0Z1X2xicS1TaXpGbExyc1V2OG9MQXRxM0ZOTUJYU1ZCZWhDcUx0Q2FNUHFULW5pNERnOFY1V1E3REFlQmlSOXdMeWg?oc=5",
         "source": "Futura, le média qui explore le monde",
         "published": "Thu, 27 Mar 2025 07:00:00 GMT"
-      },
-      {
-        "title": "DragonFire : la Royal Navy peut détruire un drone à 1 km pour seulement 10 euros grâce à un laser",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1pYV0V3S3ZzY0tsZ0UxRFFZWVotZU5vMFc0QkNaR3ZSbGFyZzg1WkhvZmh5TzVMbTlNVFZCLU8tc0VwY3JZRFBySGpjU0hmMGRlTmh6QnJ1S3hhNldpSHp5RzBiN1UwWlBfVTVuSi1zQzRXT0w5Ri1yVVo1UkJ2Y0ZMRmVwZUZhM2NrYWZ1T2hsWjVfNDFEU2hSWlFkbGxDeHc1YlgxTURWYnZiWk4yVmRPX0lTWFFjRjRJUjc1SkZCcGY4UTJ5eVhGMXNzMVJsRzdRMEptXzVNLXBvbEpJZ05SdmxGLUNOUlNn?oc=5",
-        "source": "Science et vie",
-        "published": "Thu, 02 Jul 2026 07:00:00 GMT"
       }
     ],
     "Économie": [
@@ -183,6 +183,12 @@
         "published": "Fri, 24 Apr 2026 07:00:00 GMT"
       },
       {
+        "title": "Secrétariat d'État à l'économie SECO",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
+        "source": "Swiss government",
+        "published": "Fri, 30 Oct 2026 07:00:00 GMT"
+      },
+      {
         "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
         "source": "interpharma.ch",
@@ -193,12 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkZ0MkpucEhzSWExdVdZSHkybGdJYnpxR2NkUHIyNGlHeVJ2Q0dXYmFwaDJJZ0p1MVFlYmU2cVpORUVvRTIwNENYcktKMzl0ME9RSzdRaGZXdDM1TFF1Nnl6UFFlMTVoc1NSVlpveXhRZDE4STREQ1hrblhxVUt1MjdfdEt6ckk1R1l0X05tRmt4TVRubWVxbWMzMkdtVkktQWdxQk1uelY0TFhheVFmZXBwMnBQNW5tLUtGeFd2Y3c?oc=5",
         "source": "SWI swissinfo.ch",
         "published": "Tue, 30 Dec 2025 08:00:00 GMT"
-      },
-      {
-        "title": "L’économie suisse de plus en plus dépendante de la pharma",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjZHVWM0SDdmUThxWVluNC1SMnJXS2RXTGpfT25aNXh6SjNDZEFUWmo2aWRQdmhtU2dFN3hqTU1mMWhQUjlIY3R5ZGhHQXJURjg5SDlfR05HUDVXRHhwNWV2S2tTR2hJQlAyRURJNkFaWTFKQ3E5VVFXWExobjMyWk5YM3pRbDVKVzFKc0FMc1VhcDFOTG9kN3ZR?oc=5",
-        "source": "agefi.com",
-        "published": "Tue, 04 Nov 2025 08:00:00 GMT"
       }
     ]
   },
