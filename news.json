@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T11:11:54+00:00",
+  "updated": "2026-11-12T13:20:27+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -27,6 +27,12 @@
         "published": "Tue, 03 Feb 2026 08:00:00 GMT"
       },
       {
+        "title": "Présidence suisse de l’OSCE 2026",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VRWVDaENFNThrUTJIRS1FVEVwcTBybzVRdzVLSmNCUTEzcTl6TWVGZTl2cTFicjMwazVmMk1kWWwxYWU0REJOeWVXWDdnS1BaX1E5MVFQcDdEd1ZMd2Ztemg0VXQ2Zw?oc=5",
+        "source": "eda.admin",
+        "published": "Fri, 06 Nov 2026 08:00:00 GMT"
+      },
+      {
         "title": "Ignazio Cassis est dénoncé devant la Cour pénale internationale pour complicités de crimes de guerre et de génocide",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVlXQUxEOFRYbnA1VV8yZHBxWmFubzRMR3djNlJpaDdONGFONFpTZjNTNExPU0NNSTlBb2JQMUc5QjBZTFN0VGxSWWk1TWxwTXJSYzI3MDl3cVU0Z3RtWjU5cktfX2IxWkRCbmxSVkJ1OFpnWmJmS3FjNWNoQWtaVk8weTd5dmRyNzlWSW51NkVzUVhibXlQLXZHMEd2VS12c3NNYmZvWWQ4SGFBT0J0eVgzazZlZUFWY0NEenZNQTluUTBCQ0ZuN3JJZTZwZFd5WGpQTHFRblozUQ?oc=5",
         "source": "Le Temps",
@@ -37,12 +43,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZm0zbURnVkNDNTFtXzUzSkw0eWFPeHg5RUdZbjk1Rk1CaXY1S3FGclMyZUpuaTNDdHlLS2g4Q25UbkhmN2cyb3Mxc2JMRU1jaEhXOG1JdmJZbDk0cHl2VmtnenotOExwV2gtRkRDODA2bGZtMExpZE41UkFzaklwQ2htck05Nl9BOTZCS191d1ptN2ZvT19SMzktdFMyYm55ZEJ0eW94TWYxVlpxMHRLRTZLVjVUd1M5YVBJeG8wQ3ItanZrT3ZCWUlZWQ?oc=5",
         "source": "rts.ch",
         "published": "Sun, 07 Sep 2025 07:00:00 GMT"
-      },
-      {
-        "title": "Frères Alcala Vaumarcus | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZY0g0bFRoc0g0YncwMnEwZVpkTF95VWZJUUxtWlAwMGZZbVJ2YmJ0b1hSRXp0cDhTWDFqcHJDb1hYQUtKMDZPX0pHckVjRG1hU0ExRnc3VWw5eE54X1duNmVVOGt6ekFuaGJQZWFNX0tSbUFaNEE?oc=5",
-        "source": "Le Nouvelliste",
-        "published": "Sat, 27 Jun 2026 04:45:27 GMT"
       },
       {
         "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
@@ -59,12 +59,6 @@
         "published": "Tue, 16 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "Le Japon à l'offensive d'une horlogerie suisse qui végète",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnlMZndDaGp5S05Udm1VV3hZZ21qVU0wajNaZmItMmRkUnk4VXVTWC1ONWtzZmM1MnNPbm1aWENtR0pNTkF4alRaNFFYYkNDZHRxWW5qOWJfWm9VdGZZVDRHdmdkTlVzQTAtZ3RnSm1LU21GZFItSU9KaXRKR2huNG1ES0Fab3hsdDAwYkRBNHJyWGZOTnhJS185UQ?oc=5",
-        "source": "Blick",
-        "published": "Sat, 20 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
         "source": "GQ France",
@@ -75,6 +69,12 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEtBWEdJb1BvUjdOSDl2NGZPcl9PNm94bmREY1RLM3NlRzEyRnNBQnRiREhwUjVFYm8zYXVGR2xRQWZRaVJELTFrT0Q0SWdDLXNyTHlkVGZfQkp6UDJoRTlqYXdmSHA2cVhfdU8tSWlrbDVNV3gtVWN3Z0V5NWRtNVRSQVU4M0RRZjlsTXRnZGFJM0NMWnlxc2h5VnRNdVRadGpQM2t1eG1aM3RReHk2R0c4MDU?oc=5",
         "source": "Le Temps",
         "published": "Thu, 02 Oct 2025 07:00:00 GMT"
+      },
+      {
+        "title": "Le Japon à l'offensive d'une horlogerie suisse qui végète",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnlMZndDaGp5S05Udm1VV3hZZ21qVU0wajNaZmItMmRkUnk4VXVTWC1ONWtzZmM1MnNPbm1aWENtR0pNTkF4alRaNFFYYkNDZHRxWW5qOWJfWm9VdGZZVDRHdmdkTlVzQTAtZ3RnSm1LU21GZFItSU9KaXRKR2huNG1ES0Fab3hsdDAwYkRBNHJyWGZOTnhJS185UQ?oc=5",
+        "source": "Blick",
+        "published": "Sat, 20 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "L’horlogerie en 1927: des changements structurels majeurs",
@@ -153,10 +153,10 @@
     ],
     "Économie": [
       {
-        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
-        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
       },
       {
         "title": "L’horizon reste dégagé pour l’économie suisse",
@@ -171,22 +171,22 @@
         "published": "Thu, 13 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
-        "source": "Le Temps",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT"
-      },
-      {
         "title": "Moyen-Orient: une crise qui touche aussi l’économie suisse",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTQ0elVlaFJINVE2eEVybWhNYXdYTFN5aC1GS2VjUUY2N2doS0QzbF9RNGlSTDNfSkVNRGxzM1lmcnJ6cmxIMk9vajZtcEdaSjRQWUhjdndUZ25fZWlPY3NrZ1FmcGo2M3V4Uk1pSlJ1bWxuYUszWmZDbkp6Vzc3WWsxM2g5TjJIamh1QkgwMVhfZ2s0aGdURU9vdFVTYVVETDFmdHVydw?oc=5",
         "source": "A la une - Entreprise Romande",
         "published": "Fri, 24 Apr 2026 07:00:00 GMT"
       },
       {
-        "title": "Secrétariat d'État à l'économie SECO",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
-        "source": "Swiss government",
-        "published": "Fri, 30 Oct 2026 07:00:00 GMT"
+        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Ce qui attend la Suisse: les perspectives économiques pour 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkZ0MkpucEhzSWExdVdZSHkybGdJYnpxR2NkUHIyNGlHeVJ2Q0dXYmFwaDJJZ0p1MVFlYmU2cVpORUVvRTIwNENYcktKMzl0ME9RSzdRaGZXdDM1TFF1Nnl6UFFlMTVoc1NSVlpveXhRZDE4STREQ1hrblhxVUt1MjdfdEt6ckk1R1l0X05tRmt4TVRubWVxbWMzMkdtVkktQWdxQk1uelY0TFhheVFmZXBwMnBQNW5tLUtGeFd2Y3c?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Tue, 30 Dec 2025 08:00:00 GMT"
       },
       {
         "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
@@ -195,10 +195,10 @@
         "published": "Wed, 31 Jan 2024 08:00:00 GMT"
       },
       {
-        "title": "Ce qui attend la Suisse: les perspectives économiques pour 2026",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkZ0MkpucEhzSWExdVdZSHkybGdJYnpxR2NkUHIyNGlHeVJ2Q0dXYmFwaDJJZ0p1MVFlYmU2cVpORUVvRTIwNENYcktKMzl0ME9RSzdRaGZXdDM1TFF1Nnl6UFFlMTVoc1NSVlpveXhRZDE4STREQ1hrblhxVUt1MjdfdEt6ckk1R1l0X05tRmt4TVRubWVxbWMzMkdtVkktQWdxQk1uelY0TFhheVFmZXBwMnBQNW5tLUtGeFd2Y3c?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Tue, 30 Dec 2025 08:00:00 GMT"
+        "title": "L’économie suisse de plus en plus dépendante de la pharma",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjZHVWM0SDdmUThxWVluNC1SMnJXS2RXTGpfT25aNXh6SjNDZEFUWmo2aWRQdmhtU2dFN3hqTU1mMWhQUjlIY3R5ZGhHQXJURjg5SDlfR05HUDVXRHhwNWV2S2tTR2hJQlAyRURJNkFaWTFKQ3E5VVFXWExobjMyWk5YM3pRbDVKVzFKc0FMc1VhcDFOTG9kN3ZR?oc=5",
+        "source": "agefi.com",
+        "published": "Tue, 04 Nov 2025 08:00:00 GMT"
       }
     ]
   },
