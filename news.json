@@ -1,13 +1,7 @@
 {
-  "updated": "2026-11-13T05:05:43+00:00",
+  "updated": "2026-11-13T07:24:19+00:00",
   "categories": {
     "Suisse & Monde": [
-      {
-        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
-        "source": "Le Temps",
-        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
-      },
       {
         "title": "Serie A: L'international suisse Joël Monteiro blessé au mollet",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWZFend0RVNheFBLUWpiNURILWY5ZUM0NGpvbE04VXFSb2lYekhmSUtHeFh4RHZjajNJaHVZRDJrUHhTcGprSUNEYzFENWxwQ29hcnAtSW1uaXRXU2VPOGp4Y0hkZTI5VW1xczNFemY4WWtmbWdpbURHbEhoek1ST2ExdlNHTkxPaG44UjVyZmVsVk1QdlFpYUJXMlF3ZTBWNWIxU0lHWk9sRlVy?oc=5",
@@ -19,6 +13,12 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oYmxnblM5clBVaVZwRXNaWkgzNW9YeEw5aV8wSHp0UzZvTlBnZ0hPbEpEWFMzRFdJNnFoa0NyMVN5cXNJZmMwWUpBQUNTZ19WZ0tOeGNZRVRMS0hINWNUWUxvb29JbGd3T1ZSRV9OcjF5RTlmWS05ZQ?oc=5",
         "source": "Le Nouvelliste",
         "published": "Fri, 10 Jul 2026 03:55:40 GMT"
+      },
+      {
+        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "L'inaction d'Ignazio Cassis concernant Gaza dénoncée par 25 avocats auprès de la Cour pénale internationale",
@@ -133,10 +133,10 @@
         "published": "Thu, 27 Mar 2025 07:00:00 GMT"
       },
       {
-        "title": "Un GPS sur la Lune : des lasers ultra-stables pourraient guider les astronautes et servir de base à une horloge atomique spatiale",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMHFGazBUZndHa0hYLXAyZjZNYWtqNUZFZnF2cC1jeU5WVXZvSXJmWElJRnB3clBNakJZR0VwdmEwQm1tekotc1AxMlpucTc1VGxGT1V4cXB3aUExWFBwQm1LZlh6TnRHRS02eUFvUEF1NGZSejhkM2pObzBYZVdPSVVNdUVqTVRGcEY0QndZQ1ZpSXpFRkZhMklxUENhbXJFQUZWQy1nc1NaWXczaGpjUFdjLTF4b2dyckVXczRJMWpkMWNqaUkxRHhNUEVmUThpcXpWdENlU1dmOFVyNkNhY1IwQm56cHJ0cmhJcV83aXBWTXpQVU1vM05Ja05LYl9tWkRyRVZ0UGdfODJJMHp1Mmk5UFF5RUZvejV3dDFB?oc=5",
+        "title": "La NASA bat le record de rapidité de communication dans l’espace grâce à ce laser !",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1c0a0FCdEtDQUJ0THRBSm9RNVE0TmxUVDhiYkVYZS1IdERCTy1LRGZudkpncUhyaS1EQWp0cFdleWptd01tdWxaTmVudkhwdFFwbHBUdHpla1h6UjA2c25RM256WThIb0ZHcHFJR2RUOGRPM0Fvb3FpMzdEWDByZGJ6N040TG44MFBGZGxqeDgzZEQ4Mm5XM0JodXN1RzZ3dVBkdzBJcUMtZG4waFY4SzNpbmdxamd3d0hOb2hod2lXT2xLU28wV0xIYjdycllKOE5OSQ?oc=5",
         "source": "Science et vie",
-        "published": "Mon, 25 May 2026 07:00:00 GMT"
+        "published": "Mon, 22 May 2023 07:00:00 GMT"
       },
       {
         "title": "L’avion spatial top secret de la Chine débute une troisième mission dans l’espace",
@@ -145,10 +145,10 @@
         "published": "Sat, 16 Dec 2023 13:36:03 GMT"
       },
       {
-        "title": "La NASA bat le record de rapidité de communication dans l’espace grâce à ce laser !",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc1c0a0FCdEtDQUJ0THRBSm9RNVE0TmxUVDhiYkVYZS1IdERCTy1LRGZudkpncUhyaS1EQWp0cFdleWptd01tdWxaTmVudkhwdFFwbHBUdHpla1h6UjA2c25RM256WThIb0ZHcHFJR2RUOGRPM0Fvb3FpMzdEWDByZGJ6N040TG44MFBGZGxqeDgzZEQ4Mm5XM0JodXN1RzZ3dVBkdzBJcUMtZG4waFY4SzNpbmdxamd3d0hOb2hod2lXT2xLU28wV0xIYjdycllKOE5OSQ?oc=5",
+        "title": "DragonFire : la Royal Navy peut détruire un drone à 1 km pour seulement 10 euros grâce à un laser",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1pYV0V3S3ZzY0tsZ0UxRFFZWVotZU5vMFc0QkNaR3ZSbGFyZzg1WkhvZmh5TzVMbTlNVFZCLU8tc0VwY3JZRFBySGpjU0hmMGRlTmh6QnJ1S3hhNldpSHp5RzBiN1UwWlBfVTVuSi1zQzRXT0w5Ri1yVVo1UkJ2Y0ZMRmVwZUZhM2NrYWZ1T2hsWjVfNDFEU2hSWlFkbGxDeHc1YlgxTURWYnZiWk4yVmRPX0lTWFFjRjRJUjc1SkZCcGY4UTJ5eVhGMXNzMVJsRzdRMEptXzVNLXBvbEpJZ05SdmxGLUNOUlNn?oc=5",
         "source": "Science et vie",
-        "published": "Mon, 22 May 2023 07:00:00 GMT"
+        "published": "Thu, 02 Jul 2026 07:00:00 GMT"
       }
     ],
     "Économie": [
@@ -185,7 +185,7 @@
       {
         "title": "Secrétariat d'État à l'économie SECO",
         "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
-        "source": "Swiss government",
+        "source": "admin.ch",
         "published": "Fri, 30 Oct 2026 07:00:00 GMT"
       },
       {
