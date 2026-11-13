@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:54:01+00:00",
+  "updated": "2026-11-13T01:16:36+00:00",
   "categories": {
     "Suisse & Monde": [
       {
@@ -47,7 +47,7 @@
       {
         "title": "Le Secrétariat d’État à la formation, à la recherche et à l’innovation",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96bVVxVkNfamMxalBxTzdDdHk0UllQNF9MRlVVNXZqc1FZX0NiMEZTdnF5VWtxOTdQOW5XMWM1WHhLdw?oc=5",
-        "source": "Confédération Suisse",
+        "source": "Swiss government",
         "published": "Mon, 30 Jun 2025 14:20:48 GMT"
       }
     ],
@@ -103,12 +103,6 @@
     ],
     "Sciences & Technologies": [
       {
-        "title": "Espace : pourquoi la NASA tire des lasers sur des arbres depuis la station spatiale internationale ?",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LelFsZkNEWGJ5WUJCdjBvaTBLaHhzdjlzZXlneTB5X0RLUS1HNGdfV09sWl9wS0RwRmR4bUVXMDF6b3EtdTM2QlRKWFN1bEc0cTNqWm1tRFE0YTQwZkHSAWNBVV95cUxOc0pNZS1RWmYtRXBoYjQwLWktZ1FoNFZDTDM2MlRnYnJROE43UC0zeU9Xa25YQzJ5M0tReW9CYmRBdGlfQnJaajN1d0RTeWQ0ZURXSW8zbGNEeXh6akpicnlBR1U?oc=5",
-        "source": "BBC",
-        "published": "Mon, 15 Aug 2022 07:00:00 GMT"
-      },
-      {
         "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
         "source": "Science et vie",
@@ -149,6 +143,12 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjJfVkRSaWxmZHBzb1B1X0Jpc0J6S2NEb0NQTVl2aDI4RGZtbTlfT2pUQmxyZDZYa18teEthb2dqMmF4R2pTZHdxSVJyZlZFQ2FjdVNnTTlSeUNJQUM5ams5MmlCZ1RQdGcyTHZYck9XYi03LVBJMUZUOGR2MXZwV2RPLTNKMFdfY1k0OVQ4LXN3WHFJajlPTHZRQ3JCXzNLV0VUYmxCZnczR1dMT0VpcUFWanI2dEY1ekpGM003b2RGNDFYcU45TUNRRWw3NWly?oc=5",
         "source": "Futura, le média qui explore le monde",
         "published": "Sat, 16 Dec 2023 13:36:03 GMT"
+      },
+      {
+        "title": "DragonFire : la Royal Navy peut détruire un drone à 1 km pour seulement 10 euros grâce à un laser",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1pYV0V3S3ZzY0tsZ0UxRFFZWVotZU5vMFc0QkNaR3ZSbGFyZzg1WkhvZmh5TzVMbTlNVFZCLU8tc0VwY3JZRFBySGpjU0hmMGRlTmh6QnJ1S3hhNldpSHp5RzBiN1UwWlBfVTVuSi1zQzRXT0w5Ri1yVVo1UkJ2Y0ZMRmVwZUZhM2NrYWZ1T2hsWjVfNDFEU2hSWlFkbGxDeHc1YlgxTURWYnZiWk4yVmRPX0lTWFFjRjRJUjc1SkZCcGY4UTJ5eVhGMXNzMVJsRzdRMEptXzVNLXBvbEpJZ05SdmxGLUNOUlNn?oc=5",
+        "source": "Science et vie",
+        "published": "Thu, 02 Jul 2026 07:00:00 GMT"
       }
     ],
     "Économie": [
