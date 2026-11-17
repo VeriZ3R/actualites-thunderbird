@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-17T02:55:03+00:00",
+  "updated": "2026-11-17T13:21:11+00:00",
   "categories": {
-    "Suisse & Monde": [],
+    "Suisse & Monde": [
+      {
+        "title": "Vidéo Suisse | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4WDNCNUtXVEJwcUJJMHQ2SzExYVBoVUEwcmR0ODRXdU85amtabmFPazFsNmxlekdsa1RQbXYxblhMeGx2OWpyRlUxZGJ4QW5LbXoxcjFNN21iU2lUcFk1dFV3aVQ0VWc?oc=5",
+        "source": "Le Nouvelliste",
+        "published": "Tue, 17 Nov 2026 09:30:35 GMT"
+      },
+      {
+        "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "L'inaction d'Ignazio Cassis concernant Gaza dénoncée par 25 avocats auprès de la Cour pénale internationale",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ00tQS1IRzczZHg4ZEdNTy1Hd0xTX0pHWC1WdUx6elBmaVJtM2tLQWgwQ0ExeWFDN1E5X3FXT0pKaDhEeHo5ekdNRlRyRjNqTXdPenVQWjFXU19vUktIUGlfYXBSU1RLbkFydDdwRkREUXk5RFI2WFJ0YUFDS05scVRNUUxYQmMxUkFjRG5ESnZ4aTZpTTVDZ3ppNGJfZlBvOG1SY0RjWDF6RHB1N2FyQ1pNSk1ieDRPVTB1Rm50TVp0azNUYktJc05yRHItWFJr?oc=5",
+        "source": "rts.ch",
+        "published": "Tue, 03 Feb 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Le Conseil national veut de nouvelles coupes dans la coopération internationale",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTZYRFROSFZSTWs2bEVjQlRUNUUtY3dKenFpMXNmbDYzUk1NQTEzVzdid2otLVcwYU9Ta1hoYTBvREZORFRISHp6ZDNaZlFsajJYbWZwZS1Xc3FxSndqQ0JYRnN3QnBtQzNsa3VkUDBUZXpWVFFqLTgzWkZkXzhFam5DUHNON1QwbDVRQU9OZ2oyV1BzQ2NDNjFLbGdodW5nSkxtQ2c5MFZGN25xa2c?oc=5",
+        "source": "Le Temps",
+        "published": "Tue, 09 Dec 2025 08:00:00 GMT"
+      },
+      {
+        "title": "Neutralité et sécurité: la Suisse cible de fausses informations à l'international",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZm0zbURnVkNDNTFtXzUzSkw0eWFPeHg5RUdZbjk1Rk1CaXY1S3FGclMyZUpuaTNDdHlLS2g4Q25UbkhmN2cyb3Mxc2JMRU1jaEhXOG1JdmJZbDk0cHl2VmtnenotOExwV2gtRkRDODA2bGZtMExpZE41UkFzaklwQ2htck05Nl9BOTZCS191d1ptN2ZvT19SMzktdFMyYm55ZEJ0eW94TWYxVlpxMHRLRTZLVjVUd1M5YVBJeG8wQ3ItanZrT3ZCWUlZWQ?oc=5",
+        "source": "rts.ch",
+        "published": "Sun, 07 Sep 2025 07:00:00 GMT"
+      },
+      {
+        "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
+        "source": "rts.ch",
+        "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+      }
+    ],
     "Horlogerie": [
       {
         "title": "Pourquoi le Japon gagne la bataille des montres",
@@ -54,10 +91,16 @@
     ],
     "Sciences & Technologies": [
       {
-        "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
+        "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
         "source": "Science et vie",
-        "published": "Tue, 05 Aug 2025 07:00:00 GMT"
+        "published": "Tue, 14 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Ce prototype d’avion spatial touche du doigt le supersonique",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVRKLXctVDkxbWJNMDBOQWdlQ3pBZ2NoX1ZzYTJYQ3lKSXFvNUNfUkR3eGNxaDQ0c0t6QjdhVGRXbnNnWFRYTGFDUGY0QkhuNTNJTVU5VmRNVDdCT1U4Rll4SUh3LWdsYlVNUTBQMTVJTnROVFZtNmFqeWl3M1JFZ0JFaDZPUFcxTF9QNVl5Y05wbVFfTFczUFZ6VmdyNHF4czJBWEo1VVFtR3QyaEprR191TnlIcHZpd01VeA?oc=5",
+        "source": "Futura, le média qui explore le monde",
+        "published": "Mon, 12 Aug 2024 07:00:00 GMT"
       },
       {
         "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
@@ -66,16 +109,10 @@
         "published": "Tue, 03 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnZDYjlOTXhRUHBlaE55MTAzUEdveWMweVNYVkluRHBfbmNvRDI3b3pRLThLSzZkN3FBQmRhSFhOZWZTUzFTN3gyaXZ6dFMwWUFzS2ZmQ1FDQ0xYeHBSZXRYeEktcHg0ckZnVmFyYW9NWmRMSzY2VEdtU2NubWctTFo3bUsxVnhjS1EyMFA0N1ByemtKc0Z1X2xicS1TaXpGbExyc1V2OG9MQXRxM0ZOTUJYU1ZCZWhDcUx0Q2FNUHFULW5pNERnOFY1V1E3REFlQmlSOXdMeWg?oc=5",
-        "source": "Futura, le média qui explore le monde",
-        "published": "Thu, 27 Mar 2025 07:00:00 GMT"
-      },
-      {
-        "title": "Contre les drones kamikazes, le Rafale mise sur une roquette qui ne coûte que quelques milliers d'euros",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPb192eG11YUduZFdYeklCaEVWS3l6VGFiS3V5N3RPRWU5Z016b2lXOUF3REhldExEb3pxWG5EU3Q3d1QwRnI4NHJoRXNGZHNwOVVjYWNwR3YwMXYxUkpYU2czdWNLQXFOY3UybDUtbVQ2R2R5WjlLdm93a3pNSXd4U3hubHc1SDVlNS12YjJHc3QzOGFsV3pCVy1yZkViTkIwaTVJTjJBV2QwRUZ4YXZUVTZWSTBQVmw4RGxsdVNHVEhiSmdsd3cxRHJVQXdsQkdQQ2g3RG83UGVoNk4ydUxKSFdyN05QelR6M01adDhyTHFaRFVWOGZpYjRkNk1XZw?oc=5",
+        "title": "Un vol secret de l'US Space Force va bientôt tester une technologie quantique inédite qui pourrait révolutionner les voyages spatiaux",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLW1reHhjNEs2Nnk4NWkyWjZJR1hXeEdCdUJBQkY2Q2xlSHg3SEU5VjBmWHZ5a0tQRXJlSy16WG1qUXNvRURkZFp6SUh0UzFDZTY4LU50UVlvUUlYeEZrelV5aHFManYzZlRCYWp2S0VwQWZrbDMxSV9paXFXMkFhRXlpTzNZTWNka0ZEVlEwQlpaMS1WYmdrUDBJbUZjVGY0RmJQbjVRdmZqYWMyZmR4WUFGemJKRU9jY0FFbXRVcTF3SnRMcmUzVWJfX1lFdDdiRGo1Z1Zfa2d6UndxYW9hNVp5UkJORkdRSElkazhieFZlaDc1Wk9jT3dyT3dsc0FzVWxCUFZZZnpZM0pzaWtrV25nb2wwVldnX3c?oc=5",
         "source": "Science et vie",
-        "published": "Wed, 15 Jul 2026 07:00:00 GMT"
+        "published": "Tue, 05 Aug 2025 07:00:00 GMT"
       },
       {
         "title": "La Nasa va tester la fibre laser dans l'espace !",
@@ -90,22 +127,68 @@
         "published": "Mon, 29 May 2023 07:00:00 GMT"
       },
       {
-        "title": "Les véritables intentions du mystérieux avion spatial chinois semblent plus claires pour les experts",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd1o1LWp3em9ST0xwS0lKcXRmejJlZ0NEcDRkdkpvdWVDXzFmNVZraEFpZXFfZUhiVjJvRDFramJMYnh5ZXdiR1ZEcnFtaVVaR0lkNFlaWEVKSWhYRTdib2RNVE04ZHdSa3pEbF9EcEw5cjQwcG83UHBTeVNrdXhseDRiNC1Cd0xvc3BoVkpsSU11S0V6OTg0SGpNY0ZzeVpDY0QwejJUSHVKZG5sTFRxR3l6a2FiSnhfeUJBMTVZOFBFcVk4ejBnc0RNWmo5OWhYZHNjQmNDZG12dmxGem1HSkx3dGN2aGZv?oc=5",
+        "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnZDYjlOTXhRUHBlaE55MTAzUEdveWMweVNYVkluRHBfbmNvRDI3b3pRLThLSzZkN3FBQmRhSFhOZWZTUzFTN3gyaXZ6dFMwWUFzS2ZmQ1FDQ0xYeHBSZXRYeEktcHg0ckZnVmFyYW9NWmRMSzY2VEdtU2NubWctTFo3bUsxVnhjS1EyMFA0N1ByemtKc0Z1X2xicS1TaXpGbExyc1V2OG9MQXRxM0ZOTUJYU1ZCZWhDcUx0Q2FNUHFULW5pNERnOFY1V1E3REFlQmlSOXdMeWg?oc=5",
         "source": "Futura, le média qui explore le monde",
-        "published": "Wed, 31 Jul 2024 07:00:00 GMT"
+        "published": "Thu, 27 Mar 2025 07:00:00 GMT"
       },
       {
-        "title": "L'avion spatial Mira I s'est écrasé dès le décollage",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTFTRmhJX0lIYUl4REJrVmNlMlVhM2NxOWpGMElxNkkwNHBsWWdSRWF3cmgxNkxzQmxIT1ZMemUyeVJQTGFISVNSSXhPdVhYSHVnZWR5aldIX2wtRTliVFVMbjE2eXhSSnhHTk9IYmtPX3lCTTNFLUdEZWhJZG9VSjlITlpFVGI3VGVLeW1ZNlM1THZUYTVnRk51VTBwazQ?oc=5",
-        "source": "Futura, le média qui explore le monde",
-        "published": "Fri, 10 May 2024 07:00:00 GMT"
+        "title": "DragonFire : la Royal Navy peut détruire un drone à 1 km pour seulement 10 euros grâce à un laser",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1pYV0V3S3ZzY0tsZ0UxRFFZWVotZU5vMFc0QkNaR3ZSbGFyZzg1WkhvZmh5TzVMbTlNVFZCLU8tc0VwY3JZRFBySGpjU0hmMGRlTmh6QnJ1S3hhNldpSHp5RzBiN1UwWlBfVTVuSi1zQzRXT0w5Ri1yVVo1UkJ2Y0ZMRmVwZUZhM2NrYWZ1T2hsWjVfNDFEU2hSWlFkbGxDeHc1YlgxTURWYnZiWk4yVmRPX0lTWFFjRjRJUjc1SkZCcGY4UTJ5eVhGMXNzMVJsRzdRMEptXzVNLXBvbEpJZ05SdmxGLUNOUlNn?oc=5",
+        "source": "Science et vie",
+        "published": "Thu, 02 Jul 2026 07:00:00 GMT"
       }
     ],
-    "Économie": []
+    "Économie": [
+      {
+        "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
+        "source": "Le Temps",
+        "published": "Fri, 19 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Un vent d’optimisme souffle sur l’économie suisse en août (KOF)",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVhkYnB2TWFJRFFMd19Rd2FTd1p3b1VOY2ZZV2hPQXhBY1dFNGFEckRHeDB4a0k0SUhrU19mcHJVSUo4VTJId2I2Sml0QUZmU0xsckRUcDZXUl8tX1BNRk5nam5VSHJVNnU2eXo1Y3BWVVZ4aC1pRVQ4UzBGbDYzandYMFNxSDRKR0xIN045Z21EWWJtUmFoVjVRc1hFZlVKWnQzY0pEeS1jcFItZGo3aWxtRW1zUGs0YXFR?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Moyen-Orient: une crise qui touche aussi l’économie suisse",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTQ0elVlaFJINVE2eEVybWhNYXdYTFN5aC1GS2VjUUY2N2doS0QzbF9RNGlSTDNfSkVNRGxzM1lmcnJ6cmxIMk9vajZtcEdaSjRQWUhjdndUZ25fZWlPY3NrZ1FmcGo2M3V4Uk1pSlJ1bWxuYUszWmZDbkp6Vzc3WWsxM2g5TjJIamh1QkgwMVhfZ2s0aGdURU9vdFVTYVVETDFmdHVydw?oc=5",
+        "source": "A la une - Entreprise Romande",
+        "published": "Fri, 24 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Sophie Michaud Gigon, la Verte qui bouscule les codes",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2UtMFByRFQ4ZjNNbzVFT0JDbzlVYzdDUVhpWWNRM1p3QnpJcEtBQUJkeUhTS05HM0Y0eHlHZDFORWh2dl9Icm5sZmVBMFI4Q0tzZlRia0hJWHd6VDVWMk5iNWx5Tm9QQURWb1hQVWtXS2Z6Vm90NE84RGZhZERKZnA2a0VlZmhyajdWc2xkVjlCM1dJTWc?oc=5",
+        "source": "PME Magazine",
+        "published": "Thu, 13 Aug 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeF8td3pEY3AtVkl2bU5hTmhSeEg3UWNpV2dpY3QwSFBOLXdaUnFJMThpd3Rpang4QndnM1FKZXo4aWthV2czR1ItaDUxQ25lN1lud1BJeWdMY2xFRGhtU3F1QnlidXFsdGk2SWdfejNVTE9pQlItcmlUaWRqb1BtVElMaW1WcnpUNnBaQllvX2ZJTk5YQi1LeWg0UmQtNmI3SHlMMnRvY04xYUtza2d6c3hNRGYtZWI0cFBWWUVNdEpmY2hmZUtzZw?oc=5",
+        "source": "Le Temps",
+        "published": "Thu, 03 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "L’horizon reste dégagé pour l’économie suisse",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0taU2NoSlZQMGVuS2YyemhGS3k2UmljSXVhTm96T0ttd1dCbXFGR1B1VzkxRGQzQ21zc202cExVck44VjUtRXhneHVCU1JDbS1pWEJBaXBHc1E1cEl6V2Jrem5naVB0dXpXZTg4TzhrVUcwTFVhZjN1QktBV3RaWGs4ZXFaWmF0SWRzNkh6aWV0LU9CMmNWR2FHY1pZaUZNdXYtaQ?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Tue, 29 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Secrétariat d'État à l'économie SECO",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
+        "source": "admin.ch",
+        "published": "Fri, 30 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
+        "source": "interpharma.ch",
+        "published": "Wed, 31 Jan 2024 08:00:00 GMT"
+      }
+    ]
   },
-  "errors": {
-    "Suisse & Monde": "HTTP Error 429: Too Many Requests",
-    "Économie": "HTTP Error 429: Too Many Requests"
-  }
+  "errors": {}
 }
