@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-18T07:24:28+00:00",
+  "updated": "2026-11-18T17:14:11+00:00",
   "categories": {
     "Suisse & Monde": [
-      {
-        "title": "Vidéo Suisse | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4WDNCNUtXVEJwcUJJMHQ2SzExYVBoVUEwcmR0ODRXdU85amtabmFPazFsNmxlekdsa1RQbXYxblhMeGx2OWpyRlUxZGJ4QW5LbXoxcjFNN21iU2lUcFk1dFV3aVQ0VWc?oc=5",
-        "source": "Le Nouvelliste",
-        "published": "Tue, 17 Nov 2026 09:30:35 GMT"
-      },
       {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
         "source": "Le Temps",
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
+        "source": "Le Nouvelliste",
+        "published": "Sat, 27 Jun 2026 04:45:25 GMT"
       },
       {
         "title": "L'inaction d'Ignazio Cassis concernant Gaza dénoncée par 25 avocats auprès de la Cour pénale internationale",
@@ -45,14 +45,57 @@
         "published": "Sat, 08 Mar 2025 08:00:00 GMT"
       }
     ],
-    "Horlogerie": [],
-    "Sciences & Technologies": [
+    "Horlogerie": [
       {
-        "title": "Vaisseaux-mères et chasseurs spatiaux : la Chine officialise son incroyable projet Nantianmen !",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ282QmNiQ0J2c0p5NnJSbXc2TW1qQmtoRDdvWHVaNi1aUkNya01QZ2RjZFdaaWRlY2ZUaDVJUnI2Z0tyb1BmTUd6VnBEcENyY25VOWM3c1c3ZVUtSjFXVVB5dHFKOVVCZk5ncEoyUUFiaGVUeWE1RXJ6NTBaSlBTVnZvMTVxaUdTVW1GbVlYV1ZLSjdpZmZYamxMdFJ0WVh2ek9J0gGoAUFVX3lxTE51UlF4Ui1mVFIyNFAzNHVUaGNkNEJMT3BkVWRaRmpHQ0U3N1JwczVhcktFdnBrR3drZHdjN2ZUVlFVal9BVjZkM2V4WGZFVEN3X2dqaHd4QUdteUdBM0VfZlBrN241Vk5oX3JvbXNwbS1qU0k0SUZKdk5iMTBBZGpObHdMRmh1V250aEIwdDRIYVZPNlgtQzYwZ1llUVpfakVGQXA1S3Nycw?oc=5",
-        "source": "Génération NT",
-        "published": "Sat, 17 Jan 2026 08:00:00 GMT"
+        "title": "Pourquoi le Japon gagne la bataille des montres",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
+        "source": "PME Magazine",
+        "published": "Tue, 16 Jun 2026 07:00:00 GMT"
       },
+      {
+        "title": "La longue marche des montres suisses dans la Chine post-luxe",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEtBWEdJb1BvUjdOSDl2NGZPcl9PNm94bmREY1RLM3NlRzEyRnNBQnRiREhwUjVFYm8zYXVGR2xRQWZRaVJELTFrT0Q0SWdDLXNyTHlkVGZfQkp6UDJoRTlqYXdmSHA2cVhfdU8tSWlrbDVNV3gtVWN3Z0V5NWRtNVRSQVU4M0RRZjlsTXRnZGFJM0NMWnlxc2h5VnRNdVRadGpQM2t1eG1aM3RReHk2R0c4MDU?oc=5",
+        "source": "Le Temps",
+        "published": "Fri, 05 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
+        "source": "GQ France",
+        "published": "Tue, 13 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Le Japon à l'offensive d'une horlogerie suisse qui végète",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnlMZndDaGp5S05Udm1VV3hZZ21qVU0wajNaZmItMmRkUnk4VXVTWC1ONWtzZmM1MnNPbm1aWENtR0pNTkF4alRaNFFYYkNDZHRxWW5qOWJfWm9VdGZZVDRHdmdkTlVzQTAtZ3RnSm1LU21GZFItSU9KaXRKR2huNG1ES0Fab3hsdDAwYkRBNHJyWGZOTnhJS185UQ?oc=5",
+        "source": "Blick",
+        "published": "Sat, 20 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "L’horlogerie en 1927: des changements structurels majeurs",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmYtbjJYdFJGRi1JTVFlN2V5T0JSZnFacTIyVWZPOUZYVXZpdkxueC1UMjdnSFp1SXVUYjB0RS15MVMtUEtQRTZ6QWp3VHd1cWlCak9VNDhWVkRNRGRMUG5VcUtMcUw0SFdnM3d2dVF6Zjl1cnQyNWRBdG1kRDNvcXNQZmliYmRNS0JBWkd4bDEzdVk0LUNSdTY1U0JXdHlmcktQdDlKUU5Fb0xLWldPbDZPaEgtdw?oc=5",
+        "source": "Europastar.ch",
+        "published": "Sun, 08 May 2022 07:00:00 GMT"
+      },
+      {
+        "title": "Jaeger-LeCoultre lance un service de gardiennage pour ses montres de luxe",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakJHa2ZkSjhPVG43VkxGc3dGQVI4eG0tZDhxU3ByTDFMQUZRNmhRWF9ZYXhUcktEVm83WHNwYW5mRDRMRGxxMVVXeGUyWEVXNnhlalFMdXBQbTFXYnQ1VU5xeWhhZ0pLWURnbUhtNi0yN2Z4dS1kTDdWZlhyZzRqeDF4cnY3YVczcjMwRnhRZE1WalRGdlA5RjF0N3dsSEc5MFRORXlfd1ExWHZFdExYQTMyR0ttYnYzR3h1TzRQeXBRd9IBxwFBVV95cUxQQUJDdjFMVTZoVGRFaHlsNW9TREdPeUx0THN1Q3BwcUFobXVINS1UdFlvN2hGc0R4dFZYclZycExjUEhlVDJ6QVJUSUVfamNyWUsyU2RyTU1PMXhuaFRUalJvLUNPTHJVMzlDU2ZkdVBpOFhBOU1PY2hMcEI1aU9wRU9rNkxUZEhnTmJJN3lfT1U5aTVBU2FBY2NOMExWSlI1d2FBUHlkd1BhdGpIZjREVE5kTG9xOGgwdWIzcFFmdXBCaTd0d2k4?oc=5",
+        "source": "Journal du Luxe",
+        "published": "Wed, 18 Nov 2026 05:27:20 GMT"
+      },
+      {
+        "title": "LA SWATCH, ÉTERNELLE INNOVATION DE RUPTURE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1Q0eE1IX0M2d1d2OXRtWkx6WWFHbmVHdmxNcG02SDd0VVB1RTMwWTctZW9iSExlRWJ3MHRvVmpzdkY4X0tBVUthZnJ3ejV1OWNrMWZVejhaT19nS0NMcF9sX0VlXzRObWQtd3UwVUcwRmNIcnBaamFXc2RlbWZINWln?oc=5",
+        "source": "Europastar.ch",
+        "published": "Thu, 08 Jul 2021 02:25:00 GMT"
+      },
+      {
+        "title": "Citizen : Histoire complète de la marque et innovations",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUElCTzBFZDFPa0ZoNW00bThmam1BZmdBdGJrUzlmU2dGS1A5RTlDNWYyX3ZqU2NjY090VHNpVzF4QlN5MWNLM215NmZERXpvNXVYU3RlWFkya0hBZUxpR0hZYW5UNkNKVDNiSW5LdXRvaUxEWDNqZmpGRE16WGdydlkwekU5akxrX1BUc3I1SlFmVy1QbHVfZVhhU1NCWjQtNk5mcnBsYUhBWEFmaGlFS0tQRV80SmtDUzFmNVJLRENmX1hXOE8yV3RVdHJ4MmxfbWM4a2NBdnp4SkVmX1ZqLVhPVjdpVEVq?oc=5",
+        "source": "The Watch Observer",
+        "published": "Thu, 17 Oct 2024 07:00:00 GMT"
+      }
+    ],
+    "Sciences & Technologies": [
       {
         "title": "En microgravité, des cubes de graphène propulsés par laser ouvrent la voie à une propulsion spatiale sans carburant",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjhIOXV3aHJWc2lJLXdENE5NRmNUVWpPelVBaktEMFRkb3c3NkZlY1RSWklSWHBseGpSNDhrSmY3TWJjNDhQV1BlYWVVT1JuS1JVZFV3dUNFcm5iLXVveVZ0YjJKbWZETFBZbXBqRU5pZWVWX1F5TjBUWDBGdVhCS0JKSFhUS1FkYllsY3VtYVBnS0dMVEU3WkRCX0FET0hUNVVPVlEydmszTkpUZnlHWWYtWEJKZUhtSkJJVk41WXdDa2l6dEd1WTBUT3o5eXJnME1LYXlYMWtyQUJwUmQ1amttWGc3cFB4a2FiZnlsSF9Cc09VWlZ2X1N6WTFlV2dfMmc?oc=5",
@@ -64,6 +107,12 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVRKLXctVDkxbWJNMDBOQWdlQ3pBZ2NoX1ZzYTJYQ3lKSXFvNUNfUkR3eGNxaDQ0c0t6QjdhVGRXbnNnWFRYTGFDUGY0QkhuNTNJTVU5VmRNVDdCT1U4Rll4SUh3LWdsYlVNUTBQMTVJTnROVFZtNmFqeWl3M1JFZ0JFaDZPUFcxTF9QNVl5Y05wbVFfTFczUFZ6VmdyNHF4czJBWEo1VVFtR3QyaEprR191TnlIcHZpd01VeA?oc=5",
         "source": "Futura, le média qui explore le monde",
         "published": "Mon, 12 Aug 2024 07:00:00 GMT"
+      },
+      {
+        "title": "Vaisseaux-mères et chasseurs spatiaux : la Chine officialise son incroyable projet Nantianmen !",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ282QmNiQ0J2c0p5NnJSbXc2TW1qQmtoRDdvWHVaNi1aUkNya01QZ2RjZFdaaWRlY2ZUaDVJUnI2Z0tyb1BmTUd6VnBEcENyY25VOWM3c1c3ZVUtSjFXVVB5dHFKOVVCZk5ncEoyUUFiaGVUeWE1RXJ6NTBaSlBTVnZvMTVxaUdTVW1GbVlYV1ZLSjdpZmZYamxMdFJ0WVh2ek9J0gGoAUFVX3lxTE51UlF4Ui1mVFIyNFAzNHVUaGNkNEJMT3BkVWRaRmpHQ0U3N1JwczVhcktFdnBrR3drZHdjN2ZUVlFVal9BVjZkM2V4WGZFVEN3X2dqaHd4QUdteUdBM0VfZlBrN241Vk5oX3JvbXNwbS1qU0k0SUZKdk5iMTBBZGpObHdMRmh1V250aEIwdDRIYVZPNlgtQzYwZ1llUVpfakVGQXA1S3Nycw?oc=5",
+        "source": "Génération NT",
+        "published": "Sat, 17 Jan 2026 08:00:00 GMT"
       },
       {
         "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
@@ -98,10 +147,16 @@
     ],
     "Économie": [
       {
-        "title": "Un vent d’optimisme souffle sur l’économie suisse en août (KOF)",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVhkYnB2TWFJRFFMd19Rd2FTd1p3b1VOY2ZZV2hPQXhBY1dFNGFEckRHeDB4a0k0SUhrU19mcHJVSUo4VTJId2I2Sml0QUZmU0xsckRUcDZXUl8tX1BNRk5nam5VSHJVNnU2eXo1Y3BWVVZ4aC1pRVQ4UzBGbDYzandYMFNxSDRKR0xIN045Z21EWWJtUmFoVjVRc1hFZlVKWnQzY0pEeS1jcFItZGo3aWxtRW1zUGs0YXFR?oc=5",
+        "title": "La montre-bracelet a-t-elle vraiment été inventée à Genève?",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQZkRjcm1BOERSNTdiYmk4ZDlxaUlUX01iVy1pRDZITUtsOXZwSlotM09XVWlIalRzVFRScmFJT19rWDhOUlMxRngweGdVazdfSjh3NFhCUlVqeUg2SVZHMXFLVUdJSWFwNTRORDF1Y2pMbHVtSFVzd2U4MGN1LVRTVmw0c0NsOEE2d3l5NWhxSmZYdGxtYlNUa0VJWjBRcVlQd2pPdXl5UDhmeHhoZFdFeUp4UW1xWWFxWnlWcVMxbk01ZjdxYkhxZ0FZQnVTdW1ZMTlVeDhzT3IxSnIwUnlRalQtZWRMTGxYdjhyVUFnaE1QcktFWHptVmdQZURKZjNua0FBdUpDalFWaWRUT0RiR0JCdGFJSHdwU2JCd2MwSlg5ZWVoNzZJa0FvWmJiSU93UUxKOER1RjJpdVpKVGFB?oc=5",
         "source": "SWI swissinfo.ch",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
+        "published": "Wed, 18 Nov 2026 10:00:00 GMT"
+      },
+      {
+        "title": "Comment la Suisse est passée de pays importateur à exportateur d'armes, tout en dépendant des importations",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPanEwT3NQSkxHak1pY29sT2Q1NXI0dFNEa0pLdzBuSmZlQ2pmV05yZkdEQS1ldEc0Q0VEd2ZDM2dScUFCazhxNllTMzhuNmZIYnowVkFQNWMtOW14ME5kSUtfU3FEMTh6aVQtd1JpRERmTzJFaXh1NnpfVkNoSDNFTGwteXdMVW5wVHVIdkc5akhYbTNfbWNaUUw5RjBNd0JzOWFOWVFfbDhsa1EtTGVMQTRELXAteS1xT0prMFRnc1NCXzM1bnpqeG9nYWRoT0hOam1NQXJXbDhFbnJiUjk1V0haZFM?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Mon, 16 Nov 2026 08:58:32 GMT"
       },
       {
         "title": "Emmenée par l’industrie pharmaceutique, l’économie suisse a pressé sur l’accélérateur ce printemps",
@@ -116,38 +171,30 @@
         "published": "Thu, 13 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "L’horizon reste dégagé pour l’économie suisse",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0taU2NoSlZQMGVuS2YyemhGS3k2UmljSXVhTm96T0ttd1dCbXFGR1B1VzkxRGQzQ21zc202cExVck44VjUtRXhneHVCU1JDbS1pWEJBaXBHc1E1cEl6V2Jrem5naVB0dXpXZTg4TzhrVUcwTFVhZjN1QktBV3RaWGs4ZXFaWmF0SWRzNkh6aWV0LU9CMmNWR2FHY1pZaUZNdXYtaQ?oc=5",
-        "source": "SWI swissinfo.ch",
-        "published": "Tue, 29 Sep 2026 07:00:00 GMT"
-      },
-      {
         "title": "Entre incertitudes et tensions, l’économie suisse ralentit dans un contexte international dégradé",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkxaSmZRMjkycW9QdUlRblNBdmd2TmJWdG9GTlp5b3hmVWdCM0luUTlTa2JOOUYyOFo0QjRBbUlmZExQMjRqeWJld01xYU4zM0FEakFNQzlzV09NWmF2MDlXdXFoZHI5cExKT1RlbHJnSTlQU0N4OVNCOTVXd2VTMlJBd2wxX3NWaUVTZmQ3VFlWMURYM19iTXJTaUR5Y3RtWXVmNFQyYktYVzNiVkI5cWFZNUZKaFE0dHRIR1FsMjMwVDhEcV9r?oc=5",
         "source": "Le Temps",
         "published": "Fri, 19 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "«Un danger indirect» plane sur l'économie suisse à cause de la Chine",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcmlsMUJtUzRYdWlCcDJxblhiLTZGbUhWa1JzUEZ5OEVDTW9HX3NITXdZU0Ewdzd0ODZyMTg4RmtCMzgwV09zN0w2TXFDMUxlV0hMRVZWS00yQ0hzTy1TTVllOV9qd19taV9aT0JYNFhLd3psMnRxM0NFN01jQWN2SnBVczRXMVN0bnd1WXdqVDU2NnpOLXFXZnUyNnVzVmFjUjJHTGJURnNTZTlIRkE?oc=5",
-        "source": "Watson",
-        "published": "Sun, 21 Jun 2026 07:00:00 GMT"
+        "title": "Un vent d’optimisme souffle sur l’économie suisse en août (KOF)",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVhkYnB2TWFJRFFMd19Rd2FTd1p3b1VOY2ZZV2hPQXhBY1dFNGFEckRHeDB4a0k0SUhrU19mcHJVSUo4VTJId2I2Sml0QUZmU0xsckRUcDZXUl8tX1BNRk5nam5VSHJVNnU2eXo1Y3BWVVZ4aC1pRVQ4UzBGbDYzandYMFNxSDRKR0xIN045Z21EWWJtUmFoVjVRc1hFZlVKWnQzY0pEeS1jcFItZGo3aWxtRW1zUGs0YXFR?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT"
       },
       {
-        "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
-        "source": "interpharma.ch",
-        "published": "Wed, 31 Jan 2024 08:00:00 GMT"
+        "title": "L’horizon reste dégagé pour l’économie suisse",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0taU2NoSlZQMGVuS2YyemhGS3k2UmljSXVhTm96T0ttd1dCbXFGR1B1VzkxRGQzQ21zc202cExVck44VjUtRXhneHVCU1JDbS1pWEJBaXBHc1E1cEl6V2Jrem5naVB0dXpXZTg4TzhrVUcwTFVhZjN1QktBV3RaWGs4ZXFaWmF0SWRzNkh6aWV0LU9CMmNWR2FHY1pZaUZNdXYtaQ?oc=5",
+        "source": "SWI swissinfo.ch",
+        "published": "Tue, 29 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Economiesuisse veut des accords commerciaux diversifiés et moins d'endettement public",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFdSWm9RUFlVTFZ0OHpjRW55SUtHN2k3aXNKNmFKMGdVN0J3U2tmZnViS0xJVndpdndZZ3JYdm9xSDVuQzhLVVpDVnRqQWZfbzQwXzdUOXVKNEgwTTlNZ1V2OVFndDR5X1l0ekFkV3dlcWFscTMtbW9wbm1pVy1jWUM2TURDNEhnSmxYM0FRSEhWUDktb2dXUzEyZWFfQ1JtY0pybXg1ZVpSeS1yb2lzOTdhQWkxWVlqekd5LUFQZjZuNml5bTVJ?oc=5",
-        "source": "rts.ch",
-        "published": "Tue, 03 Feb 2026 08:00:00 GMT"
+        "title": "Secrétariat d'État à l'économie SECO",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
+        "source": "Swiss government",
+        "published": "Fri, 30 Oct 2026 07:00:00 GMT"
       }
     ]
   },
-  "errors": {
-    "Horlogerie": "HTTP Error 429: Too Many Requests"
-  }
+  "errors": {}
 }
