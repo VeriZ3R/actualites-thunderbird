@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-18T17:14:11+00:00",
+  "updated": "2026-11-19T00:21:07+00:00",
   "categories": {
     "Suisse & Monde": [
+      {
+        "title": "Vidéo Suisse | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4WDNCNUtXVEJwcUJJMHQ2SzExYVBoVUEwcmR0ODRXdU85amtabmFPazFsNmxlekdsa1RQbXYxblhMeGx2OWpyRlUxZGJ4QW5LbXoxcjFNN21iU2lUcFk1dFV3aVQ0VWc?oc=5",
+        "source": "Le Nouvelliste",
+        "published": "Tue, 17 Nov 2026 09:30:35 GMT"
+      },
       {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2FENFRnSlhKOXZyUUxycklTd01kc25EMDhKYjhsUFBVVG9sNjlsS0hiLW93WkxfVE1Od29tVW16VnpwaDNBTXFzYVlPUEZ6ZF9yUy1nakdZenZnOXhnT2tQVDM0ZTZQVVVPRUFLOW5PYzUxY3NPWG1UMk5iU0dod2lKYlFXcTF4eFRJT0Nuc1B4dTdjbFBvZ1FqLUxXck1ielNYZ3d0NmY4RklYc0pqd2ZlMnJLWUNDNlJ3YmNEMUdZOG9sbnh1RnlvbW5JaVJVdzF3T0RLVHhmX0M4OGNj?oc=5",
         "source": "Le Temps",
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
-        "source": "Le Nouvelliste",
-        "published": "Sat, 27 Jun 2026 04:45:25 GMT"
       },
       {
         "title": "L'inaction d'Ignazio Cassis concernant Gaza dénoncée par 25 avocats auprès de la Cour pénale internationale",
@@ -109,12 +109,6 @@
         "published": "Mon, 12 Aug 2024 07:00:00 GMT"
       },
       {
-        "title": "Vaisseaux-mères et chasseurs spatiaux : la Chine officialise son incroyable projet Nantianmen !",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ282QmNiQ0J2c0p5NnJSbXc2TW1qQmtoRDdvWHVaNi1aUkNya01QZ2RjZFdaaWRlY2ZUaDVJUnI2Z0tyb1BmTUd6VnBEcENyY25VOWM3c1c3ZVUtSjFXVVB5dHFKOVVCZk5ncEoyUUFiaGVUeWE1RXJ6NTBaSlBTVnZvMTVxaUdTVW1GbVlYV1ZLSjdpZmZYamxMdFJ0WVh2ek9J0gGoAUFVX3lxTE51UlF4Ui1mVFIyNFAzNHVUaGNkNEJMT3BkVWRaRmpHQ0U3N1JwczVhcktFdnBrR3drZHdjN2ZUVlFVal9BVjZkM2V4WGZFVEN3X2dqaHd4QUdteUdBM0VfZlBrN241Vk5oX3JvbXNwbS1qU0k0SUZKdk5iMTBBZGpObHdMRmh1V250aEIwdDRIYVZPNlgtQzYwZ1llUVpfakVGQXA1S3Nycw?oc=5",
-        "source": "Génération NT",
-        "published": "Sat, 17 Jan 2026 08:00:00 GMT"
-      },
-      {
         "title": "\"Digne de Star Wars\": 242 mètres de long, 684 de large pour 120.000 tonnes, la Chine dévoile un projet de porte-avions spatial géant qui tient autant de la démonstration de puissance que de la propagande",
         "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQR1ZrSTlrcmFJdENZOHI0bldQUXdvekNMMDhaUl8tSlVnd1NtYld1allfcWNfQS1mdE5DekRrcGN6UkFoeTdPdlVza21XTUtwQ2tQTkhYbjJza3IzT09GLTNEeG1aNlMxakxueHlGRGhyYWxtdnpHN29sVUsxcDF5QUhNZ3dweGRDX1hqeldNaTVWSnh0ZTdUT0NQRnl6TU81LXYybUQxM3owcVlyZFlhdXZ2cFA1WHBpRDJ3dlZvRWRKZkk4dFBHMkpXNi1fYzYwcV9oLVdJdmRUNDhPYVdweUdvZnVsNkNlZER1MXgzTkZsT2swZFQtQml5X1ByN2J6SkYxdEJvZThzcnM4RGIzLV9ZeEdmOWhsNmJRdkpOc3JjNnVKY0RUOHlxNVZxcmtpU2lGaTV6ZXVPUVdMZ3dlbl9fS1JLdkRWNU5pRkZvV2lKSlBDTHJmZmVGeDFRSGVMUk0tbms3b1ZuSFl6Zy1oNUxOQQ?oc=5",
         "source": "BFM",
@@ -143,6 +137,12 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd1o1LWp3em9ST0xwS0lKcXRmejJlZ0NEcDRkdkpvdWVDXzFmNVZraEFpZXFfZUhiVjJvRDFramJMYnh5ZXdiR1ZEcnFtaVVaR0lkNFlaWEVKSWhYRTdib2RNVE04ZHdSa3pEbF9EcEw5cjQwcG83UHBTeVNrdXhseDRiNC1Cd0xvc3BoVkpsSU11S0V6OTg0SGpNY0ZzeVpDY0QwejJUSHVKZG5sTFRxR3l6a2FiSnhfeUJBMTVZOFBFcVk4ejBnc0RNWmo5OWhYZHNjQmNDZG12dmxGem1HSkx3dGN2aGZv?oc=5",
         "source": "Futura, le média qui explore le monde",
         "published": "Wed, 31 Jul 2024 07:00:00 GMT"
+      },
+      {
+        "title": "L’avion spatial top secret de la Chine débute une troisième mission dans l’espace",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjJfVkRSaWxmZHBzb1B1X0Jpc0J6S2NEb0NQTVl2aDI4RGZtbTlfT2pUQmxyZDZYa18teEthb2dqMmF4R2pTZHdxSVJyZlZFQ2FjdVNnTTlSeUNJQUM5ams5MmlCZ1RQdGcyTHZYck9XYi03LVBJMUZUOGR2MXZwV2RPLTNKMFdfY1k0OVQ4LXN3WHFJajlPTHZRQ3JCXzNLV0VUYmxCZnczR1dMT0VpcUFWanI2dEY1ekpGM003b2RGNDFYcU45TUNRRWw3NWly?oc=5",
+        "source": "Futura, le média qui explore le monde",
+        "published": "Sat, 16 Dec 2023 13:36:03 GMT"
       }
     ],
     "Économie": [
@@ -189,10 +189,10 @@
         "published": "Tue, 29 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Secrétariat d'État à l'économie SECO",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9zZ1YyeGhKdDhPWmQ1UERFVUNnSU05bHU1dGdLdW9GN1owczZDcEpKRV9NTmpsVHJuUjZuV3g5bE51X0k?oc=5",
-        "source": "Swiss government",
-        "published": "Fri, 30 Oct 2026 07:00:00 GMT"
+        "title": "Communiqué de presse: L’industrie pharmaceutique est le moteur de l’économie suisse",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHE5dGtTcHhoN09BcG03REpJTW9WenBJbFlsY1M0TmdCLWI0Q2VEWVBodkptSU1GaWE1c1k3ZDZfR1NXMzRxZlduX2d3a2RVRGN1ekVfWTU0SkJUQlQ5dWNlTGZKTnpJd2Z0MlBuM1pjRy1ETjZzeXpYQzkwVldkVFd4akZncnFlbm5hX1JfSTNDcWY3R0piNmVtbGhjdkU?oc=5",
+        "source": "interpharma.ch",
+        "published": "Wed, 31 Jan 2024 08:00:00 GMT"
       }
     ]
   },
