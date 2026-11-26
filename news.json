@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-26T10:50:55+00:00",
+  "updated": "2026-11-26T21:28:38+00:00",
   "categories": {
     "Suisse & Monde": [
       {
-        "title": "Vidéo Suisse | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4WDNCNUtXVEJwcUJJMHQ2SzExYVBoVUEwcmR0ODRXdU85amtabmFPazFsNmxlekdsa1RQbXYxblhMeGx2OWpyRlUxZGJ4QW5LbXoxcjFNN21iU2lUcFk1dFV3aVQ0VWc?oc=5",
-        "source": "Le Nouvelliste",
-        "published": "Tue, 17 Nov 2026 09:30:35 GMT"
+        "title": "\"Profondément désolé\" concernant sa panne mondiale, Microsoft annonce la reprise de ses services",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHlsaVJNMl9FOENFTGs2dEgzZWVMbkw2TlpTalViZmdaOHBldFJyXy1yYlZ1TGEzV3pQbVFkNGNDYVRIczByTEpMME1vSTlBVzZpYmtNVEk5VloyZDcxSHUwRklzblFtbzM1RnA4eFV4RmdLR3diaTVJb1NRVDU1WnhzSVVKY2U2UXhqWTFxOGsyeWk5V2VCRXVhcnBvTWdVM0lUUkxxMlFuTENuRFM1V1pyY0kxdDBtVU05eFdB?oc=5",
+        "source": "rts.ch",
+        "published": "Fri, 13 Nov 2026 08:00:00 GMT"
       },
       {
         "title": "Drame de Crans-Montana, actualité internationale... Guy Parmelin s'entretiendra avec Giorgia Meloni et Sergio Mattarella",
@@ -15,16 +15,22 @@
         "published": "Thu, 30 Apr 2026 07:00:00 GMT"
       },
       {
+        "title": "Suisse stade | Le Nouvelliste - L'actualité valaisanne, suisse et internationale",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRb3l4MGZ1enRtX3VFZnNkWTlGQ2Rjekt4Y3ZYRVdtSXBoVm54a2JDZlZyMk1VeFk5MTdqNWlDUWZuQk4ycUs2c0xId3I2SzRNWXc2UlVlaGZsbXNnN2RLZFRwVGRpQ3c?oc=5",
+        "source": "Le Nouvelliste",
+        "published": "Sat, 27 Jun 2026 04:45:25 GMT"
+      },
+      {
         "title": "L'inaction d'Ignazio Cassis concernant Gaza dénoncée par 25 avocats auprès de la Cour pénale internationale",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ00tQS1IRzczZHg4ZEdNTy1Hd0xTX0pHWC1WdUx6elBmaVJtM2tLQWgwQ0ExeWFDN1E5X3FXT0pKaDhEeHo5ekdNRlRyRjNqTXdPenVQWjFXU19vUktIUGlfYXBSU1RLbkFydDdwRkREUXk5RFI2WFJ0YUFDS05scVRNUUxYQmMxUkFjRG5ESnZ4aTZpTTVDZ3ppNGJfZlBvOG1SY0RjWDF6RHB1N2FyQ1pNSk1ieDRPVTB1Rm50TVp0azNUYktJc05yRHItWFJr?oc=5",
         "source": "rts.ch",
         "published": "Tue, 03 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "Organisations internationales",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUJnT0NYbmctMWRMc0FTbV9FOWtyaWYtQnZxRkhJT3o3Q25TVkxQREF4OG51SUdvamlubGhydnE3V2FUZWREbDROeExEYW1FYkx6ZTh0UjB1TG10RGU0X2RiMVVjSmNGREpRdkRyWXRqcGZBSUk4LWgzVmQteUEtekRMNA?oc=5",
+        "title": "Présidence suisse de l’OSCE 2026",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VRWVDaENFNThrUTJIRS1FVEVwcTBybzVRdzVLSmNCUTEzcTl6TWVGZTl2cTFicjMwazVmMk1kWWwxYWU0REJOeWVXWDdnS1BaX1E5MVFQcDdEd1ZMd2Ztemg0VXQ2Zw?oc=5",
         "source": "eda.admin",
-        "published": "Thu, 19 Feb 2026 08:00:00 GMT"
+        "published": "Tue, 17 Feb 2026 11:27:45 GMT"
       },
       {
         "title": "Neutralité et sécurité: la Suisse cible de fausses informations à l'international",
@@ -33,25 +39,68 @@
         "published": "Sun, 07 Sep 2025 07:00:00 GMT"
       },
       {
-        "title": "Guy Parmelin en direct avec l'ISS : \"Y a-t-il du vin à bord ?\"",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnE0TFdaX3hyUjZKaEFoYkhjWEdmR2NtekFfVTNhZVhfZnZOYUNnbWh4MjdTVzBqQlVPZXp2Z00yUTFmdGtvdHAwQmlmRV8waExGMmdHYU9QOHMzdDJOeExRVVhLLVd1TXdacVMtdk16WDZKdk1xek9jelp1SmxUYW1hVUMxTzVFeG9QRHgwM1UxUkFEeDYwaWJjTlNTdTJtaHhsVUNlOWx6T3BVWjBZRFplSlE?oc=5",
-        "source": "rts.ch",
-        "published": "Tue, 07 Jul 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Plongée rare dans les centrales de Fedpol, dont la coopération internationale est menacée par l'initiative de l'UDC",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW00VGo2ZEJJS1hBUHZ2V3J1cWZNVThiZVZCaXpiYkVhMGU5SHNNYTVmMFhQdTlYT0M2cGVBNWFacWVFQVMzd0pjamNKblB1VGt4SjFUOVZNdWdXY3RHNVZVWi14Nlk2SzA0LVloYWNNVmJyd1lmZEZjZ1Bhd0NpYm5BSk52TlhSZ2J2LVVnblFvWnpkaTcxTnQxREc3cjVjT0RuS01DbUFPWnlvejU2UWNzRC0tRU92ckJ6NzJrWjBfdw?oc=5",
-        "source": "rts.ch",
-        "published": "Sun, 24 May 2026 07:00:00 GMT"
-      },
-      {
         "title": "Genève Vision: raconter le monde depuis la Genève internationale et la Suisse",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmM5SVhON25GVC0yTmxyeXRuVF9XZklNYlJhZ0VPS091TGNHd2xzWmF0eV9YeVVkUWNBdjFOSXpZRjM4bGtkNVZjeDJfT0w4cGVXMllBcW1MUHhTZnNoWU5fejUwM3F3RnpHclh4eV9XRk1uQllud1JKRmF4aUp0UEd5N0ZTdERqbG1qdlVsVXNwT2d5enF0eFZpR2oyVGZZOU5WSTRlSXVsSlBBeUF0OGI2ZjlNdU1BMjVBQw?oc=5",
         "source": "rts.ch",
         "published": "Mon, 01 Jan 2024 08:00:00 GMT"
+      },
+      {
+        "title": "La coopération internationale de l’Armée suisse",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cTZDYy1LYlUxZHY5SDhMZzQ2VE1BaEFaY2Y1Z2hReU1rUUtqSXJPX0lFMEVFXzQ0SlZmV0pPekQteEZwcGpvMi12dlZCZi1GNlNlVnIyR2c5TDdBcWpONkx3aldKcndYdV9FdXBsemlzRjBJbnY0Xzg2dXJJSVk?oc=5",
+        "source": "Gruppe Verteidigung",
+        "published": "Tue, 23 Apr 2024 19:52:19 GMT"
       }
     ],
-    "Horlogerie": [],
+    "Horlogerie": [
+      {
+        "title": "Pourquoi le Japon gagne la bataille des montres",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dpNzB5b2NSV0N2VG5hMFNlTDJET0NtU0szanZlaXRGeFVhaC1wbUVOQWRzS0ZtNEFfTVBFYnk1QzBNMzh0a1AzQmVrWjBscDJFcXEzakR2MDVsby01eVhCUGowTjVacTZOVTdjbkZCZ0x4TUJSWXBkODdyZFB6ZDBBbw?oc=5",
+        "source": "PME Magazine",
+        "published": "Tue, 16 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "La longue marche des montres suisses dans la Chine post-luxe",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEtBWEdJb1BvUjdOSDl2NGZPcl9PNm94bmREY1RLM3NlRzEyRnNBQnRiREhwUjVFYm8zYXVGR2xRQWZRaVJELTFrT0Q0SWdDLXNyTHlkVGZfQkp6UDJoRTlqYXdmSHA2cVhfdU8tSWlrbDVNV3gtVWN3Z0V5NWRtNVRSQVU4M0RRZjlsTXRnZGFJM0NMWnlxc2h5VnRNdVRadGpQM2t1eG1aM3RReHk2R0c4MDU?oc=5",
+        "source": "Le Temps",
+        "published": "Fri, 05 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Le Japon à l'offensive d'une horlogerie suisse qui végète",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWnlMZndDaGp5S05Udm1VV3hZZ21qVU0wajNaZmItMmRkUnk4VXVTWC1ONWtzZmM1MnNPbm1aWENtR0pNTkF4alRaNFFYYkNDZHRxWW5qOWJfWm9VdGZZVDRHdmdkTlVzQTAtZ3RnSm1LU21GZFItSU9KaXRKR2huNG1ES0Fab3hsdDAwYkRBNHJyWGZOTnhJS185UQ?oc=5",
+        "source": "Blick",
+        "published": "Sat, 20 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "L’horlogerie en 1927: des changements structurels majeurs",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmYtbjJYdFJGRi1JTVFlN2V5T0JSZnFacTIyVWZPOUZYVXZpdkxueC1UMjdnSFp1SXVUYjB0RS15MVMtUEtQRTZ6QWp3VHd1cWlCak9VNDhWVkRNRGRMUG5VcUtMcUw0SFdnM3d2dVF6Zjl1cnQyNWRBdG1kRDNvcXNQZmliYmRNS0JBWkd4bDEzdVk0LUNSdTY1U0JXdHlmcktQdDlKUU5Fb0xLWldPbDZPaEgtdw?oc=5",
+        "source": "Europastar.ch",
+        "published": "Sun, 08 May 2022 07:00:00 GMT"
+      },
+      {
+        "title": "Étude Deloitte 2025 sur l'industrie horlogère suisse",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWpwbDJhOTl3TFp3LU9pdGRCQl80X1B4QkpRMTdkZS0zQVhwRmw1V3RGNFdfOVNzQXlGV2N6MVVpdXdlN3RXTXpQNW5VcFM0RFloWWwtMWs1RldaME52RVFNZEc1bHpXbTNnUUFTWEJ6SlhuVnYyZ2tJRTNEUnFhVm5tdHdLOXVJUzlDYTZBWXdqLXJ1Vm1RRHVsRQ?oc=5",
+        "source": "Deloitte",
+        "published": "Wed, 08 Oct 2025 07:00:00 GMT"
+      },
+      {
+        "title": "Les 27 marques de montres suisses que vous devez absolument connaître (Rolex, Patek Philippe, F.P. Journe…)",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdtMDNtNnd2Ti1oLXdyRVF5RTB2UElCUTJGWVljR2NvZXltREhNbVZCeGdwSjN3SUtGR2doc2xUemFYV1hKVG5fQzhIdG1yemF0SGRJSWNRUjlONnhjdUgwdGVudXU4Mlp4b1Z2RnhlSk84b1pXVmV0a0gxc3ZvQ3d2UTZPbnBJQUpJVUVacHBMdEhhVU1pdQ?oc=5",
+        "source": "GQ France",
+        "published": "Tue, 13 Jan 2026 08:00:00 GMT"
+      },
+      {
+        "title": "LA SWATCH, ÉTERNELLE INNOVATION DE RUPTURE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1Q0eE1IX0M2d1d2OXRtWkx6WWFHbmVHdmxNcG02SDd0VVB1RTMwWTctZW9iSExlRWJ3MHRvVmpzdkY4X0tBVUthZnJ3ejV1OWNrMWZVejhaT19nS0NMcF9sX0VlXzRObWQtd3UwVUcwRmNIcnBaamFXc2RlbWZINWln?oc=5",
+        "source": "Europastar.ch",
+        "published": "Thu, 08 Jul 2021 02:25:00 GMT"
+      },
+      {
+        "title": "Citizen : Histoire complète de la marque et innovations",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUElCTzBFZDFPa0ZoNW00bThmam1BZmdBdGJrUzlmU2dGS1A5RTlDNWYyX3ZqU2NjY090VHNpVzF4QlN5MWNLM215NmZERXpvNXVYU3RlWFkya0hBZUxpR0hZYW5UNkNKVDNiSW5LdXRvaUxEWDNqZmpGRE16WGdydlkwekU5akxrX1BUc3I1SlFmVy1QbHVfZVhhU1NCWjQtNk5mcnBsYUhBWEFmaGlFS0tQRV80SmtDUzFmNVJLRENmX1hXOE8yV3RVdHJ4MmxfbWM4a2NBdnp4SkVmX1ZqLVhPVjdpVEVq?oc=5",
+        "source": "The Watch Observer",
+        "published": "Thu, 17 Oct 2024 07:00:00 GMT"
+      }
+    ],
     "Sciences & Technologies": [
       {
         "title": "La Chine relance son avion spatial mystérieux, et personne ne sait pourquoi",
@@ -72,10 +121,10 @@
         "published": "Tue, 03 Feb 2026 08:00:00 GMT"
       },
       {
-        "title": "Dassault confirme que son avion spatial sera bien pensé pour le vol habité",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQllVWVlSZklVd1RhSDFTbUJJTUQ2eW1IZVZyb1FBSmF1dnZDRDBaX1FZcHVZVTExcHBCeUNXejdRLXRXOVRLQ19IdlBnaHA0aFJKclpsalI0TzJmZVVqN1lLUWM2Szdzc0RRSzZsSE85WDJPUFNwV1FWQ3RCNmpjUFBmanJoSG5PSV9abEFzN0lyMHBvUlBfemt2V3cxcDBpM2ZjVEhrM0ozVUQyRmg2MEt1VF84cElzOWYtbFR1aXp0cnljM1pNTnB0Y00?oc=5",
+        "title": "Depuis 2022, un avion spatial militaire chinois a largué au moins 9 objets en orbite : les États-Unis en dévoilent une première image",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcng0SmdDMHBtdGQxenE5OWlkSkNrZzVEb1k5Zi1rOU5acjRKV2pvUlNCVWU2cEpIc0dTNjlxX0NmX1VfRVIwaGU3SlJybkxDVFdDYmdvc0Q0MGxuNV9HNnU4X3pXY1JDVnhiWU9YX1Nra1BZMWlZTGN4T1hGYTkzTnNXTnhLejhCVE83NUI5a3lENWE0aF9feW9JcEVqaHk5ckQteWFrSjktQlNxOWFhdnMzQWR3V2xLZWRzR0UtUnpBU3MyUE5od0JkSjZPSEFvZmFwOENUc25HNDM5TVNPc2JxU2drWTJsYkpnSVFvSVR3Rm5wTTVTSHFsYVphYmhOM2VNZDFZYnltUTRGSEpfNnJMS29XTUk?oc=5",
         "source": "Science et vie",
-        "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+        "published": "Wed, 04 Nov 2026 08:00:00 GMT"
       },
       {
         "title": "La guerre se prépare en orbite : l’US Space Force dévoile le premier « porte-avions » spatial !",
@@ -84,10 +133,10 @@
         "published": "Thu, 27 Mar 2025 07:00:00 GMT"
       },
       {
-        "title": "Depuis 2022, un avion spatial militaire chinois a largué au moins 9 objets en orbite : les États-Unis en dévoilent une première image",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcng0SmdDMHBtdGQxenE5OWlkSkNrZzVEb1k5Zi1rOU5acjRKV2pvUlNCVWU2cEpIc0dTNjlxX0NmX1VfRVIwaGU3SlJybkxDVFdDYmdvc0Q0MGxuNV9HNnU4X3pXY1JDVnhiWU9YX1Nra1BZMWlZTGN4T1hGYTkzTnNXTnhLejhCVE83NUI5a3lENWE0aF9feW9JcEVqaHk5ckQteWFrSjktQlNxOWFhdnMzQWR3V2xLZWRzR0UtUnpBU3MyUE5od0JkSjZPSEFvZmFwOENUc25HNDM5TVNPc2JxU2drWTJsYkpnSVFvSVR3Rm5wTTVTSHFsYVphYmhOM2VNZDFZYnltUTRGSEpfNnJMS29XTUk?oc=5",
+        "title": "Dassault confirme que son avion spatial sera bien pensé pour le vol habité",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQllVWVlSZklVd1RhSDFTbUJJTUQ2eW1IZVZyb1FBSmF1dnZDRDBaX1FZcHVZVTExcHBCeUNXejdRLXRXOVRLQ19IdlBnaHA0aFJKclpsalI0TzJmZVVqN1lLUWM2Szdzc0RRSzZsSE85WDJPUFNwV1FWQ3RCNmpjUFBmanJoSG5PSV9abEFzN0lyMHBvUlBfemt2V3cxcDBpM2ZjVEhrM0ozVUQyRmg2MEt1VF84cElzOWYtbFR1aXp0cnljM1pNTnB0Y00?oc=5",
         "source": "Science et vie",
-        "published": "Wed, 04 Nov 2026 08:00:00 GMT"
+        "published": "Mon, 21 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "L’avion spatial top secret de la Chine débute une troisième mission dans l’espace",
@@ -153,7 +202,5 @@
       }
     ]
   },
-  "errors": {
-    "Horlogerie": "HTTP Error 429: Too Many Requests"
-  }
+  "errors": {}
 }
